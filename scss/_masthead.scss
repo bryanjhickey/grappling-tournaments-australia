@@ -1,3 +1,30 @@
+body {
+	background: #fff url('/assets/img/whitenoise.png') repeat;
+}
+
+#masthead {
+	padding: 2em 0;
+	text-align: center;
+}
+nav.top-bar {
+	font-family:"Trajan W01 Regular";
+	text-transform: uppercase;
+	.top-bar-section {
+		width: 65%;
+		margin: 0 auto;
+		ul {
+			background: transparent;
+		}
+	}
+}
+
+.dropdown {
+			li {
+				label {
+					background: transparent;
+				}
+			}
+		}
 .header-be-gone {
 	border: 0; 
 	clip: rect(0 0 0 0); 
@@ -7,4 +34,68 @@
 	padding: 0; 
 	position: absolute; 
 	width: 1px;
+}
+
+#officialRegister {
+	height: 464px;
+	background: #000 url('/assets/img/sign-up-banner-big.jpg') center no-repeat;
+	text-align: center;
+	padding: 5em 0;
+	@media only screen and (max-width : 480px) {
+			background: #000 url('/assets/img/sign-up-banner-mobile.jpg') center no-repeat;
+	}
+	h2, h5 { 
+		color: #fff;
+		text-shadow: 5px 5px 9px rgba(0,0,0,0.6);
+	}
+	h2 {
+		font-size: emCalc(60px);
+		line-height: 1;
+		margin-bottom: 0;
+		letter-spacing: -0.03em;
+		@media only screen and (max-width : 480px) {
+			font-size: emCalc(32px);
+		}
+	}
+	h5 {
+		margin-top: 0;
+		line-height: 1;
+		font-size: emCalc(34px);
+		@media only screen and (max-width : 480px) {
+			font-size: emCalc(18px);
+		}
+	}
+	.button {
+		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+		color: #fff;
+		text-shadow: -1px -1px 2px rgb(34, 34, 34);
+	}
+}
+
+#landingIntroText {
+	padding-top: 5em;
+	padding-bottom: 5em;
+	font-size: emCalc(18px);
+}
+
+footer {
+	padding: 5em 0;
+	margin-top: 145px;
+	background: $primary-color;
+	border-top: 4px solid #222;
+	#takedown {
+		img {
+			float: right;
+			margin-top: -225px;
+			height: 180px;
+		}
+	}
+	a {
+		color: $body-font-color;
+		border-bottom: 1px dotted $body-font-color;
+		&:hover {
+			color: $body-font-color;
+			border-bottom: 1px solid $body-font-color;
+		}
+	}
 }

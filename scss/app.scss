@@ -1,6 +1,3 @@
-// Our Own Styles
-@import "_masthead";
-
 // Define foundation  variables
 @import "foundation/_variables";
 
@@ -40,3 +37,7 @@
 @import "foundation/components/thumbs";
 @import "foundation/components/tooltips";
 @import "foundation/components/dropdown";
+
+// Our Own Styles
+@import "_fonts";
+@import "_masthead";

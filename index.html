@@ -10,19 +10,95 @@
   <link rel="stylesheet" href="css/normalize.css" />
   <!-- If you are using CSS version, add this -->
   <link rel="stylesheet" href="css/app.css" />
-  <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/e538efe8-6719-45cf-8962-ed49d37026cc.css">
 
   <script src="js/vendor/custom.modernizr.js"></script>
 
 </head>
 <body>
-	<div class="row">
-		<div class="large-12">
-	 	 	<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
-	 	 	<a href="/"><img src="assets/img/gta-logo-wreath.png" alt=""></a>
-	  	</div>
+
+	<header id="masthead" class="row">
+		<div class="small-12 large-centered columns">
+			<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
+			<a href="/"><img class-"" src="assets/img/gta-logo-wreath.png" alt=""></a>
+		</div>
+	</header>
+	
+	<div class="contain-to-grid sticky">
+		<nav class="top-bar">
+			<ul class="title-area show-for-small">
+				<!-- Title Area -->
+				<li class="name"><h1><a href="#">GTA</a></h1></li>
+				<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+				<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+			</ul>
+
+	  		<section class="top-bar-section">
+			<!-- Left Nav Section -->
+				<ul>
+					<li class="active"><a href="#">Home</a></li>
+					<li class="has-dropdown"><a href="#">Rules</a>
+						<ul class="dropdown">
+							<li><a href="#">Rules</a></li>
+							<li><a href="#">Age Groups</a></li>
+							<li><a href="#">Time Limits</a></li>
+							<li><a href="#">Weight Catagories</a></li>
+							<li><a href="#">Uniform Requirements</a></li>
+							<li><a href="#">Terms of Entry</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Prizes</a></li>
+					<li><a href="#">Sponsors</a></li>
+					<li class="has-dropdown"><a href="#">Past Events</a>
+						<ul class="dropdown">
+							<li><a href="#">2013 No-Gi</a></li>
+							<li><a href="#">2012 Gi</a></li>
+							<li><a href="#">2011</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</section>
+		</nav>
 	</div>
 
+	<div id="officialRegister">
+		<div class="row">
+			<div class="small-12 large-centered columns">
+				<h2>OFFICIAL ANNOUNCEMENTS</h2>
+				<h5 class="subheader">GET THE LATEST NEWS ON OUR COMPETITIONS</h5>
+				<a href="#" class="button medium radius">LET'S DO IT</a>
+			</div>
+		</div>
+	</div>
+		
+	<div class="row">
+		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
+			<p>Grappling Tournaments Australia runs the best national competitions in the Asia-Pacific Region. We run high-stakes competitions drawing the best grapplers and winning the best prizes that will see you competing on the world stage.</p>
+			<p>Most important of all is you – the competitor. We run all of our competitions to promote a good time on and off the mat for all who compete. We reward as many victors as possible with the chance to take their place among the world’s finest grapplers.</p>
+			<p>For Grapplers. By Grapplers.</p>
+		</div>
+	</div>
+
+	<footer>
+		<div class="row">
+			<div id="takedown"><img src="/assets/img/footer.png" alt=""></div>
+			<div class="large-8 column">
+				<p><b>Grappling Tournaments Australia.</b> Copyright &copy; 2013</p>
+			</div>
+			<div class="large-4 column"><a href="#">info@grapplingtournaments.com.au</a></div>
+		</div>
+	</footer>
+
+<script type="text/javascript">
+var MTIProjectId='e538efe8-6719-45cf-8962-ed49d37026cc';
+ (function() {
+		var mtiTracking = document.createElement('script');
+		mtiTracking.type='text/javascript';
+		mtiTracking.async='true';
+		mtiTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.com/t/trackingCode.js';
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+   })();
+</script>		
   <script>
   document.write('<script src=' +
   ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
