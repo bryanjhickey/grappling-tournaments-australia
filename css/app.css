@@ -6362,7 +6362,7 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
 /* line 55, ../scss/_masthead.scss */
 #officialRegister {
   height: 464px;
-  background: black url("/assets/img/sign-up-banner-big.jpg") center no-repeat;
+  background: black url("../assets/img/sign-up-banner-big.jpg") center no-repeat;
   text-align: center;
   padding: 6em 0;
 }
