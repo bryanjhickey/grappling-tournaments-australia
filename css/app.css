@@ -809,7 +809,7 @@ th.hide-for-xlarge {
   }
 }
 /* Large Displays: 1280px - 1440px */
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 1060px) {
   /* line 126, ../scss/foundation/components/_visibility.scss */
   .show-for-large,
   .show-for-large-up {
@@ -6317,7 +6317,7 @@ nav.top-bar .top-bar-section {
   width: 65%;
   margin: 0 auto;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
   /* line 12, ../scss/_masthead.scss */
   nav.top-bar .top-bar-section {
     width: 100%;
