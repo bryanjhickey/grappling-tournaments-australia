@@ -4169,7 +4169,7 @@ form.custom .custom.disabled {
 
 /* line 344, ../scss/foundation/components/_top-bar.scss */
 .top-bar-js-breakpoint {
-  width: 58.75em !important;
+  width: 66.25em !important;
   visibility: hidden;
 }
 
@@ -4178,7 +4178,7 @@ form.custom .custom.disabled {
   display: block;
 }
 
-@media only screen and (min-width: 58.75em) {
+@media only screen and (min-width: 66.25em) {
   /* line 353, ../scss/foundation/components/_top-bar.scss */
   .top-bar {
     background: #111111;
