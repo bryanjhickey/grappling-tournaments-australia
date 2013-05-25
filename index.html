@@ -15,6 +15,16 @@
 
 </head>
 <body>
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=462017593880424";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
 
 	<header id="masthead" class="row">
 		<div class="small-12 large-centered columns">
@@ -73,19 +83,38 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia runs the best national competitions in the Asia-Pacific Region. We run high-stakes competitions drawing the best grapplers and winning the best prizes that will see you competing on the world stage.</p>
-			<p>Most important of all is you – the competitor. We run all of our competitions to promote a good time on and off the mat for all who compete. We reward as many victors as possible with the chance to take their place among the world’s finest grapplers.</p>
-			<p>For Grapplers. By Grapplers.</p>
+			<p>Grappling Tournaments Australia organises the best competitions in the Asia-Pacific Region. We run high-stakes competitions, drawing the best grapplers and offering the best prizes that will see you competing on the world stage.</p>
+			<p>Most important of all is you – the competitor. We strive to make all of our competitions great events for you and your teammates. On and off the mat, we aim to demonstrate the very best in grappling culture.</p>
+			<p>We reward as many victors as possible with their chance to take their place among the world’s finest grapplers.</p>
+			<p class="right">&ndash; For Grapplers. By Grapplers.</p>
 		</div>
 	</div>
 
 	<footer>
 		<div class="row">
-			<div id="takedown"><img src="/assets/img/footer.png" alt=""></div>
+			<div id="takedown" class="small-12 large-10 large-centered columns"><img src="/assets/img/footer.png" alt=""></div>
+		</div>
+		
+		<div class="row">
+			<div class="small-12 large-12 columns">
+				<h3 id="socialBanner">We Are One.</h3>
+				<div class="fb-facepile" data-href="https://www.facebook.com/grapplingtournaments.com.au" data-action="like" data-size="large" data-max-rows="4" data-width="1000"></div>
+				<h3 id="socialAction">Join Forces Today</h3>
+				<div class="row">
+					<div class="small-6 large-2 small-centered large-centered columns">
+						<div class="fb-like" data-href="https://www.facebook.com/grapplingtournaments.com.au" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false" data-font="verdana"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footerLegal" class="row">
+			<hr>
 			<div class="large-8 column">
 				<p><b>Grappling Tournaments Australia.</b> Copyright &copy; 2013</p>
 			</div>
-			<div class="large-4 column"><a href="#">info@grapplingtournaments.com.au</a></div>
+			<div class="large-4 column">
+				<a href="#">info@grapplingtournaments.com.au</a>
+			</div>
 		</div>
 	</footer>
 

@@ -3,7 +3,7 @@ body {
 }
 
 #masthead {
-	padding: 2em 0;
+	padding: 3em 0;
 	text-align: center;
 }
 nav.top-bar {
@@ -12,19 +12,35 @@ nav.top-bar {
 	.top-bar-section {
 		width: 65%;
 		margin: 0 auto;
+		@media only screen and (max-width : 480px) {
+			width: 100%;
+		}
 		ul {
 			background: transparent;
-		}
+			.dropdown {
+				li {
+					label {
+						background: transparent;
+					}
+				}
+				li.title {
+					background: $topbar-dropdown-link-bg;
+					color: $primary-color;
+
+					h1, h2, h3, h4, h5, h6 {
+						text-transform: uppercase;
+						a {
+							font-weight: bold;
+							font-size: emCalc(14px);
+							color: $primary-color;
+						}
+					}
+				}
+			}
+		}	
 	}
 }
 
-.dropdown {
-			li {
-				label {
-					background: transparent;
-				}
-			}
-		}
 .header-be-gone {
 	border: 0; 
 	clip: rect(0 0 0 0); 
@@ -40,7 +56,7 @@ nav.top-bar {
 	height: 464px;
 	background: #000 url('/assets/img/sign-up-banner-big.jpg') center no-repeat;
 	text-align: center;
-	padding: 5em 0;
+	padding: 6em 0;
 	@media only screen and (max-width : 480px) {
 			background: #000 url('/assets/img/sign-up-banner-mobile.jpg') center no-repeat;
 	}
@@ -73,20 +89,21 @@ nav.top-bar {
 }
 
 #landingIntroText {
-	padding-top: 5em;
-	padding-bottom: 5em;
+	padding-top: 3em;
+	padding-bottom: 3em;
 	font-size: emCalc(18px);
 }
 
 footer {
-	padding: 5em 0;
+	padding-top: 3em;
+	padding-bottom: 3em;
 	margin-top: 145px;
 	background: $primary-color;
 	border-top: 4px solid #222;
 	#takedown {
 		img {
 			float: right;
-			margin-top: -225px;
+			margin-top: -190px;
 			height: 180px;
 		}
 	}
@@ -98,4 +115,29 @@ footer {
 			border-bottom: 1px solid $body-font-color;
 		}
 	}
+	#socialBanner {
+		margin: 1em 0;
+		font-family: "Trajan W01 Regular";
+		text-align: center;
+		text-transform: uppercase;
+		border-bottom: 2px $body-font-color solid;
+	}
+	#socialAction {
+		margin-top: 1em;
+		font-family: "Trajan W01 Regular";
+		text-align: center;
+		text-transform: uppercase;
+	}
+	#footerLegal {
+		margin-top: 1em;
+	}
+}
+// #fb-root {
+//   display: none;
+// }
+ 
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important;
+  display: block !important;
 }
