@@ -6298,7 +6298,7 @@ i {
 
 /* line 1, ../scss/_masthead.scss */
 body {
-  background: white url("/assets/img/whitenoise.png") repeat;
+  background: white url("../assets/img/whitenoise.png") repeat;
 }
 
 /* line 5, ../scss/_masthead.scss */
@@ -6369,7 +6369,7 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
 @media only screen and (max-width: 480px) {
   /* line 55, ../scss/_masthead.scss */
   #officialRegister {
-    background: black url("/assets/img/sign-up-banner-mobile.jpg") center no-repeat;
+    background: black url("../assets/img/sign-up-banner-mobile.jpg") center no-repeat;
   }
 }
 /* line 63, ../scss/_masthead.scss */

@@ -1,5 +1,5 @@
 body {
-	background: #fff url('/assets/img/whitenoise.png') repeat;
+	background: #fff url('../assets/img/whitenoise.png') repeat;
 }
 
 #masthead {
@@ -58,7 +58,7 @@ nav.top-bar {
 	text-align: center;
 	padding: 6em 0;
 	@media only screen and (max-width : 480px) {
-			background: #000 url('/assets/img/sign-up-banner-mobile.jpg') center no-repeat;
+			background: #000 url('../assets/img/sign-up-banner-mobile.jpg') center no-repeat;
 	}
 	h2, h5 { 
 		color: #fff;
