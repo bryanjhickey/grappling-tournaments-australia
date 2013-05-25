@@ -90,7 +90,7 @@ $shiny-edge-active-color: rgba(#000, .2);
 // Media Queries
 
 $small-screen: 768px;
-$medium-screen: 1060px;
+$medium-screen: 1024px;
 $large-screen: 1440px;
 
 // $screen: "only screen";
@@ -1223,7 +1223,7 @@ $header-text-rendering: optimizeLegibility;
 // Transitions and breakpoint styles
 
 // $topbar-transition-speed:              300ms;
-$topbar-breakpoint:                    emCalc(1060px); // Change to 9999px for always mobile layout
+$topbar-breakpoint:                    	 $medium-screen; // Change to 9999px for always mobile layout
 // $topbar-media-query:                   "only screen and (min-width:"#{$topbar-breakpoint}")";
 
 // Divider Styles
