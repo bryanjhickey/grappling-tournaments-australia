@@ -809,7 +809,7 @@ th.hide-for-xlarge {
   }
 }
 /* Large Displays: 1280px - 1440px */
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1025px) {
   /* line 126, ../scss/foundation/components/_visibility.scss */
   .show-for-large,
   .show-for-large-up {
@@ -4169,7 +4169,7 @@ form.custom .custom.disabled {
 
 /* line 344, ../scss/foundation/components/_top-bar.scss */
 .top-bar-js-breakpoint {
-  width: 1024px !important;
+  width: 1025px !important;
   visibility: hidden;
 }
 
@@ -4178,7 +4178,7 @@ form.custom .custom.disabled {
   display: block;
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1025px) {
   /* line 353, ../scss/foundation/components/_top-bar.scss */
   .top-bar {
     background: #111111;
