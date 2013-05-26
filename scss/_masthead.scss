@@ -12,8 +12,11 @@ nav.top-bar {
 	.top-bar-section {
 		width: 65%;
 		margin: 0 auto;
-		@media only screen and (max-width : $medium-screen) {
-			width: 70%;
+		@media only screen and (max-width : 982px) {
+			width: 72%;
+		}
+		@media only screen and (max-width : 910px) {
+			width: 83%;
 		}
 		@media only screen and (max-width : $small-screen) {
 			width: 100%;
