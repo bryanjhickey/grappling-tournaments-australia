@@ -6472,9 +6472,20 @@ footer #footerLegal {
   margin-top: 1em;
 }
 
+/* line 142, ../scss/_masthead.scss */
+#fb-root {
+  display: none;
+}
+
 /* To fill the container and nothing else */
-/* line 146, ../scss/_masthead.scss */
+/* line 147, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
+}
+
+/* line 152, ../scss/_masthead.scss */
+.fb-like {
+  width: 140px !important;
+  margin: 0 auto;
 }
