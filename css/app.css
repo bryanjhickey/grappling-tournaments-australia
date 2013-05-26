@@ -6306,60 +6306,64 @@ body {
   padding: 3em 0;
   text-align: center;
 }
+/* line 8, ../scss/_masthead.scss */
+#masthead img {
+  width: 50%;
+}
 
-/* line 9, ../scss/_masthead.scss */
+/* line 12, ../scss/_masthead.scss */
 nav.top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
 }
-/* line 12, ../scss/_masthead.scss */
+/* line 15, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section {
   width: 65%;
   margin: 0 auto;
 }
 @media only screen and (max-width: 982px) {
-  /* line 12, ../scss/_masthead.scss */
+  /* line 15, ../scss/_masthead.scss */
   nav.top-bar .top-bar-section {
     width: 72%;
   }
 }
 @media only screen and (max-width: 910px) {
-  /* line 12, ../scss/_masthead.scss */
+  /* line 15, ../scss/_masthead.scss */
   nav.top-bar .top-bar-section {
     width: 83%;
   }
 }
 @media only screen and (max-width: 768px) {
-  /* line 12, ../scss/_masthead.scss */
+  /* line 15, ../scss/_masthead.scss */
   nav.top-bar .top-bar-section {
     width: 100%;
   }
 }
-/* line 24, ../scss/_masthead.scss */
+/* line 27, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul {
   background: transparent;
 }
-/* line 28, ../scss/_masthead.scss */
+/* line 31, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li label {
   background: transparent;
 }
-/* line 32, ../scss/_masthead.scss */
+/* line 35, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li.title {
   background: #1e1e1e;
   color: #af8d06;
 }
-/* line 36, ../scss/_masthead.scss */
+/* line 39, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li.title h1, nav.top-bar .top-bar-section ul .dropdown li.title h2, nav.top-bar .top-bar-section ul .dropdown li.title h3, nav.top-bar .top-bar-section ul .dropdown li.title h4, nav.top-bar .top-bar-section ul .dropdown li.title h5, nav.top-bar .top-bar-section ul .dropdown li.title h6 {
   text-transform: uppercase;
 }
-/* line 38, ../scss/_masthead.scss */
+/* line 41, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-section ul .dropdown li.title h2 a, nav.top-bar .top-bar-section ul .dropdown li.title h3 a, nav.top-bar .top-bar-section ul .dropdown li.title h4 a, nav.top-bar .top-bar-section ul .dropdown li.title h5 a, nav.top-bar .top-bar-section ul .dropdown li.title h6 a {
   font-weight: bold;
   font-size: 0.875em;
   color: #af8d06;
 }
 
-/* line 50, ../scss/_masthead.scss */
+/* line 53, ../scss/_masthead.scss */
 .header-be-gone {
   border: 0;
   clip: rect(0 0 0 0);
@@ -6371,7 +6375,7 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   width: 1px;
 }
 
-/* line 61, ../scss/_masthead.scss */
+/* line 64, ../scss/_masthead.scss */
 #officialRegister {
   height: 464px;
   background: black url("../assets/img/sign-up-banner-big.jpg") center no-repeat;
@@ -6379,17 +6383,17 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   padding: 6em 0;
 }
 @media only screen and (max-width: 480px) {
-  /* line 61, ../scss/_masthead.scss */
+  /* line 64, ../scss/_masthead.scss */
   #officialRegister {
     background: black url("../assets/img/sign-up-banner-mobile.jpg") center no-repeat;
   }
 }
-/* line 69, ../scss/_masthead.scss */
+/* line 72, ../scss/_masthead.scss */
 #officialRegister h2, #officialRegister h5 {
   color: #fff;
   text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 }
-/* line 73, ../scss/_masthead.scss */
+/* line 76, ../scss/_masthead.scss */
 #officialRegister h2 {
   font-size: 3.75em;
   line-height: 1;
@@ -6397,38 +6401,38 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   letter-spacing: -0.03em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 73, ../scss/_masthead.scss */
+  /* line 76, ../scss/_masthead.scss */
   #officialRegister h2 {
     font-size: 2em;
   }
 }
-/* line 82, ../scss/_masthead.scss */
+/* line 85, ../scss/_masthead.scss */
 #officialRegister h5 {
   margin-top: 0;
   line-height: 1;
   font-size: 2.125em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 82, ../scss/_masthead.scss */
+  /* line 85, ../scss/_masthead.scss */
   #officialRegister h5 {
     font-size: 1.125em;
   }
 }
-/* line 90, ../scss/_masthead.scss */
+/* line 93, ../scss/_masthead.scss */
 #officialRegister .button {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fff;
   text-shadow: -1px -1px 2px #222222;
 }
 
-/* line 97, ../scss/_masthead.scss */
+/* line 100, ../scss/_masthead.scss */
 #landingIntroText {
   padding-top: 3em;
   padding-bottom: 3em;
   font-size: 1.125em;
 }
 
-/* line 103, ../scss/_masthead.scss */
+/* line 106, ../scss/_masthead.scss */
 footer {
   padding-top: 3em;
   padding-bottom: 3em;
@@ -6436,23 +6440,23 @@ footer {
   background: #af8d06;
   border-top: 4px solid #222;
 }
-/* line 110, ../scss/_masthead.scss */
+/* line 113, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 116, ../scss/_masthead.scss */
+/* line 119, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 119, ../scss/_masthead.scss */
+/* line 122, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 124, ../scss/_masthead.scss */
+/* line 127, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6460,31 +6464,31 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 131, ../scss/_masthead.scss */
+/* line 134, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 137, ../scss/_masthead.scss */
+/* line 140, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 142, ../scss/_masthead.scss */
+/* line 145, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 147, ../scss/_masthead.scss */
+/* line 150, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 152, ../scss/_masthead.scss */
+/* line 155, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
