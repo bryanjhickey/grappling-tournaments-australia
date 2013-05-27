@@ -20,10 +20,10 @@
 	<div class="row">
 		<form class="large-9 large-offset-2 columns">
 	  		<div class="row">
-	    		<div class="small-12 large-9">
+	    		<div class="small-11 large-9">
 	      			<div class="row">
 	        			<div class="small-3 columns">
-	          				<label for="contact-name" class="right inline">You Name</label>
+	          				<label for="contact-name" class="right inline">Your Name</label>
 	        			</div>
 	        			<div class="small-9 columns">
 	          				<input type="text" id="contact-name" placeholder="John Smith" required>
@@ -32,7 +32,7 @@
 	    		</div>
 	  		</div>
 	  		<div class="row">
-				<div class="small-12 large-9">
+				<div class="small-11 large-9">
 		      		<div class="row">
 		        		<div class="small-3 columns">
 		          			<label for="contact-email" class="right inline">Your Email</label>
@@ -44,10 +44,10 @@
 		    	</div>
 		    </div>
 		    <div class="row">
-		  		<div class="small-12 large-9">
+		  		<div class="small-11 large-9">
 		      		<div class="row">
 		        		<div class="small-3 columns">
-		          			<label for="contact-number" class="right inline">You Number</label>
+		          			<label for="contact-number" class="right inline">Your Number</label>
 		        		</div>
 		        		<div class="small-9 columns">
 		          			<input type="text" id="contact-number" placeholder="0411333444">
@@ -56,10 +56,10 @@
 		    	</div>
 		    </div>
 		    <div class="row">
-		  		<div class="small-12 large-9">
+		  		<div class="small-11 large-9">
 		      		<div class="row">
 		        		<div class="small-3 columns">
-		          			<label for="contact-message" class="right inline">You Message</label>
+		          			<label for="contact-message" class="right inline">Your Message</label>
 		        		</div>
 		        		<div class="small-9 columns">
 		          			<textarea id="contact-message" rows="10" placeholder="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."></textarea>
@@ -68,7 +68,7 @@
 		    	</div>
 		    </div>
 		    <div class="row">
-		  		<div class="small-12 large-9">
+		  		<div class="small-11 large-9">
 		      		<div class="row">
 		      		<div class="small-3 columns">
 		          			
