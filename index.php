@@ -1,11 +1,11 @@
-<?php include 'snippets/_dochead.php'; ?>
+<?php include '_dochead.php'; ?>
 
 <title>Grappling Tournaments Australia</title>
 
 </head>
 <body>
 	
-	<?php include 'snippets/_masthead.php'; ?>
+	<?php include '_masthead.php'; ?>
 
 	<div id="officialRegister">
 		<div class="row">
@@ -26,7 +26,7 @@
 		</div>
 	</div>
 
-	<?php include 'snippets/_footer.php'; ?>
+	<?php include '_footer.php'; ?>
 
 </body>
 </html>

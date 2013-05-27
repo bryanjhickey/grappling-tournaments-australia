@@ -12,7 +12,7 @@
 	<header id="masthead" class="row">
 		<div class="small-12 large-centered columns">
 			<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
-			<a href="#"><img class-"" src="../assets/img/gta-logo-wreath.png" alt=""></a>
+			<a href="#"><img class-"" src="assets/img/gta-logo-wreath.png" alt=""></a>
 		</div>
 	</header>
 	
@@ -28,7 +28,7 @@
 	  		<section class="top-bar-section">
 			<!-- Left Nav Section -->
 				<ul>
-					<li class="active"><a href="../index.php">Home</a></li>
+					<li class="active"><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a href="#">Rules</a>
 						<ul class="dropdown">
 							<li><a href="#">Rules</a></li>
