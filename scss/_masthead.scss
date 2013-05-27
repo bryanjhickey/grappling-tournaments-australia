@@ -7,7 +7,11 @@ body {
 	text-align: center;
 	img {
 		width: 50%;
+		@media only screen and (max-width : $small-screen) {
+			width: 100%;
+		}
 	}
+
 }
 nav.top-bar {
 	font-family:"Trajan W01 Regular";
@@ -117,29 +121,59 @@ nav.top-bar {
 		.image-wrapper {
 			height: 30em;
 			display: block;
+			text-align: center;
+			@media only screen and (max-width : $small-screen) {
+				height: 100%;
+			}
 			img#paysmartImage {
 				margin-top: 10em;
+				@media only screen and (max-width : $small-screen) {
+					margin-top: 0;
+				}
 			}
 		}
 	}
 	#minorSponsors {
+		h2 {
+			margin: 3em 0; 
+		}
 		padding-bottom: 3em;
+		@media only screen and (max-width : $small-screen) {
+			padding-bottom: 0;
+		}
 		.row {
 			margin-top: 2em;
+			@media only screen and (max-width : $small-screen) {
+				margin-top: 0;
+			}
 		}
 		.image-wrapper {
-			vertical-align: bottom;
 			position: relative;
 			height: 12em;
 			img {
 				position: absolute;
 				bottom: 0;
 				padding: 0 2em;
+				@media only screen and (max-width : $small-screen) {
+					padding: 0 1em;
+				}
 			}
 		}
 	}
 	#sponsorsInterest {
 		margin-bottom: 3em;
+	}
+}
+
+.contact {
+	#textContact {
+		margin-top: 3em;
+	}
+	form {
+		margin-top: 2em;
+		textarea {
+			height: 10em;
+		}
 	}
 }
 

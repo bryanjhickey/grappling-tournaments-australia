@@ -12,7 +12,7 @@
 	<header id="masthead" class="row">
 		<div class="small-12 large-centered columns">
 			<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
-			<a href="#"><img class-"" src="assets/img/gta-logo-wreath.png" alt=""></a>
+			<a href="index.php"><img class-"" src="assets/img/gta-logo-wreath.png" alt=""></a>
 		</div>
 	</header>
 	
@@ -20,7 +20,7 @@
 		<nav class="top-bar">
 			<ul class="title-area show-for-small">
 				<!-- Title Area -->
-				<li class="name"><h1><a href="#">GTA</a></h1></li>
+				<li class="name"><h1><a href="index.php">GTA</a></h1></li>
 				<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
 				<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
 			</ul>
@@ -48,7 +48,7 @@
 							<li><a href="#">2011</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</section>
 		</nav>
