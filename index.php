@@ -1,75 +1,11 @@
-<!DOCTYPE html>
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<?php include 'snippets/_dochead.php'; ?>
 
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width" />
-  <title>Grappling Tournaments Australia</title>
-
-  <link rel="stylesheet" href="css/normalize.css" />
-  <!-- If you are using CSS version, add this -->
-  <link rel="stylesheet" href="css/app.css" />
-
-  <script src="js/vendor/custom.modernizr.js"></script>
+<title>Grappling Tournaments Australia</title>
 
 </head>
 <body>
-	<div id="fb-root"></div>
-	<script>
-		(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=462017593880424";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-	</script>
-
-	<header id="masthead" class="row">
-		<div class="small-12 large-centered columns">
-			<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
-			<a href="#"><img class-"" src="assets/img/gta-logo-wreath.png" alt=""></a>
-		</div>
-	</header>
 	
-	<div class="contain-to-grid sticky">
-		<nav class="top-bar">
-			<ul class="title-area show-for-small">
-				<!-- Title Area -->
-				<li class="name"><h1><a href="#">GTA</a></h1></li>
-				<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-				<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
-			</ul>
-
-	  		<section class="top-bar-section">
-			<!-- Left Nav Section -->
-				<ul>
-					<li class="active"><a href="#">Home</a></li>
-					<li class="has-dropdown"><a href="#">Rules</a>
-						<ul class="dropdown">
-							<li><a href="#">Rules</a></li>
-							<li><a href="#">Age Groups</a></li>
-							<li><a href="#">Time Limits</a></li>
-							<li><a href="#">Weight Catagories</a></li>
-							<li><a href="#">Uniform Requirements</a></li>
-							<li><a href="#">Terms of Entry</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Prizes</a></li>
-					<li><a href="#">Sponsors</a></li>
-					<li class="has-dropdown"><a href="#">Past Events</a>
-						<ul class="dropdown">
-							<li><a href="#">2013 No-Gi</a></li>
-							<li><a href="#">2012 Gi</a></li>
-							<li><a href="#">2011</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-			</section>
-		</nav>
-	</div>
+	<?php include 'snippets/_masthead.php'; ?>
 
 	<div id="officialRegister">
 		<div class="row">
@@ -90,69 +26,7 @@
 		</div>
 	</div>
 
-	<footer>
-		<div class="row">
-			<div id="takedown" class="small-12 large-10 large-centered columns"><img src="assets/img/footer.png" alt=""></div>
-		</div>
-		
-		<div class="row">
-			<div class="small-12 large-12 columns">
-				<h3 id="socialBanner">We Are One.</h3>
-				<div class="row">
-					<div class="small-centered large-centered columns">
-						<iframe class="fb_iframe_widget" src="//www.facebook.com/plugins/facepile.php?href=https%3A%2F%2Fwww.facebook.com%2Fgrapplingtournaments.com.au&amp;action&amp;size=large&amp;max_rows=4&amp;width=2000&amp;show_count=true&amp;colorscheme=light&amp;appId=462017593880424" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-					</div>
-				</div>
-				<h3 id="socialAction">Join Forces Today</h3>
-				<div class="row">
-					<div class="small-centered large-centered columns">
-						<div class="fb-like" data-href="https://www.facebook.com/grapplingtournaments.com.au" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false" data-font="verdana"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div id="footerLegal" class="row">
-			<hr>
-			<div class="large-8 column">
-				<p><b>Grappling Tournaments Australia.</b> Copyright &copy; 2013</p>
-			</div>
-			<div class="large-4 column">
-				<a href="#">info@grapplingtournaments.com.au</a>
-			</div>
-		</div>
-	</footer>
+	<?php include 'snippets/_footer.php'; ?>
 
-<script type="text/javascript">
-var MTIProjectId='e538efe8-6719-45cf-8962-ed49d37026cc';
- (function() {
-		var mtiTracking = document.createElement('script');
-		mtiTracking.type='text/javascript';
-		mtiTracking.async='true';
-		mtiTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.com/t/trackingCode.js';
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
-   })();
-</script>		
-  <script>
-  document.write('<script src=' +
-  ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
-  '.js><\/script>')
-  </script>
-  <script src="js/foundation/foundation.js"></script>
-  <script src="js/foundation/foundation.alerts.js"></script>
-  <script src="js/foundation/foundation.clearing.js"></script>
-  <script src="js/foundation/foundation.cookie.js"></script>
-  <script src="js/foundation/foundation.dropdown.js"></script>
-  <script src="js/foundation/foundation.forms.js"></script>
-  <script src="js/foundation/foundation.joyride.js"></script>
-  <script src="js/foundation/foundation.magellan.js"></script>
-  <script src="js/foundation/foundation.orbit.js"></script>
-  <script src="js/foundation/foundation.placeholder.js"></script>
-  <script src="js/foundation/foundation.reveal.js"></script>
-  <script src="js/foundation/foundation.section.js"></script>
-  <script src="js/foundation/foundation.tooltips.js"></script>
-  <script src="js/foundation/foundation.topbar.js"></script>
-  <script>
-  $(document).foundation();
-  </script>
 </body>
 </html>

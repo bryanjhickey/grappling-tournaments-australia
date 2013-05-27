@@ -103,6 +103,46 @@ nav.top-bar {
 	font-size: emCalc(18px);
 }
 
+#sponsors {
+	h2 {
+		text-transform: uppercase;
+		font-family: "Trajan W01 Regular";
+		text-align: center;
+	}
+	#sponsorsIntro {
+		padding-top: 3em;
+		padding-bottom: 3em;
+	}
+	#majorSponsors {
+		.image-wrapper {
+			height: 30em;
+			display: block;
+			img#paysmartImage {
+				margin-top: 10em;
+			}
+		}
+	}
+	#minorSponsors {
+		padding-bottom: 3em;
+		.row {
+			margin-top: 2em;
+		}
+		.image-wrapper {
+			vertical-align: bottom;
+			position: relative;
+			height: 12em;
+			img {
+				position: absolute;
+				bottom: 0;
+				padding: 0 2em;
+			}
+		}
+	}
+	#sponsorsInterest {
+		margin-bottom: 3em;
+	}
+}
+
 footer {
 	padding-top: 3em;
 	padding-bottom: 3em;
