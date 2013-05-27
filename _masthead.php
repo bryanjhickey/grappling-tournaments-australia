@@ -31,10 +31,10 @@
 					<li class="active"><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a href="#">Rules</a>
 						<ul class="dropdown">
-							<li><a href="#">Rules</a></li>
+							<li><a href="rules.php">Rules</a></li>
 							<li><a href="#">Age Groups</a></li>
 							<li><a href="#">Time Limits</a></li>
-							<li><a href="#">Weight Catagories</a></li>
+							<li><a href="weight-classes.php">Weight Classes</a></li>
 							<li><a href="#">Uniform Requirements</a></li>
 							<li><a href="#">Terms of Entry</a></li>
 						</ul>
