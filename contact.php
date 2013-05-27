@@ -10,7 +10,7 @@
 <div class="contact">
 
 	<div id="textContact" class="row">
-		<div class="small-12 large-10 large-offset-1 text-content columns">
+		<div class="small-11 small-centered large-10 large-offset-1 text-content columns">
 			<p>Have a question? Got some feedback? Make contact with the team that bring you the best grappling competitions in the region.</p>
 			<p> By grapplers. For grapplers.</p>
 			<hr>
