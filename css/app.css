@@ -1591,13 +1591,13 @@ td {
 /* Default Link Styles */
 /* line 150, ../scss/foundation/components/_type.scss */
 a {
-  color: #af8d06;
+  color: #c38930;
   text-decoration: none;
   line-height: inherit;
 }
 /* line 156, ../scss/foundation/components/_type.scss */
 a:hover, a:focus {
-  color: #967905;
+  color: #af7b2b;
 }
 /* line 158, ../scss/foundation/components/_type.scss */
 a img {
@@ -1996,13 +1996,13 @@ button, .button {
   padding-bottom: 0.8125em;
   padding-left: 1.5em;
   font-size: 1em;
-  background-color: #af8d06;
-  border-color: #7e6504;
+  background-color: #c38930;
+  border-color: #9a6c26;
   color: white;
 }
 /* line 121, ../scss/foundation/components/_buttons.scss */
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #7e6504;
+  background-color: #9a6c26;
 }
 /* line 132, ../scss/foundation/components/_buttons.scss */
 button:hover, button:focus, .button:hover, .button:focus {
@@ -2092,8 +2092,8 @@ button.right-align, .button.right-align {
 }
 /* line 187, ../scss/foundation/components/_buttons.scss */
 button.disabled, button[disabled], .button.disabled, .button[disabled] {
-  background-color: #af8d06;
-  border-color: #7e6504;
+  background-color: #c38930;
+  border-color: #9a6c26;
   color: white;
   cursor: default;
   opacity: 0.6;
@@ -2102,7 +2102,7 @@ button.disabled, button[disabled], .button.disabled, .button[disabled] {
 }
 /* line 121, ../scss/foundation/components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #7e6504;
+  background-color: #9a6c26;
 }
 /* line 132, ../scss/foundation/components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
@@ -2110,7 +2110,7 @@ button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[dis
 }
 /* line 145, ../scss/foundation/components/_buttons.scss */
 button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
-  background-color: #af8d06;
+  background-color: #c38930;
 }
 /* line 188, ../scss/foundation/components/_buttons.scss */
 button.disabled.secondary, button[disabled].secondary, .button.disabled.secondary, .button[disabled].secondary {
@@ -3106,7 +3106,7 @@ form.custom .custom.disabled {
 }
 /* line 79, ../scss/foundation/components/_split-buttons.scss */
 .split.button span {
-  border-left-color: #655103;
+  border-left-color: #865e21;
 }
 /* line 116, ../scss/foundation/components/_split-buttons.scss */
 .split.button span {
@@ -4063,12 +4063,12 @@ form.custom .custom.disabled {
 }
 /* line 249, ../scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button {
-  background: #af8d06;
+  background: #c38930;
   font-size: 0.8125em;
 }
 /* line 252, ../scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button:hover {
-  background: #7e6504;
+  background: #9a6c26;
 }
 /* line 256, ../scss/foundation/components/_top-bar.scss */
 .top-bar-section ul li > a.button.secondary {
@@ -5179,8 +5179,8 @@ form.custom .custom.disabled {
   position: relative;
   padding: 0.6875em 1.3125em 0.75em 0.6875em;
   font-size: 0.875em;
-  background-color: #af8d06;
-  border-color: #7e6504;
+  background-color: #c38930;
+  border-color: #9a6c26;
   color: white;
 }
 /* line 97, ../scss/foundation/components/_alert-boxes.scss */
@@ -5248,7 +5248,7 @@ form.custom .custom.disabled {
   float: left;
   font-size: 0.6875em;
   text-transform: uppercase;
-  color: #af8d06;
+  color: #c38930;
 }
 /* line 61, ../scss/foundation/components/_breadcrumbs.scss */
 .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
@@ -5258,7 +5258,7 @@ form.custom .custom.disabled {
 .breadcrumbs > * a,
 .breadcrumbs > * span {
   text-transform: uppercase;
-  color: #af8d06;
+  color: #c38930;
 }
 /* line 70, ../scss/foundation/components/_breadcrumbs.scss */
 .breadcrumbs > *.current {
@@ -5332,7 +5332,7 @@ kbd {
   position: relative;
   padding: 0.1875em 0.625em 0.25em;
   font-size: 0.875em;
-  background-color: #af8d06;
+  background-color: #c38930;
   color: white;
 }
 /* line 77, ../scss/foundation/components/_labels.scss */
@@ -5421,14 +5421,14 @@ kbd {
 }
 /* line 70, ../scss/foundation/components/_pagination.scss */
 .pagination li.current a {
-  background: #af8d06;
+  background: #c38930;
   color: white;
   font-weight: bold;
   cursor: default;
 }
 /* line 77, ../scss/foundation/components/_pagination.scss */
 .pagination li.current a:hover, .pagination li.current a:focus {
-  background: #af8d06;
+  background: #c38930;
 }
 
 /* line 83, ../scss/foundation/components/_pagination.scss */
@@ -5476,10 +5476,10 @@ kbd {
 .panel.callout {
   border-style: solid;
   border-width: 1px;
-  border-color: #7e6504;
+  border-color: #9a6c26;
   margin-bottom: 1.25em;
   padding: 1.25em;
-  background: #af8d06;
+  background: #c38930;
   -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 }
@@ -5579,7 +5579,7 @@ kbd {
 }
 /* line 54, ../scss/foundation/components/_progress-bars.scss */
 .progress .meter {
-  background: #af8d06;
+  background: #c38930;
   height: 100%;
   display: block;
 }
@@ -5639,7 +5639,7 @@ kbd {
 /* line 43, ../scss/foundation/components/_side-nav.scss */
 .side-nav li a {
   display: block;
-  color: #af8d06;
+  color: #c38930;
 }
 /* line 48, ../scss/foundation/components/_side-nav.scss */
 .side-nav li.active > a:first-child {
@@ -5688,7 +5688,7 @@ kbd {
   -webkit-border-radius: 1000px;
   border-radius: 1000px;
   font-weight: bold;
-  background: #af8d06;
+  background: #c38930;
   padding: 0.1875em 0.5625em;
   cursor: default;
   color: white;
@@ -6001,8 +6001,8 @@ table tfoot tr td {
 }
 /* line 32, ../scss/foundation/components/_thumbs.scss */
 .th:hover, .th:focus {
-  -webkit-box-shadow: 0 0 6px 1px rgba(175, 141, 6, 0.5);
-  box-shadow: 0 0 6px 1px rgba(175, 141, 6, 0.5);
+  -webkit-box-shadow: 0 0 6px 1px rgba(195, 137, 48, 0.5);
+  box-shadow: 0 0 6px 1px rgba(195, 137, 48, 0.5);
 }
 /* line 49, ../scss/foundation/components/_thumbs.scss */
 .th.radius {
@@ -6025,8 +6025,8 @@ a.th {
 }
 /* line 36, ../scss/foundation/components/_tooltips.scss */
 .has-tip:hover, .has-tip:focus {
-  border-bottom: dotted 1px #4c3e03;
-  color: #af8d06;
+  border-bottom: dotted 1px #714f1c;
+  color: #c38930;
 }
 /* line 42, ../scss/foundation/components/_tooltips.scss */
 .has-tip.tip-left, .has-tip.tip-right {
@@ -6063,8 +6063,8 @@ a.th {
 }
 /* line 71, ../scss/foundation/components/_tooltips.scss */
 .tooltip.opened {
-  color: #af8d06 !important;
-  border-bottom: dotted 1px #4c3e03 !important;
+  color: #c38930 !important;
+  border-bottom: dotted 1px #714f1c !important;
 }
 
 /* line 77, ../scss/foundation/components/_tooltips.scss */
@@ -6358,7 +6358,7 @@ nav.top-bar .top-bar-section ul .dropdown li label {
 /* line 39, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li.title {
   background: #1e1e1e;
-  color: #af8d06;
+  color: #c38930;
 }
 /* line 43, ../scss/_masthead.scss */
 nav.top-bar .top-bar-section ul .dropdown li.title h1, nav.top-bar .top-bar-section ul .dropdown li.title h2, nav.top-bar .top-bar-section ul .dropdown li.title h3, nav.top-bar .top-bar-section ul .dropdown li.title h4, nav.top-bar .top-bar-section ul .dropdown li.title h5, nav.top-bar .top-bar-section ul .dropdown li.title h6 {
@@ -6368,7 +6368,7 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1, nav.top-bar .top-bar-sect
 nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-section ul .dropdown li.title h2 a, nav.top-bar .top-bar-section ul .dropdown li.title h3 a, nav.top-bar .top-bar-section ul .dropdown li.title h4 a, nav.top-bar .top-bar-section ul .dropdown li.title h5 a, nav.top-bar .top-bar-section ul .dropdown li.title h6 a {
   font-weight: bold;
   font-size: 0.875em;
-  color: #af8d06;
+  color: #c38930;
 }
 
 /* line 57, ../scss/_masthead.scss */
@@ -6611,7 +6611,7 @@ footer {
   padding-top: 3em;
   padding-bottom: 3em;
   margin-top: 145px;
-  background: #af8d06;
+  background: #c38930;
   border-top: 4px solid #222;
 }
 /* line 248, ../scss/_masthead.scss */
