@@ -13,10 +13,15 @@ body {
 	}
 
 }
+
+
 .contain-to-grid {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
+		  @media #{$topbar-media-query} {
+		  	max-width: 46%;
+		  }
 		.top-bar-section {
 			width: 65%;
 			margin: 0 auto;
