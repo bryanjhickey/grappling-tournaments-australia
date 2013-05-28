@@ -19,24 +19,24 @@ body {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
-		max-width: 570px;
+		max-width: 580px;
 		margin: 0 auto;
 		  @media #{$topbar-media-query} {
-		  	max-width: 570px;
+		  	max-width: 580px;
 			margin: 0 auto;
 		  }
 		.top-bar-section {
 			width: 100%;
 			margin: 0 auto;
-			// @media only screen and (max-width : 982px) {
-			// 	width: 72%;
-			// }
-			// @media only screen and (max-width : 910px) {
-			// 	width: 83%;
-			// }
-			// @media only screen and (max-width : $small-screen) {
-			// 	width: 100%;
-			// }
+			@media only screen and (max-width : 982px) {
+				width: 72%;
+			}
+			@media only screen and (max-width : 910px) {
+				width: 83%;
+			}
+			@media only screen and (max-width : $small-screen) {
+				width: 100%;
+			}
 			ul {
 				background: transparent;
 				.dropdown {

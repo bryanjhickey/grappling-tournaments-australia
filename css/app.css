@@ -6323,13 +6323,13 @@ body {
 .contain-to-grid .top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
-  max-width: 570px;
+  max-width: 580px;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
   /* line 19, ../scss/_masthead.scss */
   .contain-to-grid .top-bar {
-    max-width: 570px;
+    max-width: 580px;
     margin: 0 auto;
   }
 }
@@ -6337,6 +6337,24 @@ body {
 .contain-to-grid .top-bar .top-bar-section {
   width: 100%;
   margin: 0 auto;
+}
+@media only screen and (max-width: 982px) {
+  /* line 28, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
+    width: 72%;
+  }
+}
+@media only screen and (max-width: 910px) {
+  /* line 28, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
+    width: 83%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* line 28, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
+    width: 100%;
+  }
 }
 /* line 40, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul {
