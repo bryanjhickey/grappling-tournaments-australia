@@ -21,11 +21,15 @@
 		</div>
 		<div id="footerLegal" class="row">
 			<hr>
-			<div class="large-8 column">
-				<p><b>Grappling Tournaments Australia.</b> Copyright &copy; 2013</p>
+			<div id="leftFooter" class="large-7 columns">
+				<div class="inline" id="footerEmail"><a href="#">info@grapplingtournaments.com.au</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<div class="inline" id="footerAddress">555 Victoria Street, Abbotsford, VIC. 3121</div>
 			</div>
-			<div class="large-4 column">
-				<a href="#">info@grapplingtournaments.com.au</a>
+			<div  id="rightFooter" class="large-5 columns">
+				<div class="inline home-link"><a href="index.php">Home</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<div class="inline privacy-link"><a href="#">Privacy Policy</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<div class="inline site-credits"><a href="">Site Credits</a></div>&nbsp;&nbsp;|&nbsp;&nbsp;
+				<div class="inline copyright-notice">&copy; 2013 GTA</div>
 			</div>
 		</div>
 	</footer>

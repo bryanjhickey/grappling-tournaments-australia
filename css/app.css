@@ -6614,23 +6614,36 @@ footer {
   background: #af8d06;
   border-top: 4px solid #222;
 }
-/* line 249, ../scss/_masthead.scss */
+/* line 248, ../scss/_masthead.scss */
+footer #leftFooter {
+  text-align: left;
+}
+/* line 251, ../scss/_masthead.scss */
+footer #rightFooter {
+  text-align: right;
+}
+/* line 254, ../scss/_masthead.scss */
+footer .inline {
+  display: inline-block;
+  font-size: 0.875em;
+}
+/* line 259, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 255, ../scss/_masthead.scss */
+/* line 265, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 258, ../scss/_masthead.scss */
+/* line 268, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 263, ../scss/_masthead.scss */
+/* line 273, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6638,31 +6651,31 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 270, ../scss/_masthead.scss */
+/* line 280, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 276, ../scss/_masthead.scss */
+/* line 286, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 281, ../scss/_masthead.scss */
+/* line 291, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 286, ../scss/_masthead.scss */
+/* line 296, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 291, ../scss/_masthead.scss */
+/* line 301, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;

@@ -245,6 +245,16 @@ footer {
 	margin-top: 145px;
 	background: $primary-color;
 	border-top: 4px solid #222;
+	#leftFooter {
+		text-align: left;
+	}
+	#rightFooter {
+		text-align: right;
+	}
+	.inline {
+		display: inline-block;
+		font-size: emCalc(14px);
+	}
 	#takedown {
 		img {
 			float: right;
