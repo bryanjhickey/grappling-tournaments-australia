@@ -6336,24 +6336,6 @@ body {
   width: 100%;
   margin: 0 auto;
 }
-@media only screen and (max-width: 982px) {
-  /* line 26, ../scss/_masthead.scss */
-  .contain-to-grid .top-bar .top-bar-section {
-    width: 72%;
-  }
-}
-@media only screen and (max-width: 910px) {
-  /* line 26, ../scss/_masthead.scss */
-  .contain-to-grid .top-bar .top-bar-section {
-    width: 83%;
-  }
-}
-@media only screen and (max-width: 768px) {
-  /* line 26, ../scss/_masthead.scss */
-  .contain-to-grid .top-bar .top-bar-section {
-    width: 100%;
-  }
-}
 /* line 38, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul {
   background: transparent;
