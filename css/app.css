@@ -6611,28 +6611,50 @@ footer #leftFooter {
 footer #rightFooter {
   text-align: right;
 }
-/* line 262, ../scss/_masthead.scss */
+@media only screen and (max-width: 768px) {
+  /* line 259, ../scss/_masthead.scss */
+  footer #rightFooter {
+    text-align: left;
+    margin-top: 1em;
+  }
+}
+/* line 266, ../scss/_masthead.scss */
 footer .inline {
   display: inline-block;
-  font-size: 0.875em;
+  font-size: 0.8125em;
 }
-/* line 267, ../scss/_masthead.scss */
+@media only screen and (max-width: 768px) {
+  /* line 266, ../scss/_masthead.scss */
+  footer .inline {
+    display: block;
+    font-size: 1em;
+    margin-bottom: .2em;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /* line 275, ../scss/_masthead.scss */
+  footer .footer-divider {
+    display: none;
+    visibility: hidden;
+  }
+}
+/* line 282, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 273, ../scss/_masthead.scss */
+/* line 288, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 276, ../scss/_masthead.scss */
+/* line 291, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 281, ../scss/_masthead.scss */
+/* line 296, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6640,31 +6662,31 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 288, ../scss/_masthead.scss */
+/* line 303, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 294, ../scss/_masthead.scss */
+/* line 309, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 299, ../scss/_masthead.scss */
+/* line 314, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 304, ../scss/_masthead.scss */
+/* line 319, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 309, ../scss/_masthead.scss */
+/* line 324, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
