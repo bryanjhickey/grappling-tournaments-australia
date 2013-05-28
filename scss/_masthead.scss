@@ -8,7 +8,7 @@ body {
 	img {
 		width: 50%;
 		@media only screen and (max-width : $small-screen) {
-			width: 100%;
+			width: 80%;
 		}
 	}
 
@@ -19,6 +19,8 @@ body {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
+		max-width: 570px;
+		margin: 0 auto;
 		  @media #{$topbar-media-query} {
 		  	max-width: 570px;
 			margin: 0 auto;

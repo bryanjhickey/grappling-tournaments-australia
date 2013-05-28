@@ -6315,7 +6315,7 @@ body {
 @media only screen and (max-width: 768px) {
   /* line 8, ../scss/_masthead.scss */
   #masthead img {
-    width: 100%;
+    width: 80%;
   }
 }
 
@@ -6323,6 +6323,8 @@ body {
 .contain-to-grid .top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
+  max-width: 570px;
+  margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
   /* line 19, ../scss/_masthead.scss */
@@ -6331,36 +6333,36 @@ body {
     margin: 0 auto;
   }
 }
-/* line 26, ../scss/_masthead.scss */
+/* line 28, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section {
   width: 100%;
   margin: 0 auto;
 }
-/* line 38, ../scss/_masthead.scss */
+/* line 40, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul {
   background: transparent;
 }
-/* line 42, ../scss/_masthead.scss */
+/* line 44, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul .dropdown li label {
   background: transparent;
 }
-/* line 46, ../scss/_masthead.scss */
+/* line 48, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title {
   background: #1e1e1e;
   color: #c38930;
 }
-/* line 50, ../scss/_masthead.scss */
+/* line 52, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h1, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h2, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h3, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h4, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h5, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h6 {
   text-transform: uppercase;
 }
-/* line 52, ../scss/_masthead.scss */
+/* line 54, ../scss/_masthead.scss */
 .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h1 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h2 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h3 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h4 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h5 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h6 a {
   font-weight: bold;
   font-size: 0.875em;
   color: #c38930;
 }
 
-/* line 65, ../scss/_masthead.scss */
+/* line 67, ../scss/_masthead.scss */
 .header-be-gone {
   border: 0;
   clip: rect(0 0 0 0);
@@ -6372,7 +6374,7 @@ body {
   width: 1px;
 }
 
-/* line 76, ../scss/_masthead.scss */
+/* line 78, ../scss/_masthead.scss */
 #officialRegister {
   height: 464px;
   background: black url("../assets/img/sign-up-banner-big.jpg") center no-repeat;
@@ -6380,17 +6382,17 @@ body {
   padding: 6em 0;
 }
 @media only screen and (max-width: 480px) {
-  /* line 76, ../scss/_masthead.scss */
+  /* line 78, ../scss/_masthead.scss */
   #officialRegister {
     background: black url("../assets/img/sign-up-banner-mobile.jpg") center no-repeat;
   }
 }
-/* line 84, ../scss/_masthead.scss */
+/* line 86, ../scss/_masthead.scss */
 #officialRegister h2, #officialRegister h5 {
   color: #fff;
   text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 }
-/* line 88, ../scss/_masthead.scss */
+/* line 90, ../scss/_masthead.scss */
 #officialRegister h2 {
   font-size: 3.75em;
   line-height: 1;
@@ -6398,204 +6400,204 @@ body {
   letter-spacing: -0.03em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 88, ../scss/_masthead.scss */
+  /* line 90, ../scss/_masthead.scss */
   #officialRegister h2 {
     font-size: 2em;
   }
 }
-/* line 97, ../scss/_masthead.scss */
+/* line 99, ../scss/_masthead.scss */
 #officialRegister h5 {
   margin-top: 0;
   line-height: 1;
   font-size: 2.125em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 97, ../scss/_masthead.scss */
+  /* line 99, ../scss/_masthead.scss */
   #officialRegister h5 {
     font-size: 1.125em;
   }
 }
-/* line 105, ../scss/_masthead.scss */
+/* line 107, ../scss/_masthead.scss */
 #officialRegister .button {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fff;
   text-shadow: -1px -1px 2px #222222;
 }
 
-/* line 112, ../scss/_masthead.scss */
+/* line 114, ../scss/_masthead.scss */
 #landingIntroText {
   padding-top: 3em;
   padding-bottom: 3em;
   font-size: 1.125em;
 }
 
-/* line 118, ../scss/_masthead.scss */
+/* line 120, ../scss/_masthead.scss */
 #rulesVideos {
   margin-top: 3em;
 }
-/* line 120, ../scss/_masthead.scss */
+/* line 122, ../scss/_masthead.scss */
 #rulesVideos h3.subheader {
   margin-top: 2em;
   text-transform: uppercase;
   text-align: center;
 }
 
-/* line 127, ../scss/_masthead.scss */
+/* line 129, ../scss/_masthead.scss */
 #weightClasses {
   margin-top: 3em;
 }
-/* line 129, ../scss/_masthead.scss */
+/* line 131, ../scss/_masthead.scss */
 #weightClasses h2 {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 133, ../scss/_masthead.scss */
+/* line 135, ../scss/_masthead.scss */
 #weightClasses h5.subheader {
   text-align: left;
 }
-/* line 136, ../scss/_masthead.scss */
+/* line 138, ../scss/_masthead.scss */
 #weightClasses h5 {
   text-align: center;
 }
-/* line 139, ../scss/_masthead.scss */
+/* line 141, ../scss/_masthead.scss */
 #weightClasses table {
   margin-top: 2em;
 }
-/* line 143, ../scss/_masthead.scss */
+/* line 145, ../scss/_masthead.scss */
 #weightClasses .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 151, ../scss/_masthead.scss */
+/* line 153, ../scss/_masthead.scss */
 #timeLimits {
   margin-top: 3em;
   height: 22em;
 }
-/* line 154, ../scss/_masthead.scss */
+/* line 156, ../scss/_masthead.scss */
 #timeLimits h2 {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 158, ../scss/_masthead.scss */
+/* line 160, ../scss/_masthead.scss */
 #timeLimits h5.subheader {
   text-align: left;
 }
-/* line 161, ../scss/_masthead.scss */
+/* line 163, ../scss/_masthead.scss */
 #timeLimits h5 {
   text-align: center;
 }
-/* line 164, ../scss/_masthead.scss */
+/* line 166, ../scss/_masthead.scss */
 #timeLimits table {
   margin-top: 2em;
 }
-/* line 168, ../scss/_masthead.scss */
+/* line 170, ../scss/_masthead.scss */
 #timeLimits .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 175, ../scss/_masthead.scss */
+/* line 177, ../scss/_masthead.scss */
 #uniformRequirements {
   padding-top: 3em;
   padding-bottom: 3em;
 }
 
-/* line 181, ../scss/_masthead.scss */
+/* line 183, ../scss/_masthead.scss */
 #sponsors h2 {
   text-transform: uppercase;
   font-family: "Trajan W01 Regular";
   text-align: center;
 }
-/* line 186, ../scss/_masthead.scss */
+/* line 188, ../scss/_masthead.scss */
 #sponsors #sponsorsIntro {
   padding-top: 3em;
   padding-bottom: 3em;
 }
-/* line 191, ../scss/_masthead.scss */
+/* line 193, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper {
   height: 30em;
   display: block;
   text-align: center;
 }
 @media only screen and (max-width: 768px) {
-  /* line 191, ../scss/_masthead.scss */
+  /* line 193, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper {
     height: 100%;
   }
 }
-/* line 198, ../scss/_masthead.scss */
+/* line 200, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper img#paysmartImage {
   margin-top: 10em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 198, ../scss/_masthead.scss */
+  /* line 200, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper img#paysmartImage {
     margin-top: 0;
   }
 }
-/* line 206, ../scss/_masthead.scss */
+/* line 208, ../scss/_masthead.scss */
 #sponsors #minorSponsors {
   padding-bottom: 3em;
 }
-/* line 207, ../scss/_masthead.scss */
+/* line 209, ../scss/_masthead.scss */
 #sponsors #minorSponsors h2 {
   margin: 3em 0;
 }
 @media only screen and (max-width: 768px) {
-  /* line 206, ../scss/_masthead.scss */
+  /* line 208, ../scss/_masthead.scss */
   #sponsors #minorSponsors {
     padding-bottom: 0;
   }
 }
-/* line 214, ../scss/_masthead.scss */
+/* line 216, ../scss/_masthead.scss */
 #sponsors #minorSponsors .row {
   margin-top: 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 214, ../scss/_masthead.scss */
+  /* line 216, ../scss/_masthead.scss */
   #sponsors #minorSponsors .row {
     margin-top: 0;
   }
 }
-/* line 220, ../scss/_masthead.scss */
+/* line 222, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper {
   position: relative;
   height: 12em;
 }
-/* line 223, ../scss/_masthead.scss */
+/* line 225, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper img {
   position: absolute;
   bottom: 0;
   padding: 0 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 223, ../scss/_masthead.scss */
+  /* line 225, ../scss/_masthead.scss */
   #sponsors #minorSponsors .image-wrapper img {
     padding: 0 1em;
   }
 }
-/* line 233, ../scss/_masthead.scss */
+/* line 235, ../scss/_masthead.scss */
 #sponsors #sponsorsInterest {
   margin-bottom: 3em;
 }
 
-/* line 239, ../scss/_masthead.scss */
+/* line 241, ../scss/_masthead.scss */
 .contact #textContact {
   margin-top: 3em;
 }
-/* line 242, ../scss/_masthead.scss */
+/* line 244, ../scss/_masthead.scss */
 .contact form {
   margin-top: 2em;
 }
-/* line 244, ../scss/_masthead.scss */
+/* line 246, ../scss/_masthead.scss */
 .contact form textarea {
   height: 10em;
 }
 
-/* line 250, ../scss/_masthead.scss */
+/* line 252, ../scss/_masthead.scss */
 footer {
   padding-top: 3em;
   padding-bottom: 3em;
@@ -6603,28 +6605,28 @@ footer {
   background: #c38930;
   border-top: 4px solid #222;
 }
-/* line 256, ../scss/_masthead.scss */
+/* line 258, ../scss/_masthead.scss */
 footer #leftFooter {
   text-align: left;
 }
-/* line 259, ../scss/_masthead.scss */
+/* line 261, ../scss/_masthead.scss */
 footer #rightFooter {
   text-align: right;
 }
 @media only screen and (max-width: 768px) {
-  /* line 259, ../scss/_masthead.scss */
+  /* line 261, ../scss/_masthead.scss */
   footer #rightFooter {
     text-align: left;
     margin-top: 1em;
   }
 }
-/* line 266, ../scss/_masthead.scss */
+/* line 268, ../scss/_masthead.scss */
 footer .inline {
   display: inline-block;
   font-size: 0.8125em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 266, ../scss/_masthead.scss */
+  /* line 268, ../scss/_masthead.scss */
   footer .inline {
     display: block;
     font-size: 1em;
@@ -6632,29 +6634,29 @@ footer .inline {
   }
 }
 @media only screen and (max-width: 768px) {
-  /* line 275, ../scss/_masthead.scss */
+  /* line 277, ../scss/_masthead.scss */
   footer .footer-divider {
     display: none;
     visibility: hidden;
   }
 }
-/* line 282, ../scss/_masthead.scss */
+/* line 284, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 288, ../scss/_masthead.scss */
+/* line 290, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 291, ../scss/_masthead.scss */
+/* line 293, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 296, ../scss/_masthead.scss */
+/* line 298, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6662,31 +6664,31 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 303, ../scss/_masthead.scss */
+/* line 305, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 309, ../scss/_masthead.scss */
+/* line 311, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 314, ../scss/_masthead.scss */
+/* line 316, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 319, ../scss/_masthead.scss */
+/* line 321, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 324, ../scss/_masthead.scss */
+/* line 326, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
