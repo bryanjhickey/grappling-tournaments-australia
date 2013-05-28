@@ -258,10 +258,25 @@ footer {
 	}
 	#rightFooter {
 		text-align: right;
+		@media only screen and (max-width : $small-screen) {
+			text-align: left;
+			margin-top: 1em;
+		}
 	}
 	.inline {
 		display: inline-block;
-		font-size: emCalc(14px);
+		font-size: emCalc(13px);
+		@media only screen and (max-width : $small-screen) {
+			display: block;
+			font-size: emCalc(16px);
+			margin-bottom: .2em;
+		}
+	}
+	.footer-divider {
+		@media only screen and (max-width : $small-screen) {
+			display: none;
+			visibility: hidden;
+		}
 	}
 	#takedown {
 		img {
