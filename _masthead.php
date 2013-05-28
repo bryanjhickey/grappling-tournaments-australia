@@ -32,14 +32,14 @@
 					<li class="has-dropdown"><a href="#">Rules</a>
 						<ul class="dropdown">
 							<li><a href="rules.php">Rules</a></li>
-							<li><a href="#">Age Groups</a></li>
-							<li><a href="#">Time Limits</a></li>
+							<li><a href="age-limits.php">Age Groups</a></li>
+							<li><a href="time-limits.php">Time Limits</a></li>
 							<li><a href="weight-classes.php">Weight Classes</a></li>
-							<li><a href="#">Uniform Requirements</a></li>
-							<li><a href="#">Terms of Entry</a></li>
+							<li><a href="uniform-requirements.php">Uniform Requirements</a></li>
+							<li><a href="terms-of-entry.php">Terms of Entry</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Prizes</a></li>
+					<li><a href="prizes.php">Prizes</a></li>
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">

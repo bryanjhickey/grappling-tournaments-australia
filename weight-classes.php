@@ -11,10 +11,10 @@
   <div class="small-12 large-12 columns">
     <div class="section-container vertical-tabs" data-section="vertical-tabs">
     <section>
-      <p class="title" data-section-title><a href="#">No Gi Weight Classes</a></p>
+      <p class="title" data-section-title><a href="#">Gi Weight Classes</a></p>
       <div class="content" data-section-content>
-      <h2>No Gi Weight Divisions</h2>
-      <h5 class="subheader">No Gi weight include the weight of the complete no gi uniform. Competitors are to present themselves to the wiegh in area in their complete no gi uniform.</h5>
+      <h2>Gi Weight Classes</h2>
+      <h5 class="subheader">Weights include the athelete wearing complete Gi uniform.</h5>
         <h5>Junior Male 16/17 years</h5>
         <table>
           <thead>
@@ -25,43 +25,43 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER</td>
-              <td>51.499 (113.5)</td>
+              <td>ROSTER (GALO)</td>
+              <td>53.50 (118.00)</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>61.499 (135.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>58.5 (129.00)</td>
             </tr>
             <tr>
-              <td>FEATHER</td>
-              <td>56.499 (124.5)</td>
+              <td>FEATHER (PENA)</td>
+              <td>64.0 (141.50)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>66.499 (147.00)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>69.0 (152.50)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>71.499 (158.00)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>74.0 (163.50)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>75,999 (169.00)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>79.3 (175.00)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>81.499 (180.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>84.3 (186.00)</td>
             </tr>
             <tr>
-              <td>SUPER HEAVY</td>
-              <td>86.499 (191.00)</td>
+              <td>SUPER HEAVY (SUPER PESADO)</td>
+              <td>89.3 (197.00)</td>
             </tr>
             <tr>
-              <td>ULTRA HEAVY</td>
-              <td>Over 86.499 (191.00)</td>
+              <td>ULTRA HEAVY (PESADÍSSIMO)</td>
+              <td>No Maximum Weight</td>
             </tr>
              <tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>Middle weight and up</td>
             </tr>
           </tbody>
@@ -76,44 +76,32 @@
             </tr>
           </thead>
           <tbody>
-           <tr>
-              <td>ROSTER</td>
-              <td>51.499 (113.5)</td>
+            <tr>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>48.3 (106.50)</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>61.499 (135.50)</td>
+              <td>FEATHER (PENA)</td>
+              <td>52.5 (116.0)</td>
             </tr>
             <tr>
-              <td>FEATHER</td>
-              <td>56.499 (124.5)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>56.5 (125.0)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>66.499 (147.00)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>60.5 (133.5)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>71.499 (158.00)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>65.0 (143.5)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>75,999 (169.00)</td>
-            </tr>
-            <tr>
-              <td>HEAVY</td>
-              <td>81.499 (180.00)</td>
-            </tr>
-            <tr>
-              <td>SUPER HEAVY</td>
-              <td>86.499 (191.00)</td>
-            </tr>
-            <tr>
-              <td>ULTRA HEAVY</td>
-              <td>Over 86.499 (191.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>No Maximum Weight</td>
             </tr>
              <tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>Middle weight and up</td>
             </tr>
           </tbody>
@@ -129,43 +117,43 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER</td>
-              <td>55.499 (122.5)</td>
+              <td>ROSTER (GALO)</td>
+              <td>55.499 (127.0)</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>61.499 (135.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>61.499 (141.5)</td>
             </tr>
             <tr>
-              <td>FEATHER</td>
-              <td>67.499 (149.00)</td>
+              <td>FEATHER (PENA)</td>
+              <td>67.499 (154.5)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>73.499 (162.00)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>73.499 (168.0)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>79.499 (175.50)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>79.499 (181.5)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>85.499 (188.50)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>85.499 (195.0)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>91.499 (202.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>91.499 (208.0)</td>
             </tr>
             <tr>
-              <td>SUPER HEAVY</td>
-              <td>97.499 (215.00)</td>
+              <td>SUPER HEAVY (SUPER PESADO)</td>
+              <td>97.499 (222.0)</td>
             </tr>
             <tr>
-              <td>ULTRA HEAVY</td>
-              <td>Over 97.499 (over 215.00)</td>
+              <td>ULTRA HEAVY (PESADÍSSIMO)</td>
+              <td>No Maximum Weight</td>
             </tr>
             <tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>Free</td>
             </tr>
           </tbody>
@@ -181,30 +169,30 @@
           </thead>
           <tbody>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>51.499 (113.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>51.499 (118.0)</td>
            </tr>
             <tr>
-              <td>FEATHER</td>
-              <td>56.499 (124.5)</td>
+              <td>FEATHER (PENA)</td>
+              <td>56.499 (129.0)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>61.499 (135.50)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>61.499 (141.5)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>66.499 (147.00)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>66.499 (152.5)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>71.499 (158.00)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>71.499 (163.5)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>over 71.499 (over 158.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>No Maximum Weight</td>
             </tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>free</td>
             </tr>
           </tbody>
@@ -212,10 +200,10 @@
       </div>
     </section>
     <section>
-      <p class="title" data-section-title><a href="#">Gi Wieght Classes</a></p>
+      <p class="title" data-section-title><a href="#">No Gi Weight Classes</a></p>
       <div class="content" data-section-content>
-         <h2>Gi Weight Divisions</h2>
-      <h5 class="subheader">Gi weight divisiion include the weight of the complete Gi uniform. Competitors are to present themselves to the weigh in area in their complete gi uniform.</h5>
+         <h2>No Gi Weight Classes</h2>
+      <h5 class="subheader">Weights include the athelete wearing complete No Gi uniform.</h5>
        <h5>Junior 16/17 years</h5>
         <table>
           <thead>
@@ -226,43 +214,43 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER</td>
+              <td>ROSTER (GALO)</td>
               <td>51.499 (113.5)</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>61.499 (135.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>61.499 (135.5)</td>
             </tr>
             <tr>
-              <td>FEATHER</td>
+              <td>FEATHER (PENA)</td>
               <td>56.499 (124.5)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>66.499 (147.00)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>66.499 (147.0)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>71.499 (158.00)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>71.499 (158.0)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>75,999 (169.00)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>75.999 (169.0)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>81.499 (180.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>81.499 (180.0)</td>
             </tr>
             <tr>
-              <td>SUPER HEAVY</td>
-              <td>86.499 (191.00)</td>
+              <td>SUPER HEAVY (SUPER PESADO)</td>
+              <td>86.499 (191.0)</td>
             </tr>
             <tr>
-              <td>ULTRA HEAVY</td>
-              <td>Over 86.499 (191.00)</td>
+              <td>ULTRA HEAVY (PESADÍSSIMO)</td>
+              <td>No Maximum Weight</td>
             </tr>
             <tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>Middle weight and up</td>
             </tr>
           </tbody>
@@ -278,40 +266,40 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER</td>
+              <td>ROSTER (GALO)</td>
               <td>55.499 (122.5)</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>61.499 (135.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>61.499 (135.5)</td>
             </tr>
             <tr>
-              <td>FEATHER</td>
-              <td>67.499 (149.00)</td>
+              <td>FEATHER (PENA)</td>
+              <td>67.499 (149.0)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>73.499 (162.00)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>73.499 (162.0)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>79.499 (175.50)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>79.499 (175.5)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>85.499 (188.50)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>85.499 (188.5)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>91.499 (202.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>91.499 (202.0)</td>
             </tr>
             <tr>
-              <td>SUPER HEAVY</td>
-              <td>97.499 (215.00)</td>
+              <td>SUPER HEAVY (SUPER PESADO)</td>
+              <td>97.499 (215.0)</td>
             </tr>
             <tr>
-              <td>ULTRA HEAVY</td>
-              <td>Over 97.499 (over 215.00)</td>
+              <td>ULTRA HEAVY (PESADÍSSIMO)</td>
+              <td>No Maximum Weight</td>
             </tr>
             <tr>
               <td>OPEBN CLASS</td>
@@ -330,30 +318,30 @@
           </thead>
           <tbody>
             <tr>
-              <td>SUPER FEATHER</td>
-              <td>51.499 (113.50)</td>
+              <td>SUPER FEATHER (PLUMA)</td>
+              <td>51.499 (113.5)</td>
            </tr>
             <tr>
-              <td>FEATHER</td>
+              <td>FEATHER (PENA)</td>
               <td>56.499 (124.5)</td>
             </tr>
             <tr>
-              <td>LIGHT</td>
-              <td>61.499 (135.50)</td>
+              <td>LIGHT (LEVE)</td>
+              <td>61.499 (135.5)</td>
             </tr>
             <tr>
-              <td>MIDDLE</td>
-              <td>66.499 (147.00)</td>
+              <td>MIDDLE (M&Eacute;DIO)</td>
+              <td>66.499 (147.0)</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY</td>
-              <td>71.499 (158.00)</td>
+              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>71.499 (158.0)</td>
             </tr>
             <tr>
-              <td>HEAVY</td>
-              <td>over 71.499 (over 158.00)</td>
+              <td>HEAVY (PESADO)</td>
+              <td>No Maximum Weight</td>
             </tr>
-              <td>OPEN CLASS</td>
+              <td>OPEN CLASS (ABSOLUTO)</td>
               <td>free</td>
             </tr>
           </tbody>
