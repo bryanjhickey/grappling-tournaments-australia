@@ -13,44 +13,46 @@ body {
 	}
 
 }
-nav.top-bar {
-	font-family:"Trajan W01 Regular";
-	text-transform: uppercase;
-	.top-bar-section {
-		width: 65%;
-		margin: 0 auto;
-		@media only screen and (max-width : 982px) {
-			width: 72%;
-		}
-		@media only screen and (max-width : 910px) {
-			width: 83%;
-		}
-		@media only screen and (max-width : $small-screen) {
-			width: 100%;
-		}
-		ul {
-			background: transparent;
-			.dropdown {
-				li {
-					label {
-						background: transparent;
+.contain-to-grid {
+	.top-bar {
+		font-family:"Trajan W01 Regular";
+		text-transform: uppercase;
+		.top-bar-section {
+			width: 65%;
+			margin: 0 auto;
+			@media only screen and (max-width : 982px) {
+				width: 72%;
+			}
+			@media only screen and (max-width : 910px) {
+				width: 83%;
+			}
+			@media only screen and (max-width : $small-screen) {
+				width: 100%;
+			}
+			ul {
+				background: transparent;
+				.dropdown {
+					li {
+						label {
+							background: transparent;
+						}
 					}
-				}
-				li.title {
-					background: $topbar-dropdown-link-bg;
-					color: $primary-color;
+					li.title {
+						background: $topbar-dropdown-link-bg;
+						color: $primary-color;
 
-					h1, h2, h3, h4, h5, h6 {
-						text-transform: uppercase;
-						a {
-							font-weight: bold;
-							font-size: emCalc(14px);
-							color: $primary-color;
+						h1, h2, h3, h4, h5, h6 {
+							text-transform: uppercase;
+							a {
+								font-weight: bold;
+								font-size: emCalc(14px);
+								color: $primary-color;
+							}
 						}
 					}
 				}
-			}
-		}	
+			}	
+		}
 	}
 }
 

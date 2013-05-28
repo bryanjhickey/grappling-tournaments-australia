@@ -6319,59 +6319,59 @@ body {
   }
 }
 
-/* line 16, ../scss/_masthead.scss */
-nav.top-bar {
+/* line 17, ../scss/_masthead.scss */
+.contain-to-grid .top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
 }
-/* line 19, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section {
+/* line 20, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section {
   width: 65%;
   margin: 0 auto;
 }
 @media only screen and (max-width: 982px) {
-  /* line 19, ../scss/_masthead.scss */
-  nav.top-bar .top-bar-section {
+  /* line 20, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
     width: 72%;
   }
 }
 @media only screen and (max-width: 910px) {
-  /* line 19, ../scss/_masthead.scss */
-  nav.top-bar .top-bar-section {
+  /* line 20, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
     width: 83%;
   }
 }
 @media only screen and (max-width: 768px) {
-  /* line 19, ../scss/_masthead.scss */
-  nav.top-bar .top-bar-section {
+  /* line 20, ../scss/_masthead.scss */
+  .contain-to-grid .top-bar .top-bar-section {
     width: 100%;
   }
 }
-/* line 31, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section ul {
+/* line 32, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section ul {
   background: transparent;
 }
-/* line 35, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section ul .dropdown li label {
+/* line 36, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section ul .dropdown li label {
   background: transparent;
 }
-/* line 39, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section ul .dropdown li.title {
+/* line 40, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section ul .dropdown li.title {
   background: #1e1e1e;
   color: #c38930;
 }
-/* line 43, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section ul .dropdown li.title h1, nav.top-bar .top-bar-section ul .dropdown li.title h2, nav.top-bar .top-bar-section ul .dropdown li.title h3, nav.top-bar .top-bar-section ul .dropdown li.title h4, nav.top-bar .top-bar-section ul .dropdown li.title h5, nav.top-bar .top-bar-section ul .dropdown li.title h6 {
+/* line 44, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h1, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h2, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h3, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h4, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h5, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h6 {
   text-transform: uppercase;
 }
-/* line 45, ../scss/_masthead.scss */
-nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-section ul .dropdown li.title h2 a, nav.top-bar .top-bar-section ul .dropdown li.title h3 a, nav.top-bar .top-bar-section ul .dropdown li.title h4 a, nav.top-bar .top-bar-section ul .dropdown li.title h5 a, nav.top-bar .top-bar-section ul .dropdown li.title h6 a {
+/* line 46, ../scss/_masthead.scss */
+.contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h1 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h2 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h3 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h4 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h5 a, .contain-to-grid .top-bar .top-bar-section ul .dropdown li.title h6 a {
   font-weight: bold;
   font-size: 0.875em;
   color: #c38930;
 }
 
-/* line 57, ../scss/_masthead.scss */
+/* line 59, ../scss/_masthead.scss */
 .header-be-gone {
   border: 0;
   clip: rect(0 0 0 0);
@@ -6383,7 +6383,7 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   width: 1px;
 }
 
-/* line 68, ../scss/_masthead.scss */
+/* line 70, ../scss/_masthead.scss */
 #officialRegister {
   height: 464px;
   background: black url("../assets/img/sign-up-banner-big.jpg") center no-repeat;
@@ -6391,17 +6391,17 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   padding: 6em 0;
 }
 @media only screen and (max-width: 480px) {
-  /* line 68, ../scss/_masthead.scss */
+  /* line 70, ../scss/_masthead.scss */
   #officialRegister {
     background: black url("../assets/img/sign-up-banner-mobile.jpg") center no-repeat;
   }
 }
-/* line 76, ../scss/_masthead.scss */
+/* line 78, ../scss/_masthead.scss */
 #officialRegister h2, #officialRegister h5 {
   color: #fff;
   text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 }
-/* line 80, ../scss/_masthead.scss */
+/* line 82, ../scss/_masthead.scss */
 #officialRegister h2 {
   font-size: 3.75em;
   line-height: 1;
@@ -6409,204 +6409,204 @@ nav.top-bar .top-bar-section ul .dropdown li.title h1 a, nav.top-bar .top-bar-se
   letter-spacing: -0.03em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 80, ../scss/_masthead.scss */
+  /* line 82, ../scss/_masthead.scss */
   #officialRegister h2 {
     font-size: 2em;
   }
 }
-/* line 89, ../scss/_masthead.scss */
+/* line 91, ../scss/_masthead.scss */
 #officialRegister h5 {
   margin-top: 0;
   line-height: 1;
   font-size: 2.125em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 89, ../scss/_masthead.scss */
+  /* line 91, ../scss/_masthead.scss */
   #officialRegister h5 {
     font-size: 1.125em;
   }
 }
-/* line 97, ../scss/_masthead.scss */
+/* line 99, ../scss/_masthead.scss */
 #officialRegister .button {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fff;
   text-shadow: -1px -1px 2px #222222;
 }
 
-/* line 104, ../scss/_masthead.scss */
+/* line 106, ../scss/_masthead.scss */
 #landingIntroText {
   padding-top: 3em;
   padding-bottom: 3em;
   font-size: 1.125em;
 }
 
-/* line 110, ../scss/_masthead.scss */
+/* line 112, ../scss/_masthead.scss */
 #rulesVideos {
   margin-top: 3em;
 }
-/* line 112, ../scss/_masthead.scss */
+/* line 114, ../scss/_masthead.scss */
 #rulesVideos h3.subheader {
   margin-top: 2em;
   text-transform: uppercase;
   text-align: center;
 }
 
-/* line 119, ../scss/_masthead.scss */
+/* line 121, ../scss/_masthead.scss */
 #weightClasses {
   margin-top: 3em;
 }
-/* line 121, ../scss/_masthead.scss */
+/* line 123, ../scss/_masthead.scss */
 #weightClasses h2 {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 125, ../scss/_masthead.scss */
+/* line 127, ../scss/_masthead.scss */
 #weightClasses h5.subheader {
   text-align: left;
 }
-/* line 128, ../scss/_masthead.scss */
+/* line 130, ../scss/_masthead.scss */
 #weightClasses h5 {
   text-align: center;
 }
-/* line 131, ../scss/_masthead.scss */
+/* line 133, ../scss/_masthead.scss */
 #weightClasses table {
   margin-top: 2em;
 }
-/* line 135, ../scss/_masthead.scss */
+/* line 137, ../scss/_masthead.scss */
 #weightClasses .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 143, ../scss/_masthead.scss */
+/* line 145, ../scss/_masthead.scss */
 #timeLimits {
   margin-top: 3em;
   height: 22em;
 }
-/* line 146, ../scss/_masthead.scss */
+/* line 148, ../scss/_masthead.scss */
 #timeLimits h2 {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 150, ../scss/_masthead.scss */
+/* line 152, ../scss/_masthead.scss */
 #timeLimits h5.subheader {
   text-align: left;
 }
-/* line 153, ../scss/_masthead.scss */
+/* line 155, ../scss/_masthead.scss */
 #timeLimits h5 {
   text-align: center;
 }
-/* line 156, ../scss/_masthead.scss */
+/* line 158, ../scss/_masthead.scss */
 #timeLimits table {
   margin-top: 2em;
 }
-/* line 160, ../scss/_masthead.scss */
+/* line 162, ../scss/_masthead.scss */
 #timeLimits .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 167, ../scss/_masthead.scss */
+/* line 169, ../scss/_masthead.scss */
 #uniformRequirements {
   padding-top: 3em;
   padding-bottom: 3em;
 }
 
-/* line 173, ../scss/_masthead.scss */
+/* line 175, ../scss/_masthead.scss */
 #sponsors h2 {
   text-transform: uppercase;
   font-family: "Trajan W01 Regular";
   text-align: center;
 }
-/* line 178, ../scss/_masthead.scss */
+/* line 180, ../scss/_masthead.scss */
 #sponsors #sponsorsIntro {
   padding-top: 3em;
   padding-bottom: 3em;
 }
-/* line 183, ../scss/_masthead.scss */
+/* line 185, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper {
   height: 30em;
   display: block;
   text-align: center;
 }
 @media only screen and (max-width: 768px) {
-  /* line 183, ../scss/_masthead.scss */
+  /* line 185, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper {
     height: 100%;
   }
 }
-/* line 190, ../scss/_masthead.scss */
+/* line 192, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper img#paysmartImage {
   margin-top: 10em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 190, ../scss/_masthead.scss */
+  /* line 192, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper img#paysmartImage {
     margin-top: 0;
   }
 }
-/* line 198, ../scss/_masthead.scss */
+/* line 200, ../scss/_masthead.scss */
 #sponsors #minorSponsors {
   padding-bottom: 3em;
 }
-/* line 199, ../scss/_masthead.scss */
+/* line 201, ../scss/_masthead.scss */
 #sponsors #minorSponsors h2 {
   margin: 3em 0;
 }
 @media only screen and (max-width: 768px) {
-  /* line 198, ../scss/_masthead.scss */
+  /* line 200, ../scss/_masthead.scss */
   #sponsors #minorSponsors {
     padding-bottom: 0;
   }
 }
-/* line 206, ../scss/_masthead.scss */
+/* line 208, ../scss/_masthead.scss */
 #sponsors #minorSponsors .row {
   margin-top: 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 206, ../scss/_masthead.scss */
+  /* line 208, ../scss/_masthead.scss */
   #sponsors #minorSponsors .row {
     margin-top: 0;
   }
 }
-/* line 212, ../scss/_masthead.scss */
+/* line 214, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper {
   position: relative;
   height: 12em;
 }
-/* line 215, ../scss/_masthead.scss */
+/* line 217, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper img {
   position: absolute;
   bottom: 0;
   padding: 0 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 215, ../scss/_masthead.scss */
+  /* line 217, ../scss/_masthead.scss */
   #sponsors #minorSponsors .image-wrapper img {
     padding: 0 1em;
   }
 }
-/* line 225, ../scss/_masthead.scss */
+/* line 227, ../scss/_masthead.scss */
 #sponsors #sponsorsInterest {
   margin-bottom: 3em;
 }
 
-/* line 231, ../scss/_masthead.scss */
+/* line 233, ../scss/_masthead.scss */
 .contact #textContact {
   margin-top: 3em;
 }
-/* line 234, ../scss/_masthead.scss */
+/* line 236, ../scss/_masthead.scss */
 .contact form {
   margin-top: 2em;
 }
-/* line 236, ../scss/_masthead.scss */
+/* line 238, ../scss/_masthead.scss */
 .contact form textarea {
   height: 10em;
 }
 
-/* line 242, ../scss/_masthead.scss */
+/* line 244, ../scss/_masthead.scss */
 footer {
   padding-top: 3em;
   padding-bottom: 3em;
@@ -6614,36 +6614,36 @@ footer {
   background: #c38930;
   border-top: 4px solid #222;
 }
-/* line 248, ../scss/_masthead.scss */
+/* line 250, ../scss/_masthead.scss */
 footer #leftFooter {
   text-align: left;
 }
-/* line 251, ../scss/_masthead.scss */
+/* line 253, ../scss/_masthead.scss */
 footer #rightFooter {
   text-align: right;
 }
-/* line 254, ../scss/_masthead.scss */
+/* line 256, ../scss/_masthead.scss */
 footer .inline {
   display: inline-block;
   font-size: 0.875em;
 }
-/* line 259, ../scss/_masthead.scss */
+/* line 261, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 265, ../scss/_masthead.scss */
+/* line 267, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 268, ../scss/_masthead.scss */
+/* line 270, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 273, ../scss/_masthead.scss */
+/* line 275, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6651,31 +6651,31 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 280, ../scss/_masthead.scss */
+/* line 282, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 286, ../scss/_masthead.scss */
+/* line 288, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 291, ../scss/_masthead.scss */
+/* line 293, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 296, ../scss/_masthead.scss */
+/* line 298, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 301, ../scss/_masthead.scss */
+/* line 303, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
