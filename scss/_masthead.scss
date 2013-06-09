@@ -78,6 +78,13 @@ th {
 	width: 1px;
 }
 
+#mailModal {
+	h4 {
+		text-align: center;
+		color: $primary-color;
+		text-transform: uppercase;
+	}
+}
 #officialRegister {
 	height: 464px;
 	background: #000 url('../assets/img/sign-up-banner-big.jpg') center no-repeat;
@@ -125,7 +132,6 @@ th {
 	padding-top: 4em;
 	padding-bottom: 3em;
 	.section-container.auto > section .content {
-
 	}
 	h2 {
 		text-align: center;
