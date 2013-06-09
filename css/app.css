@@ -6323,7 +6323,7 @@ body {
 .contain-to-grid .top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
-  max-width: 580px;
+  max-width: 640px;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
