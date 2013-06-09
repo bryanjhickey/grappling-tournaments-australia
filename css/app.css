@@ -6329,7 +6329,7 @@ body {
 @media only screen and (min-width: 768px) {
   /* line 19, ../scss/_masthead.scss */
   .contain-to-grid .top-bar {
-    max-width: 580px;
+    max-width: 640px;
     margin: 0 auto;
   }
 }
