@@ -43,9 +43,7 @@
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
-							<li><a href="#">2013 No-Gi</a></li>
-							<li><a href="#">2012 Gi</a></li>
-							<li><a href="#">2011</a></li>
+							<li><a href="2013-no-gi.php">2013 No Gi Championships</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.php">Contact</a></li>

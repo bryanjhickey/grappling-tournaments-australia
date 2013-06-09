@@ -14,6 +14,9 @@ body {
 
 }
 
+th {
+	font-family:"ITCBerkeleyOldstyleW01- 812507";
+}
 
 .contain-to-grid {
 	.top-bar {
@@ -118,20 +121,51 @@ body {
 	font-size: emCalc(18px);
 }
 
-.rules-videos {
-	margin-top: 3em;
-	h3.subheader {
-		margin-top: 2em;
-		text-transform: uppercase;
+#pastEvent {
+	padding-top: 4em;
+	padding-bottom: 3em;
+	.section-container.auto > section .content {
+
+	}
+	h2 {
 		text-align: center;
+		margin-bottom: 0;
+		line-height: 1;
+	}
+	h3.subheader {
+		text-align: center;
+		margin-top: 0;
+		line-height: 1;
+		margin-bottom: 2em;
+	}
+	span.affiliation {
+		font-family:"ITCBerkeleyOldstyleW01- 812516";
+	}
+}
+#rulesVideos {
+	padding-bottom: 6em;
+	.rules-videos {
+		margin-top: 2em;
+		h3.subheader {
+			margin-top: 2em;
+			text-transform: uppercase;
+			text-align: center;
+		}
 	}
 }
 
 #weightClasses {
 	margin-top: 3em;
 	h2 {
+		margin-bottom: 0;
 		text-align: center;
 		text-transform: uppercase;
+		line-height: 1;
+	}
+	h3 {
+		margin-top: 0;
+		line-height: 1;
+		text-align: center;
 	}
 	h5.subheader {
 		text-align: left;

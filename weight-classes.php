@@ -14,7 +14,7 @@
       <p class="title" data-section-title><a href="#">Gi Weight Classes</a></p>
       <div class="content" data-section-content>
       <h2>Gi Weight Classes</h2>
-      <h5 class="subheader">Weights include the athelete wearing complete Gi uniform.</h5>
+      <h3><small>Weights include the athelete wearing complete Gi uniform.</small></h3>
         <h5>Junior Male 16/17 years</h5>
         <table>
           <thead>
@@ -203,7 +203,7 @@
       <p class="title" data-section-title><a href="#">No Gi Weight Classes</a></p>
       <div class="content" data-section-content>
          <h2>No Gi Weight Classes</h2>
-      <h5 class="subheader">Weights include the athelete wearing complete No Gi uniform.</h5>
+      <h3><small>Weights include the athelete wearing complete No Gi uniform.</small></h3>
        <h5>Junior 16/17 years</h5>
         <table>
           <thead>
