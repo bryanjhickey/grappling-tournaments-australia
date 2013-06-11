@@ -28,13 +28,13 @@
 
 	<?php include '_footer.php'; ?>
 
-		<div id="mailModal" class="reveal-modal small">
+		<div id="mailModal" class="reveal-modal">
 			<div id="mc_embed_signup">
 			<form action="http://grapplingtournaments.us7.list-manage.com/subscribe/post?u=e61f487a5429e929e557faf44&amp;id=671550f37a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<div class="row">
 					<div class="large-12">
 					<h4>sign up to our mailing list</h4>
-						<div class="row">
+						<div class="row hide-for-small">
 							<div class="small-3 large-3 columns">
 								<label for="mce-EMAIL" class="right inline">Your Email</label>
 							</div>
@@ -44,6 +44,14 @@
 							<div class="small-3 large-3 columns">
 								<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
 							</div>
+							<div class="small-12 large-12 columns">
+								<p>We'll notify people on our mailing list first about competition details, prizes and announcements.</p>
+							</div>
+						</div>
+						<div class="row show-for-small">
+							<label for="mce-EMAIL" class="inline">Your Email</label>
+							<input type="email" value="" name="EMAIL" class="email large-6" id="mce-EMAIL" placeholder="john.smith@example.com" required>
+							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
 						</div>
 					</div>
 			  	</div>
