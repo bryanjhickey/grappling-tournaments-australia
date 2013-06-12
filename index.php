@@ -39,22 +39,22 @@
 						<label for="MERGE0">
 							<strong>Email Address</strong><span class="asterisk">*</span></label>
 							<div class="field-group">
-						    	<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" required>	    
+						    	<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>	    
 							</div>
 							<div class="" id="mergeRow-1">
 								<label for="MERGE1">First Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="john.smith@example.com">					    
+						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="John">					    
 								</div>
 							</div>
 							<div class="" id="mergeRow-2">
 								<label for="MERGE2">Last Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="John">  
+						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="Smith">  
 								</div>
 							</div>
 							<div class="submit_container">
-								<input type="submit" class="button small radius" name="submit" value="Subscribe to list" placeholder="Smith">
+								<input type="submit" class="button small radius" name="submit" value="Subscribe to list" >
 							</div>
 						</form>
 					</div>
