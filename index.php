@@ -44,17 +44,17 @@
 							<div class="" id="mergeRow-1">
 								<label for="MERGE1">First Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="">					    
+						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="john.smith@example.com">					    
 								</div>
 							</div>
 							<div class="" id="mergeRow-2">
 								<label for="MERGE2">Last Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="">  
+						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="John">  
 								</div>
 							</div>
 							<div class="submit_container">
-								<input type="submit" class="button small radius" name="submit" value="Subscribe to list">
+								<input type="submit" class="button small radius" name="submit" value="Subscribe to list" placeholder="Smith">
 							</div>
 						</form>
 					</div>
