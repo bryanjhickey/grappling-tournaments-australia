@@ -26,7 +26,7 @@
 			</ul>
 
 	  		<section class="top-bar-section">
-			<!-- Left Nav Section -->
+			<!-- hide Left Nav Section -->
 				<!-- <ul>
 					<li class="active"><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a href="#">Rules</a>
