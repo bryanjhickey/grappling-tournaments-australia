@@ -19,7 +19,7 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia organises the best competitions in the Asia-Pacific Region. We run high-stakes competitions, drawing the best grapplers and offering the best prizes that will see you competing on the world stage.</p>
+			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. Our goal is simple. To improve the level of Jiu Jitsu in Australasia. We do this by running competitions 100% for the competitors the funds from which allow us to sponsor stand out athletes to train and compete overseas on the world stage.</p>
 			<p>Most important of all is you – the competitor. We strive to make all of our competitions great events for you and your teammates. On and off the mat, we aim to demonstrate the very best in grappling culture.</p>
 			<p>We reward as many victors as possible with their chance to take their place among the world’s finest grapplers.</p>
 			<p class="right">&ndash; For Grapplers. By Grapplers.</p>
@@ -30,29 +30,33 @@
 
 		<div id="mailModal" class="reveal-modal">
 			<div id="mc_embed_signup">
-			<form action="http://grapplingtournaments.us7.list-manage.com/subscribe/post?u=e61f487a5429e929e557faf44&amp;id=671550f37a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<div class="row">
 					<div class="large-12">
 					<h4>sign up to our mailing list</h4>
-						<div class="row hide-for-small">
-							<div class="small-3 large-3 columns">
-								<label for="mce-EMAIL" class="right inline">Your Email</label>
+					<form action="http://grapplingtournaments.us7.list-manage.com/subscribe/post" method="POST">
+						<input type="hidden" name="u" value="e61f487a5429e929e557faf44">
+						<input type="hidden" name="id" value="671550f37a">
+						<label for="MERGE0">
+							<strong>Email Address</strong><span class="asterisk">*</span></label>
+							<div class="field-group">
+						    	<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" required>	    
 							</div>
-							<div class="small-6 large-6 columns">
-								<input type="email" value="" name="EMAIL" class="email large-6" id="mce-EMAIL" placeholder="john.smith@example.com" required>
+							<div class="" id="mergeRow-1">
+								<label for="MERGE1">First Name</label>
+								<div class="field-group">
+						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="">					    
+								</div>
 							</div>
-							<div class="small-3 large-3 columns">
-								<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
+							<div class="" id="mergeRow-2">
+								<label for="MERGE2">Last Name</label>
+								<div class="field-group">
+						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="">  
+								</div>
 							</div>
-							<div class="small-12 large-12 columns">
-								<p>We'll notify people on our mailing list first about competition details, prizes and announcements.</p>
+							<div class="submit_container">
+								<input type="submit" class="button small radius" name="submit" value="Subscribe to list">
 							</div>
-						</div>
-						<div class="row show-for-small">
-							<label for="mce-EMAIL" class="inline">Your Email</label>
-							<input type="email" value="" name="EMAIL" class="email large-6" id="mce-EMAIL" placeholder="john.smith@example.com" required>
-							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
-						</div>
+						</form>
 					</div>
 			  	</div>
 			</form>
