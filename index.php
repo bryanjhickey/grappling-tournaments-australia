@@ -39,7 +39,7 @@
 								<label for="mce-EMAIL" class="right inline">Your Email</label>
 							</div>
 							<div class="small-6 large-6 columns">
-								<input type="email" value="" name="EMAIL" class="email large-6" id="mce-EMAIL" placeholder="john.smith@example.com" required>
+								<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="john.smith@example.com" required>
 							</div>
 							<div class="small-3 large-3 columns">
 								<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
@@ -47,11 +47,6 @@
 							<div class="small-12 large-12 columns">
 								<p>We'll notify people on our mailing list first about competition details, prizes and announcements.</p>
 							</div>
-						</div>
-						<div class="row show-for-small">
-							<label for="mce-EMAIL" class="inline">Your Email</label>
-							<input type="email" value="" name="EMAIL" class="email large-6" id="mce-EMAIL" placeholder="john.smith@example.com" required>
-							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button small radius">
 						</div>
 					</div>
 			  	</div>
