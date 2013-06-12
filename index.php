@@ -1,6 +1,6 @@
 <?php include '_dochead.php'; ?>
 
-<title>Grappling Tournaments Australia</title>
+<title>Grappling Tournaments Australia | For Grapplers. By Grapplers</title>
 
 </head>
 <body>
