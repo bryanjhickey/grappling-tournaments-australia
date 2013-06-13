@@ -26,8 +26,8 @@
 			</ul>
 
 	  		<section class="top-bar-section">
-			<!-- hide Left Nav Section -->
-				<!-- <ul>
+			<!-- Left Nav Section -->
+				<ul>
 					<li class="active"><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a href="#">Rules</a>
 						<ul class="dropdown">
@@ -47,7 +47,7 @@
 						</ul>
 					</li>
 					<li><a href="contact.php">Contact</a></li>
-				</ul> -->
+				</ul>
 			</section>
 		</nav>
 	</div>
