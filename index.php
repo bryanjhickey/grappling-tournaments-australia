@@ -6,13 +6,35 @@
 <body>
 	
 	<?php include '_masthead.php'; ?>
-
+	<style>
+	#timerLabel {
+		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
+		color: #fff;
+		margin-bottom: 0;
+	}
+	#textLayout {
+		text-transform: uppercase;
+		color: rgb(195, 137, 48);
+		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
+	}
+	</style>
 	<div id="officialRegister">
 		<div class="row">
 			<div class="small-12 large-centered columns">
 				<h2>OFFICIAL ANNOUNCEMENTS</h2>
 				<h5 class="subheader">GET THE LATEST NEWS ON OUR COMPETITIONS</h5>
 				<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>
+				<hr>
+				<div id="timer" class="row">
+					<div class="large-10 large-centered columns">
+					<h3>22 Sept 2013</h3>
+						<div class="row">
+							<div class="large-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<div class="large-4 columns"><h4><span id="timerhours" class="timebox">01 HOURS</span></h4></div>
+							<div class="large-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+						</div>
+					</div>	
+				</div>
 			</div>
 		</div>
 	</div>
@@ -63,6 +85,25 @@
 			</div>
 		  <a class="close-reveal-modal">&#215;</a>
 		</div>
-
+		<script>
+		$(document).ready(function() {		
+			var liftoffTime = new Date(2013, 9-1, 22, 8);
+			$('#timerdays').countdown({
+				until: liftoffTime, 
+				timezone: +10,
+    			layout: '{dnn} DAYS'
+    		});
+    		$('#timerhours').countdown({
+    			until: liftoffTime, 
+    			layout: '{hnn} HRS'
+    		});
+    		$('#timerminutes').countdown({
+    			until: liftoffTime, 
+    			layout: '{mnn} MIN'
+    		});
+		});
+		</script>
+		<script src="js/vendor/jquery.js"></script>
+		<script src="js/vendor/jquery.countdown.min.js"></script>
 </body>
 </html>
