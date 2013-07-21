@@ -22,21 +22,13 @@
               </tr>
             </thead>
             <tbody>
-             <tr>
-                <td>Juniors</td>
-                <td>under 18</td>
-              </tr>
               <tr>
                 <td>Adults</td>
-                <td>18 &ndash; 30</td>
+                <td>16 &ndash; 30</td>
               </tr>
               <tr>
-                <td>Masters</td>
-                <td>31 &ndash; 40</td>
-              </tr>
-              <tr>
-                <td>Seniors</td>
-                <td>41 and up</td>
+                <td>Masters &amp; Seniors</td>
+                <td>31 +</td>
               </tr>
             </tbody>
           </table>

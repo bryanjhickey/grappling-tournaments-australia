@@ -11,7 +11,7 @@
 		<div id="sponsorsIntro" class="row">
 			<div class="large-12 small-12 text-content columns">
 				<h4 class="subheader">Our competitions simply would not happen without the support of our amazing sponsors.</h4>
-				<h4 class="subheader">The costs of running events of this size are not insignificant and rely on a team of people. Our sponsors are the cornerstone of these teams, demonstrating the value they see in our amazing support by investing finincially in our competitions. </h4>
+				<h4 class="subheader">The costs of running events of this size is not insignificant and the success relies on a large team of people. Our sponsors are the cornerstone of these teams, demonstrating the value they see in our amazing support by investing financially in our competitions.</h4>
 			</div>
 		</div>
 		<div id="majorSponsors" class="row">
@@ -23,7 +23,7 @@
 						<img id="zebraImage" src="assets/uploads/zebra-logo.png" alt="Zebra Mats - simply the best">
 					</a>
 				</div>
-				<p>More people are choosing Zebra Equipment from Cung Le to Brock Lesner. The proof is in the the quality of our products... dont just chance it, Choose Zebra... Simply Z Best!</p>
+				<p>More people are choosing Zebra Equipment from Cung Le to Brock Lesner. The proof is in the the quality of our products... don't just chance it, Choose Zebra... Simply Z Best!</p>
 			</div>
 			<div class="large-5 columns large-offset-2">
 				<div class="image-wrapper">
