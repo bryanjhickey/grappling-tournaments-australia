@@ -7,7 +7,7 @@
 	
 <?php include '_masthead.php'; ?>
 	<div class="row">
-		<div id="uniformRequirements" class="small-10 small-offset-1 text-content large-12 columns">
+		<div id="uniformRequirements" class="text-content large-12 columns">
 			<h2>Terms of Entry</h2>
 			<p>I, the competitor and/or parent or legal guardian, understand that by entering this competition it may entail some risk of accident or injury and that this risk may be serious or even fatal.</p>
 			<p> I further understand that along with the possibility of personal injury that injury to property is also possible, such as but not limited to possible loss of wages and the ability to earn such. With full knowledge of the aforementioned dangers both to my person and to my property (current and future), I forever release and agree to hold harmless Grappling Tournaments Australia, its organizers, Australian Jiu-Jitsu Classic, Tournament Staff, State Netball &amp; Hockey Centre, and each of their agents, employees and representatives of and from all claims, demands, rights and causes of action of any nature whatsoever which I may have or which may hereafter accrue to me, arising from and by any reason of any and all bodily or personal injury, damage to property or other loss, and any consequences thereof, whether known or unknown, seen or unforeseen, resulting from my participation in this competition, the persons and entities mentioned above.</p>

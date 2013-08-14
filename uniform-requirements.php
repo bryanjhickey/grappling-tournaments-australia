@@ -7,7 +7,7 @@
 	
 <?php include '_masthead.php'; ?>
 	<div class="row">
-		<div id="uniformRequirements" class="small-10 small-offset-1 text-content large-12 columns">
+		<div id="uniformRequirements" class="text-content large-12 columns">
 			<h2>GI REQUIREMENTS</h2>
 			<p>For Jiu-Jitsu No-Gi, athletes should abide by the following attire requirements:</p>
 			<ol>

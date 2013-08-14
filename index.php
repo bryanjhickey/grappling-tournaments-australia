@@ -41,7 +41,7 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. Our goal is simple. To improve the level of Jiu Jitsu in Australasia. We do this by running competitions 100% for the competitors. The funds raised from our events allow us to sponsor stand-out athletes to train and compete overseas on the world stage.</p>
+			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. Our goal is simple; to improve the level of Jiu Jitsu in Australasia. We do this by running competitions 100% for the competitors. The funds raised from our events allow us to sponsor standout athletes to train and compete overseas on the world stage.</p>
 			<p>Most important of all is you – the competitor. We strive to make all of our competitions great events for you and your team-mates. On and off the mat, we aim to demonstrate the very best in grappling culture.</p>
 			<p>We reward as many victors as possible with their chance to take their place among the world’s finest grapplers.</p>
 			<p class="right">&ndash; For Grapplers. By Grapplers.</p>

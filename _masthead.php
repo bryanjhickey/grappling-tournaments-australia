@@ -36,14 +36,17 @@
 							<li><a href="time-limits.php">Time Limits</a></li>
 							<li><a href="weight-classes.php">Weight Classes</a></li>
 							<li><a href="uniform-requirements.php">Uniform Requirements</a></li>
-							<li><a href="terms-of-entry.php">Terms of Entry</a></li>
+							<!-- <li><a href="terms-of-entry.php">Terms of Entry</a></li> -->
 						</ul>
 					</li>
 					<li><a href="prizes.php">Prizes</a></li>
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
-							<li><a href="2013-no-gi.php">2013 No Gi Championships</a></li>
+							<li><a href="2013.php">2013 Feb No Gi Championships</a></li>
+							<li><a href="2012.php">2012 May Gi Championships</a></li>
+							<li><a href="2011.php">2011 Oct Gi Championships</a></li>
+							<li><a href="2010.php">2011 Apr Gi Championships</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.php">Contact</a></li>

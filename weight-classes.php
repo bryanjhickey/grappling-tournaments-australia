@@ -20,91 +20,93 @@
           <thead>
             <tr>
               <th width="700">Weight Class</th>
-              <th width="300">kg (lbs)</th>
+              <th width="300">kilograms</th>
             </tr>
           </thead>
           <tbody>
            <tr>
               <td>ROSTER (GALO)</td>
-              <td>55.499 (127.0)</td>
+              <td>57.5</td>
             </tr>
             <tr>
               <td>SUPER FEATHER (PLUMA)</td>
-              <td>61.499 (141.5)</td>
+              <td>64.0</td>
             </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>67.499 (154.5)</td>
+              <td>70.0</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>73.499 (168.0)</td>
+              <td>76.0</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>79.499 (181.5)</td>
+              <td>82.3</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>85.499 (195.0)</td>
+              <td>88.3</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
-              <td>91.499 (208.0)</td>
+              <td>94.3</td>
             </tr>
             <tr>
               <td>SUPER HEAVY (SUPER PESADO)</td>
-              <td>97.499 (222.0)</td>
+              <td>100.5</td>
             </tr>
             <tr>
               <td>ULTRA HEAVY (PESADÍSSIMO)</td>
               <td>No Maximum Weight</td>
             </tr>
             <tr>
-              <td>OPEN CLASS (ABSOLUTO)</td>
+              <td>OPEN CLASS* (ABSOLUTO)</td>
               <td>Free</td>
             </tr>
           </tbody>
         </table>
+        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
         <hr>
         <h5>Adult female</h5>
         <table>
           <thead>
             <tr>
               <th width="700">Weight Class</th>
-              <th width="300">kg (lbs)</th>
+              <th width="300">kilograms</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td>SUPER FEATHER (PLUMA)</td>
-              <td>51.499 (118.0)</td>
+              <td>48.5</td>
            </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>56.499 (129.0)</td>
+              <td>53.5</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>61.499 (141.5)</td>
+              <td>58.5</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>66.499 (152.5)</td>
+              <td>69.0</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>71.499 (163.5)</td>
+              <td>74.0</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
               <td>No Maximum Weight</td>
             </tr>
-              <td>OPEN CLASS (ABSOLUTO)</td>
+              <td>OPEN CLASS* (ABSOLUTO)</td>
               <td>free</td>
             </tr>
           </tbody>
         </table>
+        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
       </div>
     </section>
     <section>
@@ -117,52 +119,53 @@
           <thead>
             <tr>
               <th width="700">Weight Class</th>
-              <th width="300">kg (lbs)</th>
+              <th width="300">kilograms</th>
             </tr>
           </thead>
           <tbody>
            <tr>
               <td>ROSTER (GALO)</td>
-              <td>55.499 (122.5)</td>
+              <td>55.499</td>
             </tr>
             <tr>
               <td>SUPER FEATHER (PLUMA)</td>
-              <td>61.499 (135.5)</td>
+              <td>61.499</td>
             </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>67.499 (149.0)</td>
+              <td>67.499</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>73.499 (162.0)</td>
+              <td>73.499</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>79.499 (175.5)</td>
+              <td>79.499</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>85.499 (188.5)</td>
+              <td>85.499</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
-              <td>91.499 (202.0)</td>
+              <td>91.499</td>
             </tr>
             <tr>
               <td>SUPER HEAVY (SUPER PESADO)</td>
-              <td>97.499 (215.0)</td>
+              <td>97.499</td>
             </tr>
             <tr>
               <td>ULTRA HEAVY (PESADÍSSIMO)</td>
               <td>No Maximum Weight</td>
             </tr>
             <tr>
-              <td>OPEBN CLASS</td>
+              <td>OPEN CLASS*</td>
               <td>Free</td>
             </tr>
           </tbody>
         </table>
+        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
         <hr>
         <h5>Adult female</h5>
         <table>
@@ -175,33 +178,34 @@
           <tbody>
             <tr>
               <td>SUPER FEATHER (PLUMA)</td>
-              <td>51.499 (113.5)</td>
+              <td>51.499</td>
            </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>56.499 (124.5)</td>
+              <td>56.499</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>61.499 (135.5)</td>
+              <td>61.499</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>66.499 (147.0)</td>
+              <td>66.499</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>71.499 (158.0)</td>
+              <td>71.499</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
               <td>No Maximum Weight</td>
             </tr>
-              <td>OPEN CLASS (ABSOLUTO)</td>
+              <td>OPEN CLASS* (ABSOLUTO)</td>
               <td>free</td>
             </tr>
           </tbody>
         </table>
+        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
       </div>
     </section></div>
   </div>

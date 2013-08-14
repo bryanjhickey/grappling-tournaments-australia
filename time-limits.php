@@ -42,16 +42,12 @@
               <td>Black Belt</td>
               <td>10 minutes</td>
             </tr>
-            <tr>
-              <td>Women's Absolute</td>
-              <td>7 minutes</td>
-            </tr>
           </tbody>
         </table>
       </div>
     </section>
     <section>
-      <p class="title" data-section-title><a href="#">Master &amp; Senior Time Limits</a></p>
+      <p class="title" data-section-title><a href="#">Master &amp; Senior Times</a></p>
       <div class="content" data-section-content>
         <h5>Adult Male</h5>
         <table>
