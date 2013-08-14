@@ -55,7 +55,7 @@
 				<div class="large-4 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
-							<img id="powernutrientsImage" src="assets/uploads/power_nutrients.png" alt="">
+							Powerhouse Security Logo to go here
 						</a>
 					</div>
 				</div>
