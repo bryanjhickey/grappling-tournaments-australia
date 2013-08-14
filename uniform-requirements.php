@@ -16,7 +16,7 @@
 				<li>The jacket skirt must reach the thighs, and sleeves must reach the wrist with arms extended in front of the body.</li>
 				<li>Belt width 4-5 centimetres, in the colour of the athletes current rank, and tied around the waist in a double knot, tight enough to keep the jacket closed.</li>
 				<li>No clothing is allowed under the jacket top (rash guards, t-shirts, etc.), except for in the female divisions</li>
-				<li>Patches are allowed on the gi only in the marked <br><img title="Gi patches" alt="" src="http://www.ibjjf.org/imagens/kimono_regra.jpg" /></li>
+				<li>Patches are allowed on the gi only in the marked <br><img title="Gi patches" alt="Gi Patches Diagram" src="assets/uploads/uniform-requirements.png" /></li>
 			</ol>
 
 			<hr>
