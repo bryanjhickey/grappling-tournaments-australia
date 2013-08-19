@@ -1,12 +1,7 @@
 <?php include '_dochead.php'; ?>
 
 <title>Grappling Tournaments Australia | For Grapplers. By Grapplers</title>
-
-</head>
-<body>
-	
-	<?php include '_masthead.php'; ?>
-	<style>
+<style>
 	#timerLabel {
 		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 		color: #fff;
@@ -17,7 +12,12 @@
 		color: rgb(195, 137, 48);
 		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 	}
-	</style>
+	</style>	
+</head>
+<body>
+	
+	<?php include '_masthead.php'; ?>
+	
 	<div id="officialRegister">
 		<div class="row">
 			<div class="small-12 large-centered columns">
@@ -81,7 +81,6 @@
 						</form>
 					</div>
 			  	</div>
-			</form>
 			</div>
 		  <a class="close-reveal-modal">&#215;</a>
 		</div>
