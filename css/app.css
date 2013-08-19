@@ -6787,19 +6787,24 @@ footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 393, ../scss/_masthead.scss */
+/* line 392, ../scss/_masthead.scss */
+iframe {
+  border: none;
+}
+
+/* line 395, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 398, ../scss/_masthead.scss */
+/* line 400, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 403, ../scss/_masthead.scss */
+/* line 405, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
