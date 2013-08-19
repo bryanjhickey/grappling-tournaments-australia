@@ -61,7 +61,7 @@
 						<label for="MERGE0">
 							<strong>Email Address</strong><span class="asterisk">*</span></label>
 							<div class="field-group">
-						    	<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>	    
+						    	<input type="email" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>	    
 							</div>
 							<div class="" id="mergeRow-1">
 								<label for="MERGE1">First Name</label>
