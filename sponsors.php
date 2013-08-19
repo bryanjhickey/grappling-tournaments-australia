@@ -71,7 +71,7 @@
 				<div class="large-4 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
-							<img id="colourtechImage" src="assets/uploads/afc_logo.png" alt="">
+							<img id="afcImage" src="assets/uploads/afc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
