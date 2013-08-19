@@ -101,6 +101,7 @@
               <td>HEAVY (PESADO)</td>
               <td>No Maximum Weight</td>
             </tr>
+            <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
               <td>free</td>
             </tr>
@@ -200,6 +201,7 @@
               <td>HEAVY (PESADO)</td>
               <td>No Maximum Weight</td>
             </tr>
+            <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
               <td>free</td>
             </tr>
