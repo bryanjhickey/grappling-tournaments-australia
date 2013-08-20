@@ -43,10 +43,10 @@
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
-							<li><a href="2013.php">2013 Feb No Gi Championships</a></li>
-							<li><a href="2012.php">2012 May Gi Championships</a></li>
-							<li><a href="2011.php">2011 Oct Gi Championships</a></li>
-							<li><a href="2010.php">2011 Apr Gi Championships</a></li>
+							<li><a href="2013.php">2013 Feb NO GI Championships</a></li>
+							<li><a href="2012.php">2012 May GI Championships</a></li>
+							<li><a href="2011.php">2011 Oct GI Championships</a></li>
+							<li><a href="2010.php">2011 Apr GI Championships</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.php">Contact</a></li>

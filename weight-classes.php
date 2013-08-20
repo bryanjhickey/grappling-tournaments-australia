@@ -14,7 +14,7 @@
       <p class="title" data-section-title><a href="#">Gi Weight Classes</a></p>
       <div class="content" data-section-content>
       <h2>Gi Weight Classes</h2>
-      <h3><small>Weights include the athlete wearing complete Gi uniform.</small></h3>
+      <h3><small>Weights include the athlete wearing complete GI uniform.</small></h3>
         <h5>Adult Male</h5>
         <table>
           <thead>
@@ -111,10 +111,10 @@
       </div>
     </section>
     <section>
-      <p class="title" data-section-title><a href="#">No Gi Weight Classes</a></p>
+      <p class="title" data-section-title><a href="#">No GI Weight Classes</a></p>
       <div class="content" data-section-content>
-         <h2>No Gi Weight Classes</h2>
-      <h3><small>Weights include the athlete wearing complete No Gi uniform.</small></h3>
+         <h2>No GI Weight Classes</h2>
+      <h3><small>Weights include the athlete wearing complete NO GI uniform.</small></h3>
         <h5>Adult Male</h5>
         <table>
           <thead>

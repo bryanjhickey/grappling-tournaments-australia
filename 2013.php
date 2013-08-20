@@ -1,6 +1,6 @@
 <?php include '_dochead.php'; ?>
 
-<title>2013 No Gi | Grappling Tournaments Australia</title>
+<title>2013 NO GI | Grappling Tournaments Australia</title>
 
 </head>
 <body>
@@ -15,13 +15,13 @@
 	    <div class="content" data-section-content>
 	    	<div class="row">
 	     		<div class="text-content large-12 columns">
-				<h2>2013 No Gi Championship Review</h2>
+				<h2>2013 NO GI Championship Review</h2>
 				<hr>
-				<p>Some days have passed since the ending of what became an amazing and special event - The GTA No Gi Australian Jiu Jitsu Championships.</p>
+				<p>Some days have passed since the ending of what became an amazing and special event - The GTA NO GI Australian Jiu Jitsu Championships.</p>
 				<p>It has been a few years since a number us sat down and started talking about the idea of creating an organisation which runs events 100% about the competitors and the Jiu Jitsu community as a whole.</p>
 				<p>The idea was very simple. All the money we make we give back. We send the stand out competitors to LA for a training camp and to compete in the World Championships. More competitors means more money which means more athletes going overseas. And most importantly, to do all of this in an inclusive and positive way.</p>
 				<p>The events have grown rapidly from the first one we ran a few years ago which had 150 competitors. The next grew to 200 and the last event we ran in 2012 had 230.</p>
-				<p>For the No Gi Aussie Champs we decided to eliminate the kids divisions, despite having 30 awesome kids at the previous event. We want to ensure an environment that kids get the focus they deserve and have an amazing experience. The venue and focus of the GTA events, we realised, is not best for this. We have resolved this by creating event on the MG calendar just for kids - the Mini MG slated for May 2013.</p>
+				<p>For the NO GI Aussie Champs we decided to eliminate the kids divisions, despite having 30 awesome kids at the previous event. We want to ensure an environment that kids get the focus they deserve and have an amazing experience. The venue and focus of the GTA events, we realised, is not best for this. We have resolved this by creating event on the MG calendar just for kids - the Mini MG slated for May 2013.</p>
 				<p>We had a goal of sending one of each male white, blue, purple and brown belts overseas and one of each white and coloured belt females. In order to do this we had to reach 300 entries. Minutes before entries closed midnight on Thursday we hit 304 entries. This means we grew 50% since our last event in the number of adults competing AND we could afford to sponsor all six athletes! Myself, Cam and Jess felt pretty damn excited at that moment.</p>
 				<p>The week before the event is always immensely stressful, especially the Friday. Timelines are tight and there are always little issues that need to be sorted with brackets, venue and set up. This year was no different. But through some early mornings and late nights and a tonne of time put in from some amazing people everything came together.</p>
 				<p>The event itself was amazing. Of course it is not without room for improvement. Every event we run we learn more and see ways to make the experience better for everyone involved. Regardless, the event just hummed with a great vibe and energy all day. It was supported by just about every school and affiliation in Victoria and many from interstate. Great to see so many top level guys and girls on the mat. The brown belts were out in force and the black belt super fight was amazing and great to watch. Lachie "Lachness Monster" Giles and Yuri Simoes put on a great fight.</p>
@@ -38,7 +38,7 @@
 				<p>The second was Anna "Hobbit" Hyvarinen. She won all of her fights without a point scored on her in both her weight and the open, submitting many in the process, and reaching the final of the female white belt open in which she was one of the smallest fighters. In the final she landed awkwardly in the process of finishing a takedown on her bigger opponent and was unable to continue due to injury. She was tenacious, technical and smiling all day.</p>
 				<p>Both of these fighters we feel embody the martial arts spirit and the showcase exactly the culture we strive for with GTA events. Passion, positivity, and community.</p>
 				<p>We were fortunate to have the support of three amazing financial sponsors - AFC, FFA PaySmart, and Powerhouse Security Services. Each giving $1,000 to the event for funding trips. A fantastically generous gift. With this and a few other wins on the financial side of the event and we are already a good way to covering the wild card trips for these athletes. The rest we will raise with the help of the amazing community we are part of.</p>
-				<p>What a wicked team we have going to the No Gi Worlds in LA!</p>
+				<p>What a wicked team we have going to the NO GI Worlds in LA!</p>
 				<p>Despite a couple of hiccups the day was filled with positivity, amazing sportsmanship, epic jiu jitsu, selfless hard work by all volunteers (who go all but unmentioned), fantastic support from the crowd, and great appreciation by all involved of the goal of the event.</p>
 				<p>In true GTA spirit a couple of competitors who's own business's supported the event by sponsoring product. Lee Ting owns GNC at QV. He generously supplied a some awesome product for standout athletes as well as vouchers for medal winners. Daniel "Jungle Fish" Jungfliesch is the owner of Combat Seven. Combat Seven make fully custom rashies. They are a wicked product. He gave vouchers to stand out fighters on each of the four mats. These fighters scored the sweet rashies were:</p>
 				<p>Nicole Nolan<br>
@@ -49,7 +49,7 @@
 				<p>You can check out all our sponsors via the GTA website as well as the links below. Support the business's who support our sport and competitors!</p>
 				<p>Before closing, there was one other amazing and touching moment that simply must be noted. The open white belt division final was fought by two team mates and true gentlemen - Maka Tanginoa and George Tuuholoaki. Both Maromba students from Mildura. Their fight was awesome and went to time with Maka winning on points. In what was one of the most amazing displays of respect and selflessness, when Maka was awarded his well deserved trip he immediately asked if he could give the trip to his team mate George.</p>
 				<p>Not only is the act in itself stunning, but the ease with which this came to Maka is beautiful.</p>
-				<p>This act of generosity and kinship from Maka at the GTA No Gi Aussie Champs made the day special for me, made quite a few people cry, and truly captured the sense of community we have in Jiu Jitsu in Victoria and Australia and that we are trying to promote through this event.</p>
+				<p>This act of generosity and kinship from Maka at the GTA NO GI Aussie Champs made the day special for me, made quite a few people cry, and truly captured the sense of community we have in Jiu Jitsu in Victoria and Australia and that we are trying to promote through this event.</p>
 				<p>My sincere thanks to all the volunteers, all sponsors, all competitors and all those in the Jiu Jitsu community who share the love and passion for our beautiful art.</p>
 				<p>See you on the mat,<br>
 				"little" Dave Hart</p>
@@ -71,7 +71,7 @@
 	    <div class="content" data-section-content>
 	     <div class="row">
 			<div class="text-content large-12 columns">
-				<h2>No Gi Australian Jiu Jitsu Championships</h2>
+				<h2>No GI Australian Jiu Jitsu Championships</h2>
 				<h3 class="subheader">February 2nd 2013</h3>
 					<table >
 						<thead>
