@@ -26,10 +26,10 @@
                 <td>Adults</td>
                 <td>16 &ndash; 30</td>
               </tr>
-              <tr>
+             <!--  <tr>
                 <td>Masters &amp; Seniors</td>
                 <td>31 +</td>
-              </tr>
+              </tr> -->
             </tbody>
           </table>
         </div>
