@@ -12,12 +12,6 @@
 		<div id="uniformRequirements" class="text-content large-12 columns">
 			<h2>Prizes</h2>
 			<h4 class="subheader">What is on offer?</h4>
-			<p>GTA is 100% non-profit and run completely by volunteers. We have a great number of people from many different schools who donate their time, money and resources to see the GTA events succeed.</p>
-			<p>Our goal is simple: to improve the level of Jiu Jitsu here in Australasia by helping as many of our top athletes as possible compete overseas at the IBJJF World Championships. So how do we achieve these goals?</p>
-			<p>After we pay for the essentials of venue hire, first aid, etc., every cent from your entry fees goes back to the athletes in the form of sponsorships. This means that the more people who compete, the more sponsorships we can offer! </p>
-			<p>The simple fact is that there are many competitors out there who might never experience Jiu Jitsu on the world stage if not for our sponsorship. The motivation in running the GTA events is to give these individuals the chance to get overseas, participate in pre-competition  training and compete as part of a team. We want you to have an amazing experience, and inflame your passion - and the passion of those around you - for our amazing art of Jiu Jitsu. As a result we offer sponsorships to outstanding athletes to help them compete at the IBJJF World Championships each year in Los Angeles.</p>
-			<p>It is hard to describe how inspiring, motivating and exceptional the experience is of competing on the world stage. It completely changes the way we feel about jiu jitsu and opens up our minds to what is possible for us as individuals in the sport and as Aussies representing our country. These trips drive and motivate us to achieve more. The training camps and competition expose us to new and different ideas, techniques and training programs. Not only does the individual  going to the Worlds benefit but so do their team mates in helping them prepare. When a sponsored athlete returns they share all the Jiu Jitsu awesomeness that they have brought back!</p>
-			<p>The sponsorship package includes airfare, pre-competition training camp, and competition entry. Students must organise all annual memberships to IBJJF and membership cards through their own coach / school.</p>
 			<p>As a minimum, we send the following athletes to compete in the World Championships:</p>
 			<ul class="no-bullet">
 				<li>1 x Male Blue Belt</li>
