@@ -21,9 +21,10 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="small-12 large-centered columns">
-				<h2>OFFICIAL ANNOUNCEMENTS</h2>
-				<h5 class="subheader">GET THE LATEST NEWS ON OUR COMPETITIONS</h5>
-				<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>
+				<h2>REGISTRATIONS OPEN</h2>
+				<h5 class="subheader">SIGN UP NOW FOR AUSTRALIA'S PREMIER GRAPPLING COMPETITION</h5>
+				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
+				<a href="http://strongvon.com/aujiujitsuchamps2013/" class="button medium radius" title="Register todat" target="_blank">REGISTER NOW</a>
 				<hr>
 				<div id="timer" class="row">
 					<div class="large-10 large-centered columns">
