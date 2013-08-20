@@ -83,7 +83,11 @@
 					</div> -->
 				</div>
 			</div>
-			<hr>
+		</div>
+		<div class="row">
+			<div class="small-12 columns">
+				<hr>
+			</div>
 		</div>
 		<div class="row">
 			<div id="sponsorsInterest" class="large-8 large-centered small-12 text-content columns">
