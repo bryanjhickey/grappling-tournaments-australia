@@ -38,28 +38,30 @@
 		<div id="minorSponsors">
 			<div class="row">
 				<h2>Sponsors</h2>
-				<div class="small-3 columns">
+				<div class="small-6 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-3 columns">
+				<div class="small-6 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-3 columns">
+			</div>
+			<div class="row">
+				<div class="small-6 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-3 columns">
+				<div class="small-6 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="afcImage" src="assets/uploads/afc_logo.png" alt="">
@@ -75,6 +77,7 @@
 		</div>
 		<div class="row">
 			<div id="sponsorsInterest" class="large-8 large-centered small-12 text-content columns">
+			<p></p>
 				<p>If you would like to become a sponsor and support this amazing sport, <a href="">find out more today</a>.</p>
 				<p>Grappling Tournaments Australia relies on the valued contributions of volunteers for running mats, marshalling and organise logistics. If you are interested in volunteering <a href="#">join our mailing list.</a></p>
 			</div>
