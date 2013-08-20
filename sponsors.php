@@ -9,7 +9,7 @@
 	
 	<div id="sponsors">
 		<div id="sponsorsIntro" class="row">
-			<div class="large-12 small-12 text-content columns">
+			<div class="large-8 large-centered small-12 text-content columns">
 				<p>Our competitions simply would not happen without the support of our amazing sponsors.</p>
 				<p>The costs of running events of this size is not insignificant and the success relies on a large team of people. Our sponsors are the cornerstone of these teams, demonstrating the value they see in our amazing support by investing financially in our competitions.</p>
 			</div>
@@ -85,7 +85,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div id="sponsorsInterest" class="large-12 small-12 text-content columns">
+			<div id="sponsorsInterest" class="large-8 large-centered small-12 text-content columns">
 				<hr>
 				<p>If you would like to become a sponsor and support this amazing sport, <a href="">find out more today</a>.</p>
 				<p>Grappling Tournaments Australia relies on the valued contributions of volunteers for running mats, marshalling and organise logistics. If you are interested in volunteering <a href="#">join our mailing list.</a></p>
