@@ -24,7 +24,7 @@
             <tbody>
               <tr>
                 <td>Adults</td>
-                <td>16 &ndash; 30</td>
+                <td>16+</td>
               </tr>
              <!--  <tr>
                 <td>Masters &amp; Seniors</td>

@@ -22,6 +22,7 @@
 				<li>1 x Female Purple Belt</li>
 				<li>4 x WILD CARDS to outstanding Athletes</li>
 			</ul>
+			<p>The sponsorship package includes airfare, pre-competition training camp, and competition entry. Students must organise all annual memberships to IBJJF and membership cards through their own coach / school.</p>
 			<p>Prize winners for the Men’s &amp; Women’s White Belt Open receive:</p>
  			<ul class="no-bullet">
 				<li>1st - Sponsorship Pack to the value of $750 <li>

@@ -62,13 +62,13 @@
             </tr>
             <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
-              <td>Free</td>
+              <td>No Maximum Weight</td>
             </tr>
           </tbody>
         </table>
         <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
         <hr>
-        <h5>Adult female</h5>
+        <h5>Adult Female</h5>
         <table>
           <thead>
             <tr>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
-              <td>free</td>
+              <td>No Maximum Weight</td>
             </tr>
           </tbody>
         </table>
@@ -203,7 +203,7 @@
             </tr>
             <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
-              <td>free</td>
+               <td>No Maximum Weight</td>
             </tr>
           </tbody>
         </table>

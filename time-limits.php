@@ -46,7 +46,7 @@
         </table>
       </div>
     </section>
-    <section>
+<!--     <section>
       <p class="title" data-section-title><a href="#">Master &amp; Senior Times</a></p>
       <div class="content" data-section-content>
         <h5>Adult Male</h5>
@@ -81,7 +81,7 @@
           </tbody>
         </table>
         </div>
-      </section>
+      </section> -->
     </div>
   </div>
 </div>
