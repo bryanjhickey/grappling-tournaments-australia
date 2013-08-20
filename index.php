@@ -21,8 +21,8 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="small-12 large-centered columns">
-				<h2>REGISTRATIONS OPEN</h2>
-				<h5 class="subheader">SIGN UP NOW FOR AUSTRALIA'S PREMIER GRAPPLING COMPETITION</h5>
+				<h2>REGISTRATIONS NOW OPEN</h2>
+				<h5 class="subheader">AUSTRALIA'S PREMIER GRAPPLING COMPETITION</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<a href="http://strongvon.com/aujiujitsuchamps2013/" class="button medium radius" title="Register todat" target="_blank">REGISTER NOW</a>
 				<hr>
