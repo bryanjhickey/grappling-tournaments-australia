@@ -83,10 +83,10 @@
 					</div> -->
 				</div>
 			</div>
+			<hr>
 		</div>
 		<div class="row">
 			<div id="sponsorsInterest" class="large-8 large-centered small-12 text-content columns">
-				<hr>
 				<p>If you would like to become a sponsor and support this amazing sport, <a href="">find out more today</a>.</p>
 				<p>Grappling Tournaments Australia relies on the valued contributions of volunteers for running mats, marshalling and organise logistics. If you are interested in volunteering <a href="#">join our mailing list.</a></p>
 			</div>
