@@ -168,7 +168,7 @@
         </table>
         <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
         <hr>
-        <h5>Adult female</h5>
+        <h5>Adult Female</h5>
         <table>
           <thead>
             <tr>
