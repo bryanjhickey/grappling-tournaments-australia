@@ -38,49 +38,33 @@
 		<div id="minorSponsors">
 			<div class="row">
 				<h2>Sponsors</h2>
-				<div class="large-4 columns">
+				<div class="small-3 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="large-4 columns">
+				<div class="small-3 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="large-4 columns">
-					<div class="image-wrapper">
-						<a href="#" title="">
-							Powerhouse Security Logo to go here
-						</a>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-4 columns">
+				<div class="small-3 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="large-4 columns">
+				<div class="small-3 columns">
 					<div class="image-wrapper">
 						<a href="#" title="">
 							<img id="afcImage" src="assets/uploads/afc_logo.png" alt="">
 						</a>
 					</div>
-				</div>
-				<div class="large-4 columns">
-					<!-- <div class="image-wrapper">
-						<a href="#" title="">
-							<img id="powernutrientsImage" src="assets/uploads/power_nutrients.png" alt="">
-						</a>
-					</div> -->
 				</div>
 			</div>
 		</div>
