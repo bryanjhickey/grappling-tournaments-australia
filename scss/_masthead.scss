@@ -42,10 +42,10 @@ th {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
-		max-width: 640px;
+		max-width: 530px;
 		margin: 0 auto;
 		  @media #{$topbar-media-query} {
-		  	max-width: 640px;
+		  	max-width: 530px;
 			margin: 0 auto;
 		  }
 		.top-bar-section {

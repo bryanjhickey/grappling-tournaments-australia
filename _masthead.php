@@ -49,7 +49,7 @@
 							<li><a href="2010.php">2011 Apr GI Championships</a></li>
 						</ul>
 					</li>
-					<li><a href="contact.php">Contact</a></li>
+					<!-- <li><a href="contact.php">Contact</a></li> -->
 				</ul>
 			</section>
 		</nav>

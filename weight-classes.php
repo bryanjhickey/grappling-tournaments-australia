@@ -25,11 +25,11 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER (GALO)</td>
+              <td>ROOSTER (GALO)</td>
               <td>57.5</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER (PLUMA)</td>
+              <td>LIGHT FEATHER (PLUMA)</td>
               <td>64.0</td>
             </tr>
             <tr>
@@ -45,7 +45,7 @@
               <td>82.3</td>
             </tr>
             <tr>
-              <td>MEDIUM HEAVY (MEIO-PESADO)</td>
+              <td>MIDDLE HEAVY (MEIO-PESADO)</td>
               <td>88.3</td>
             </tr>
             <tr>
@@ -78,16 +78,20 @@
           </thead>
           <tbody>
             <tr>
-              <td>SUPER FEATHER (PLUMA)</td>
+              <td>ROOSTER (Galo)</td>
               <td>48.5</td>
            </tr>
             <tr>
-              <td>FEATHER (PENA)</td>
+              <td>LIGHT FEATHER (Pluma)</td>
               <td>53.5</td>
             </tr>
             <tr>
-              <td>LIGHT (LEVE)</td>
+              <td>FEATHER (Pena)</td>
               <td>58.5</td>
+            </tr>
+            <tr>
+              <td>LIGHT (Leve)</td>
+              <td>64.0</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
@@ -125,11 +129,11 @@
           </thead>
           <tbody>
            <tr>
-              <td>ROSTER (GALO)</td>
+              <td>ROOSTER (GALO)</td>
               <td>55.499</td>
             </tr>
             <tr>
-              <td>SUPER FEATHER (PLUMA)</td>
+              <td>LIGHT FEATHER (PLUMA)</td>
               <td>61.499</td>
             </tr>
             <tr>
@@ -178,7 +182,7 @@
           </thead>
           <tbody>
             <tr>
-              <td>SUPER FEATHER (PLUMA)</td>
+              <td>LIGHT FEATHER (PLUMA)</td>
               <td>51.499</td>
            </tr>
             <tr>
