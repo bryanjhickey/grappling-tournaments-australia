@@ -22,7 +22,7 @@
 		<div id="footerLegal" class="row">
 			<hr>
 			<div id="leftFooter" class="large-7 columns">
-				<div class="inline" id="footerEmail"><a href="#">info@grapplingtournaments.com.au</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline" id="footerEmail"><a href="mailto:info@grapplingtournaments.com.au" target="_blank" title="Contact Us">info@grapplingtournaments.com.au</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline" id="footerAddress">555 Victoria Street, Abbotsford, VIC. 3121</div>
 			</div>
 			<div  id="rightFooter" class="large-5 columns">

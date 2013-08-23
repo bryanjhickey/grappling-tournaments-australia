@@ -19,7 +19,7 @@
 			<h2>Major Sponsors</h2>
 			<div class="large-5 columns">
 				<div class="image-wrapper">
-					<a href="#" title="Zebra Mats - simply the best">
+					<a href="http://www.zebramats.com.au" target="_blank" title="Zebra Mats - simply the best">
 						<img id="zebraImage" src="assets/uploads/zebra-logo.png" alt="Zebra Mats - simply the best">
 					</a>
 				</div>
@@ -27,7 +27,7 @@
 			</div>
 			<div class="large-5 columns large-offset-2">
 				<div class="image-wrapper">
-					<a href="#" title="PaySmart - the benchmark in direct debit billing">
+					<a href="http://www.ffapaysmart.com.au/‎" target="_blank" title="PaySmart - the benchmark in direct debit billing">
 						<img id="paysmartImage" src="assets/uploads/ffa_paysmart.png" alt="PaySmart - the benchmark in direct debit billing">
 					</a>
 				</div>
@@ -40,14 +40,14 @@
 				<h2>Sponsors</h2>
 				<div class="small-6 columns">
 					<div class="image-wrapper">
-						<a href="#" title="">
+						<a href="http://www.grapplingstore.com/‎" target="_blank" title="Grappling Store">
 							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="small-6 columns">
 					<div class="image-wrapper">
-						<a href="#" title="">
+						<a href="http://www.colourtechnet.com/" target="_blank" title="Colourtech - Large Format Printing">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
@@ -56,14 +56,14 @@
 			<div class="row">
 				<div class="small-6 columns">
 					<div class="image-wrapper">
-						<a href="#" title="">
+						<a href="http://www.gnclivewell.com.au/‎" target="_blank" title="GNC LiveWell Australia">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="small-6 columns">
 					<div class="image-wrapper">
-						<a href="#" title="">
+						<a href="http://afcmma.com.au/" target="_blank" title="AFC - Australian Fighting Championship">
 							<img id="afcImage" src="assets/uploads/afc_logo.png" alt="">
 						</a>
 					</div>
@@ -78,13 +78,49 @@
 		<div class="row">
 			<div id="sponsorsInterest" class="large-8 large-centered small-12 text-content columns">
 			<p></p>
-				<p>If you would like to become a sponsor and support this amazing sport, <a href="">find out more today</a>.</p>
-				<p>Grappling Tournaments Australia relies on the valued contributions of volunteers for running mats, marshalling and organise logistics. If you are interested in volunteering <a href="#">join our mailing list.</a></p>
+				<p>If you would like to become a sponsor and support this amazing sport, <a href="mailto:info@grapplingtournaments.com.au" target="_blank" title="Contact Us">find out more today</a>.</p>
+				<p>Grappling Tournaments Australia relies on the valued contributions of volunteers for running mats, marshalling and organise logistics. If you are interested in volunteering <a href="#" data-reveal-id="mailModal">join our mailing list.</a></p>
 			</div>
 		</div>
 	</div>
 
+	
 	<?php include '_footer.php'; ?>
+
+		<div id="mailModal" class="reveal-modal">
+			<div id="mc_embed_signup">
+				<div class="row">
+					<div class="large-12">
+					<h4>sign up to our mailing list</h4>
+					<form action="http://grapplingtournaments.us7.list-manage.com/subscribe/post" method="POST">
+						<input type="hidden" name="u" value="e61f487a5429e929e557faf44">
+						<input type="hidden" name="id" value="671550f37a">
+						<label for="MERGE0">
+							<strong>Email Address</strong><span class="asterisk">*</span></label>
+							<div class="field-group">
+						    	<input type="email" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>	    
+							</div>
+							<div class="" id="mergeRow-1">
+								<label for="MERGE1">First Name</label>
+								<div class="field-group">
+						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="John">					    
+								</div>
+							</div>
+							<div class="" id="mergeRow-2">
+								<label for="MERGE2">Last Name</label>
+								<div class="field-group">
+						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="Smith">  
+								</div>
+							</div>
+							<div class="submit_container">
+								<input type="submit" class="button small radius" name="submit" value="Subscribe to list" >
+							</div>
+						</form>
+					</div>
+			  	</div>
+			</div>
+		  <a class="close-reveal-modal">&#215;</a>
+		</div>
 
 </body>
 </html>
