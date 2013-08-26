@@ -28,7 +28,7 @@
 				<hr>
 				<div id="timer" class="row">
 					<div class="large-10 large-centered columns">
-					<h3 class="subheader">NEXT COMPETITION: 22 Sept 2013</h3>
+					<h3 class="subheader">NEXT COMPETITION: 21 Sept 2013</h3>
 						<div class="row">
 							<div class="large-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-4 columns"><h4><span id="timerhours" class="timebox">01 HOURS</span></h4></div>
@@ -87,7 +87,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2013, 9-1, 22, 8);
+			var liftoffTime = new Date(2013, 9-1, 21, 8);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
 				timezone: +10,
