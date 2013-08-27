@@ -22,13 +22,13 @@
 		<div class="row">
 			<div class="small-12 large-centered columns">
 				<h2>REGISTRATIONS NOW OPEN</h2>
-				<h5 class="subheader">AUSTRALIA'S PREMIER GRAPPLING COMPETITION</h5>
+				<h5 class="subheader">GTA GI ONLY COMPETITION</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<a href="http://strongvon.com/aujiujitsuchamps2013/" class="button medium radius" title="Register todat" target="_blank">REGISTER NOW</a>
 				<hr>
 				<div id="timer" class="row">
 					<div class="large-10 large-centered columns">
-					<h3 class="subheader">NEXT COMPETITION: 21 Sept 2013</h3>
+					<h3 class="subheader">NEXT COMPETITION: 21 Sept 2013 - GI ONLY</h3>
 						<div class="row">
 							<div class="large-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-4 columns"><h4><span id="timerhours" class="timebox">01 HOURS</span></h4></div>
