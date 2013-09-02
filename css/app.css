@@ -6434,7 +6434,7 @@ th {
 /* line 111, ../scss/_masthead.scss */
 #officialRegister {
   height: 564px;
-  background: black url("../assets/img/sign-up-banner-big.jpg") center top no-repeat;
+  background: black url("../assets/img/sign-up-banner-big.jpg") 0% 43% no-repeat;
   text-align: center;
   padding: 6em 0;
 }
