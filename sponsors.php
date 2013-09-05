@@ -38,33 +38,45 @@
 		<div id="minorSponsors">
 			<div class="row">
 				<h2>Sponsors</h2>
-				<div class="small-6 columns">
+				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://www.grapplingstore.com/‎" target="_blank" title="Grappling Store">
-							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
+						<a href="http://afcmma.com.au/" target="_blank" title="Australian Fighting Championshp">
+							<img id="gncImage" src="assets/uploads/afc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-6 columns">
+				<div class="small-4 columns">
 					<div class="image-wrapper">
 						<a href="http://www.colourtechnet.com/" target="_blank" title="Colourtech - Large Format Printing">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="small-6 columns">
+				<div class="small-4 columns">
 					<div class="image-wrapper">
 						<a href="http://www.gnclivewell.com.au/‎" target="_blank" title="GNC LiveWell Australia">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-6 columns">
+			</div>
+			<div class="row">
+				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://afcmma.com.au/" target="_blank" title="AFC - Australian Fighting Championship">
-							<img id="afcImage" src="assets/uploads/afc_logo.png" alt="">
+						<a href="http://www.grapplingstore.com/‎" target="_blank" title="Grappling Store">
+							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
+						</a>
+					</div>
+				</div>
+				<div class="small-4 columns">
+					<div class="image-wrapper">
+						
+					</div>
+				</div>
+				<div class="small-4 columns">
+					<div class="image-wrapper">
+						<a href="http://www.michaelwilson.com.au/" target="_blank" title="Michael Wilson Diamon Jewellers">
+							<img id="afcImage" src="assets/uploads/MW-logo.jpg" alt="">
 						</a>
 					</div>
 				</div>
