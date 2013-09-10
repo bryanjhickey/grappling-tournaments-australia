@@ -24,13 +24,17 @@ body {
 		text-transform: uppercase;
 		color: #fff;
 		font-size: emCalc(34px);
+		font-weight: 600;
 		margin-bottom: 0;
+		padding-top: 0.5em;
+		text-shadow: -1px 1px 1px rgba(0,0,0,1);
 	}
 	h4 {
-		color: $primary-color;
+		color: #fff;
 		text-transform: uppercase;
 		font-size: emCalc(34px);
-		letter-spacing: -0.03em;
+		letter-spacing: -0.01em;
+		text-shadow: -1px 1px 1px rgba(0,0,0,1);
 	}
 }
 
@@ -118,14 +122,14 @@ th {
 	}
 	h2, h5 { 
 		color: #fff;
-		text-shadow: 5px 5px 9px rgba(0,0,0,0.6);
+		text-shadow: 3px 3px 0px rgba(0,0,0,0.95);
 		text-align: center;
 	}
 	h2 {
-		font-size: emCalc(60px);
-		line-height: 1;
+		font-size: emCalc(48px);
+		line-height: 2;
 		margin-bottom: 0;
-		letter-spacing: -0.03em;
+		letter-spacing: -0.01em;
 		@media only screen and (max-width : 480px) {
 			font-size: emCalc(32px);
 		}
@@ -133,10 +137,16 @@ th {
 	h5 {
 		margin-top: 0;
 		line-height: 1;
-		font-size: emCalc(34px);
+		font-size: emCalc(30px);
+		text-shadow: 1px 1px 0px rgba(255,255,255,1);
+		color: #000;
 		@media only screen and (max-width : 480px) {
 			font-size: emCalc(18px);
 		}
+	}
+	hr {
+		border-color: #000;
+		border-width: 2px;
 	}
 	h3 {
 	@media only screen and (max-width : 480px) {

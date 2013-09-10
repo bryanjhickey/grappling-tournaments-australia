@@ -20,15 +20,15 @@
 	
 	<div id="officialRegister">
 		<div class="row">
-			<div class="small-12 large-centered columns">
-				<h2>REGISTRATIONS NOW OPEN</h2>
-				<h5 class="subheader">GTA GI ONLY COMPETITION</h5>
+			<div class="large-12 small-10 small-centered large-centered columns">
+				<h2>AUSTRALIA JIU JITSU CHAMPIONSHIPS</h2>
+				<h5 class="subheader">GI ONLY | SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<a href="http://strongvon.com/aujiujitsuchamps2013/" class="button medium radius" title="Register todat" target="_blank">REGISTER NOW</a>
 				<hr>
-				<div id="timer" class="row">
-					<div class="large-10 large-centered columns">
-					<h3 class="subheader">NEXT COMPETITION: 21 Sept 2013 - GI ONLY</h3>
+				<div class="row">
+					<div id="timer" class="large-9 large-centered columns">
+					<h3 class="subheader">REGISTRATIONS CLOSE</h3>
 						<div class="row">
 							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HOURS</span></h4></div>
@@ -88,10 +88,10 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2013, 9-1, 21, 8);
+			var liftoffTime = new Date(2013, 9-1, 18, 24);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
-				timezone: +10,
+				timezone: +11,
     			layout: '{dnn} DAYS'
     		});
     		$('#timerhours').countdown({
