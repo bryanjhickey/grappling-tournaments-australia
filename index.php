@@ -27,7 +27,7 @@
 				<a href="http://strongvon.com/aujiujitsuchamps2013/" class="button medium radius" title="Register todat" target="_blank">REGISTER NOW</a>
 				<hr>
 				<div class="row">
-					<div id="timer" class="large-9 large-centered columns">
+					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
 					<h3 class="subheader">REGISTRATIONS CLOSE</h3>
 						<div class="row">
 							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
