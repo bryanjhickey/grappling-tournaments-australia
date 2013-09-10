@@ -6457,8 +6457,8 @@ th {
 /* line 128, ../scss/_masthead.scss */
 #officialRegister h2 {
   font-size: 3em;
-  line-height: 2;
-  margin-bottom: 0;
+  line-height: 1;
+  margin-bottom: 1rem;
   letter-spacing: -0.01em;
 }
 @media only screen and (max-width: 480px) {
