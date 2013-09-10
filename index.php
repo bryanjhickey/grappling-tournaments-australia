@@ -20,7 +20,7 @@
 	
 	<div id="officialRegister">
 		<div class="row">
-			<div class="large-12 small-10 small-centered large-centered columns">
+			<div class="large-12 small-12 small-centered large-centered columns">
 				<h2>AUSTRALIA JIU JITSU CHAMPIONSHIPS</h2>
 				<h5 class="subheader">GI ONLY | SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
