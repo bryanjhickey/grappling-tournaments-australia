@@ -6315,7 +6315,7 @@ body {
 @media only screen and (max-width: 768px) {
   /* line 8, ../scss/_masthead.scss */
   #masthead img {
-    width: 80%;
+    width: 100%;
   }
 }
 
