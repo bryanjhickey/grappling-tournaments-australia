@@ -46,10 +46,10 @@ th {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
-		max-width: 530px;
+		max-width: 685px;
 		margin: 0 auto;
 		  @media #{$topbar-media-query} {
-		  	max-width: 530px;
+		  	max-width: 685px;
 			margin: 0 auto;
 		  }
 		.top-bar-section {
@@ -63,6 +63,15 @@ th {
 			}
 			@media only screen and (max-width : $small-screen) {
 				width: 100%;
+			}
+			li#register a:not(.button) {
+				background: $primary-color;
+				color: #111;
+				font-family:"Trajan W01 Bd";
+				&:hover {
+					background: darken($primary-color, 6%);
+					color: #fff;
+				}
 			}
 			ul {
 				background: transparent;
@@ -84,6 +93,10 @@ th {
 								color: $primary-color;
 							}
 						}
+					}
+					li#register a  {
+						
+						
 					}
 				}
 			}	
