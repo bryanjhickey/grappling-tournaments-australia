@@ -6673,68 +6673,79 @@ th {
     margin-top: 0;
   }
 }
-/* line 310, ../scss/_masthead.scss */
+/* line 308, ../scss/_masthead.scss */
+#sponsors #majorSponsors .image-wrapper img#subapparel {
+  margin-top: 11em;
+  width: 80%;
+}
+@media only screen and (max-width: 768px) {
+  /* line 308, ../scss/_masthead.scss */
+  #sponsors #majorSponsors .image-wrapper img#subapparel {
+    margin-top: 0;
+  }
+}
+/* line 317, ../scss/_masthead.scss */
 #sponsors #minorSponsors {
   padding-bottom: 2em;
 }
-/* line 311, ../scss/_masthead.scss */
+/* line 318, ../scss/_masthead.scss */
 #sponsors #minorSponsors h2 {
   padding-bottom: 1em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 310, ../scss/_masthead.scss */
+  /* line 317, ../scss/_masthead.scss */
   #sponsors #minorSponsors {
     padding-bottom: 0;
   }
 }
-/* line 318, ../scss/_masthead.scss */
+/* line 325, ../scss/_masthead.scss */
 #sponsors #minorSponsors .row {
   margin-top: 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 318, ../scss/_masthead.scss */
+  /* line 325, ../scss/_masthead.scss */
   #sponsors #minorSponsors .row {
     margin-top: 0;
   }
 }
-/* line 325, ../scss/_masthead.scss */
+/* line 332, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper {
   position: relative;
   height: 8em;
   width: 80%;
   margin: 0 auto;
 }
-/* line 330, ../scss/_masthead.scss */
+/* line 337, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper img {
   position: absolute;
   bottom: 0;
   padding: 0 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 330, ../scss/_masthead.scss */
+  /* line 337, ../scss/_masthead.scss */
   #sponsors #minorSponsors .image-wrapper img {
     padding: 0 1em;
   }
 }
-/* line 340, ../scss/_masthead.scss */
+/* line 347, ../scss/_masthead.scss */
 #sponsors #sponsorsInterest {
   margin-bottom: 3em;
 }
 
-/* line 346, ../scss/_masthead.scss */
+/* line 353, ../scss/_masthead.scss */
 .contact #textContact {
   margin-top: 3em;
 }
-/* line 349, ../scss/_masthead.scss */
+/* line 356, ../scss/_masthead.scss */
 .contact form {
   margin-top: 2em;
 }
-/* line 351, ../scss/_masthead.scss */
+/* line 358, ../scss/_masthead.scss */
 .contact form textarea {
   height: 10em;
 }
 
-/* line 357, ../scss/_masthead.scss */
+/* line 364, ../scss/_masthead.scss */
 footer {
   padding-top: 3em;
   padding-bottom: 3em;
@@ -6742,28 +6753,28 @@ footer {
   background: #c38930;
   border-top: 4px solid #222;
 }
-/* line 363, ../scss/_masthead.scss */
+/* line 370, ../scss/_masthead.scss */
 footer #leftFooter {
   text-align: left;
 }
-/* line 366, ../scss/_masthead.scss */
+/* line 373, ../scss/_masthead.scss */
 footer #rightFooter {
   text-align: right;
 }
 @media only screen and (max-width: 768px) {
-  /* line 366, ../scss/_masthead.scss */
+  /* line 373, ../scss/_masthead.scss */
   footer #rightFooter {
     text-align: left;
     margin-top: 1em;
   }
 }
-/* line 373, ../scss/_masthead.scss */
+/* line 380, ../scss/_masthead.scss */
 footer .inline {
   display: inline-block;
   font-size: 0.8125em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 373, ../scss/_masthead.scss */
+  /* line 380, ../scss/_masthead.scss */
   footer .inline {
     display: block;
     font-size: 1em;
@@ -6771,29 +6782,29 @@ footer .inline {
   }
 }
 @media only screen and (max-width: 768px) {
-  /* line 382, ../scss/_masthead.scss */
+  /* line 389, ../scss/_masthead.scss */
   footer .footer-divider {
     display: none;
     visibility: hidden;
   }
 }
-/* line 389, ../scss/_masthead.scss */
+/* line 396, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 395, ../scss/_masthead.scss */
+/* line 402, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 398, ../scss/_masthead.scss */
+/* line 405, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 403, ../scss/_masthead.scss */
+/* line 410, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6801,36 +6812,36 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 410, ../scss/_masthead.scss */
+/* line 417, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 416, ../scss/_masthead.scss */
+/* line 423, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 420, ../scss/_masthead.scss */
+/* line 427, ../scss/_masthead.scss */
 iframe {
   border: none;
 }
 
-/* line 423, ../scss/_masthead.scss */
+/* line 430, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 428, ../scss/_masthead.scss */
+/* line 435, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 433, ../scss/_masthead.scss */
+/* line 440, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;

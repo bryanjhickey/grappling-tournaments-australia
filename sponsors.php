@@ -17,7 +17,15 @@
 		<div id="majorSponsors" class="row">
 			<hr>
 			<h2>Major Sponsors</h2>
-			<div class="large-5 columns">
+			<div class="large-4 columns">
+				<div class="image-wrapper">
+					<a href="http://www.subapparel.com/" target="_blank" title="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
+						<img id="subapparel" src="assets/uploads/sub-apparel.jpg" alt="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
+					</a>
+				</div>
+				<p>SUB Apparel are an Australian owned and operated fightwear company selling premium fight gear designed and tested by world class fighters.</p>
+			</div>
+			<div class="large-4 columns">
 				<div class="image-wrapper">
 					<a href="http://www.zebramats.com.au" target="_blank" title="Zebra Mats - simply the best">
 						<img id="zebraImage" src="assets/uploads/zebra-logo.png" alt="Zebra Mats - simply the best">
@@ -25,7 +33,7 @@
 				</div>
 				<p>More people are choosing Zebra Equipment from Cung Le to Brock Lesner. The proof is in the the quality of our products... don't just chance it, Choose Zebra... Simply Z Best!</p>
 			</div>
-			<div class="large-5 columns large-offset-2">
+			<div class="large-4 columns">
 				<div class="image-wrapper">
 					<a href="http://www.ffapaysmart.com.au/‎" target="_blank" title="PaySmart - the benchmark in direct debit billing">
 						<img id="paysmartImage" src="assets/uploads/ffa_paysmart.png" alt="PaySmart - the benchmark in direct debit billing">

@@ -305,6 +305,13 @@ th {
 					margin-top: 0;
 				}
 			}
+			img#subapparel {
+				margin-top: 11em;
+				width:80%;
+				@media only screen and (max-width : $small-screen) {
+					margin-top: 0;
+				}
+			}
 		}
 	}
 	#minorSponsors {
