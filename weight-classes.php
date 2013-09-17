@@ -66,7 +66,7 @@
             </tr>
           </tbody>
         </table>
-        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
+        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
         <hr>
         <h5>Adult Female</h5>
         <table>
@@ -111,7 +111,7 @@
             </tr>
           </tbody>
         </table>
-        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
+        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
     </section>
     <section>
@@ -170,7 +170,7 @@
             </tr>
           </tbody>
         </table>
-        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
+        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
         <hr>
         <h5>Adult Female</h5>
         <table>
@@ -211,7 +211,7 @@
             </tr>
           </tbody>
         </table>
-        <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p>
+        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
     </section></div>
   </div>
