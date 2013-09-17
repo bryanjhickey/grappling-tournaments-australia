@@ -36,7 +36,7 @@
 			<p>The sponsorship offers go to stand-out competitors. This means technical level, dedication, sportsmanship and attitude. It is vitally important we grow Jiu Jitsu in a positive and community based way. As a result we consider being a great person off the mat is as important as being amazing on the mat.</p>
 			<p>Although we compete as individuals we improve only with the help of our coaches and team mates. All the sponsored athletes are not only great at Jiu Jitsu but also genuinely positive, happy and helpful people and understand that  they are part of a bigger team and community.</p>
 			<h4 class="subheader">How are the prizes/sponsorships awarded?</h4>
-			<p>OPEN WEIGHT WINNERS - Offers of sponsorship will go to each coloured belt competitor who wins their respective open weight division (after placing TOP FOUR in their weight division).<p>
+			<p>OPEN WEIGHT WINNERS - Offers of sponsorship will go to each coloured belt competitor who wins their respective open weight division.<p>
 			<p>Letters of offer will be awarded at the event and, once the terms and conditions have been accepted by the athlete, the sponsorship will then go ahead. Terms and conditions of sponsorship must be adhered to or sponsorship may be withdrawn.</p>
 			<p>WILD CARDS SPONSORSHIPS are offered to stand out competitors. Stand out competitors are decided by event organisers and head referees of each mat. </p>
 		</div>
