@@ -30,9 +30,10 @@
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
 					<h3 class="subheader">REGISTRATIONS CLOSE</h3>
 						<div class="row">
-							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HOURS</span></h4></div>
+							<!-- <div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div> -->
+							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+							<div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
 					</div>	
 				</div>
@@ -101,6 +102,10 @@
     		$('#timerminutes').countdown({
     			until: liftoffTime, 
     			layout: '{mnn} MIN'
+    		});
+    		$('#timerseconds').countdown({
+    			until: liftoffTime, 
+    			layout: '{snn} SEC'
     		});
 		});
 		</script>
