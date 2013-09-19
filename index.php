@@ -24,16 +24,16 @@
 				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
 				<h5 class="subheader">GI ONLY | 9AM SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
-				<a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="Register todat" target="_blank">REGISTRATIONS CLOSED<BR>VIEW BRACKETS</a>
+				<a href="#0" class="button medium radius" title="Register todat" target="_blank">REGISTRATIONS CLOSED</a>
 				<hr>
 				<div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
 					<h3 class="subheader">COMPETITION STARTS IN</h3>
 						<div class="row">
-							<!-- <div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div> -->
+							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
+							<!-- <div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div> -->
 						</div>
 					</div>	
 				</div>
