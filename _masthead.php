@@ -40,6 +40,7 @@
 						</ul>
 					</li>
 					<li><a href="prizes.php">Prizes</a></li>
+					<li id="register"><a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" target="_blank" title="View Brackets">View Brackets</a></li>
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
