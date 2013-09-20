@@ -6493,18 +6493,23 @@ th {
   }
 }
 /* line 160, ../scss/_masthead.scss */
+#officialRegister h6 {
+  color: #000;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.95);
+}
+/* line 164, ../scss/_masthead.scss */
 #officialRegister hr {
   border-color: #000;
   border-width: 2px;
 }
 @media only screen and (max-width: 480px) {
-  /* line 164, ../scss/_masthead.scss */
+  /* line 168, ../scss/_masthead.scss */
   #officialRegister h3 {
     font-size: 1.375em;
     font-weight: 600;
   }
 }
-/* line 173, ../scss/_masthead.scss */
+/* line 177, ../scss/_masthead.scss */
 #officialRegister .button {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   color: #fff;
@@ -6512,251 +6517,251 @@ th {
   text-shadow: -1px -1px 2px #222222;
   border: none;
 }
-/* line 179, ../scss/_masthead.scss */
+/* line 183, ../scss/_masthead.scss */
 #officialRegister .button:hover {
   background: #333333;
 }
 
-/* line 185, ../scss/_masthead.scss */
+/* line 189, ../scss/_masthead.scss */
 #landingIntroText {
   padding-top: 3em;
   padding-bottom: 3em;
   font-size: 1.125em;
 }
 
-/* line 191, ../scss/_masthead.scss */
+/* line 195, ../scss/_masthead.scss */
 #pastEvent {
   padding-top: 4em;
   padding-bottom: 3em;
 }
-/* line 196, ../scss/_masthead.scss */
+/* line 200, ../scss/_masthead.scss */
 #pastEvent h2 {
   text-align: center;
   margin-bottom: 0;
   line-height: 1;
 }
-/* line 201, ../scss/_masthead.scss */
+/* line 205, ../scss/_masthead.scss */
 #pastEvent h3.subheader {
   text-align: center;
   margin-top: 0;
   line-height: 1;
   margin-bottom: 2em;
 }
-/* line 207, ../scss/_masthead.scss */
+/* line 211, ../scss/_masthead.scss */
 #pastEvent span.affiliation {
   font-family: "ITCBerkeleyOldstyleW01- 812516";
 }
 
-/* line 211, ../scss/_masthead.scss */
+/* line 215, ../scss/_masthead.scss */
 #rulesVideos {
   padding-bottom: 6em;
 }
-/* line 212, ../scss/_masthead.scss */
+/* line 216, ../scss/_masthead.scss */
 #rulesVideos h2 {
   text-transform: uppercase;
   font-family: "Trajan W01 Regular";
   text-align: center;
 }
-/* line 218, ../scss/_masthead.scss */
+/* line 222, ../scss/_masthead.scss */
 #rulesVideos .rules-videos {
   margin-top: 2em;
 }
-/* line 220, ../scss/_masthead.scss */
+/* line 224, ../scss/_masthead.scss */
 #rulesVideos .rules-videos h3.subheader {
   margin-top: 2em;
   text-transform: uppercase;
   text-align: center;
 }
 
-/* line 228, ../scss/_masthead.scss */
+/* line 232, ../scss/_masthead.scss */
 #weightClasses {
   margin-top: 3em;
 }
-/* line 230, ../scss/_masthead.scss */
+/* line 234, ../scss/_masthead.scss */
 #weightClasses h2 {
   margin-bottom: 0;
   text-align: center;
   text-transform: uppercase;
   line-height: 1;
 }
-/* line 236, ../scss/_masthead.scss */
+/* line 240, ../scss/_masthead.scss */
 #weightClasses h3 {
   margin-top: 0;
   line-height: 1;
   text-align: center;
 }
-/* line 241, ../scss/_masthead.scss */
+/* line 245, ../scss/_masthead.scss */
 #weightClasses h5.subheader {
   text-align: left;
 }
-/* line 244, ../scss/_masthead.scss */
+/* line 248, ../scss/_masthead.scss */
 #weightClasses h5 {
   text-align: center;
 }
-/* line 247, ../scss/_masthead.scss */
+/* line 251, ../scss/_masthead.scss */
 #weightClasses table {
   margin-top: 2em;
 }
-/* line 251, ../scss/_masthead.scss */
+/* line 255, ../scss/_masthead.scss */
 #weightClasses .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 259, ../scss/_masthead.scss */
+/* line 263, ../scss/_masthead.scss */
 #timeLimits {
   margin-top: 3em;
   height: 22em;
 }
 @media only screen and (max-width: 480px) {
-  /* line 259, ../scss/_masthead.scss */
+  /* line 263, ../scss/_masthead.scss */
   #timeLimits {
     margin-bottom: 16em;
   }
 }
-/* line 265, ../scss/_masthead.scss */
+/* line 269, ../scss/_masthead.scss */
 #timeLimits h2 {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 269, ../scss/_masthead.scss */
+/* line 273, ../scss/_masthead.scss */
 #timeLimits h5.subheader {
   text-align: left;
 }
-/* line 272, ../scss/_masthead.scss */
+/* line 276, ../scss/_masthead.scss */
 #timeLimits h5 {
   text-align: center;
 }
-/* line 275, ../scss/_masthead.scss */
+/* line 279, ../scss/_masthead.scss */
 #timeLimits table {
   margin-top: 2em;
 }
-/* line 279, ../scss/_masthead.scss */
+/* line 283, ../scss/_masthead.scss */
 #timeLimits .vertical-tabs .title {
   text-transform: uppercase;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 286, ../scss/_masthead.scss */
+/* line 290, ../scss/_masthead.scss */
 #uniformRequirements {
   padding-top: 3em;
   padding-bottom: 3em;
 }
-/* line 289, ../scss/_masthead.scss */
+/* line 293, ../scss/_masthead.scss */
 #uniformRequirements h2 {
   text-transform: uppercase;
   font-family: "Trajan W01 Regular";
   text-align: center;
 }
 
-/* line 297, ../scss/_masthead.scss */
+/* line 301, ../scss/_masthead.scss */
 #sponsors h2 {
   text-transform: uppercase;
   font-family: "Trajan W01 Regular";
   text-align: center;
 }
-/* line 302, ../scss/_masthead.scss */
+/* line 306, ../scss/_masthead.scss */
 #sponsors #sponsorsIntro {
   padding-top: 3em;
   padding-bottom: 3em;
 }
-/* line 308, ../scss/_masthead.scss */
+/* line 312, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper {
   height: 30em;
   display: block;
   text-align: center;
 }
 @media only screen and (max-width: 768px) {
-  /* line 308, ../scss/_masthead.scss */
+  /* line 312, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper {
     height: 100%;
   }
 }
-/* line 315, ../scss/_masthead.scss */
+/* line 319, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper img#paysmartImage {
   margin-top: 10em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 315, ../scss/_masthead.scss */
+  /* line 319, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper img#paysmartImage {
     margin-top: 0;
   }
 }
-/* line 321, ../scss/_masthead.scss */
+/* line 325, ../scss/_masthead.scss */
 #sponsors #majorSponsors .image-wrapper img#subapparel {
   margin-top: 11em;
   width: 80%;
 }
 @media only screen and (max-width: 768px) {
-  /* line 321, ../scss/_masthead.scss */
+  /* line 325, ../scss/_masthead.scss */
   #sponsors #majorSponsors .image-wrapper img#subapparel {
     margin-top: 0;
   }
 }
-/* line 330, ../scss/_masthead.scss */
+/* line 334, ../scss/_masthead.scss */
 #sponsors #minorSponsors {
   padding-bottom: 2em;
 }
-/* line 331, ../scss/_masthead.scss */
+/* line 335, ../scss/_masthead.scss */
 #sponsors #minorSponsors h2 {
   padding-bottom: 1em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 330, ../scss/_masthead.scss */
+  /* line 334, ../scss/_masthead.scss */
   #sponsors #minorSponsors {
     padding-bottom: 0;
   }
 }
-/* line 338, ../scss/_masthead.scss */
+/* line 342, ../scss/_masthead.scss */
 #sponsors #minorSponsors .row {
   margin-top: 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 338, ../scss/_masthead.scss */
+  /* line 342, ../scss/_masthead.scss */
   #sponsors #minorSponsors .row {
     margin-top: 0;
   }
 }
-/* line 345, ../scss/_masthead.scss */
+/* line 349, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper {
   position: relative;
   height: 8em;
   width: 80%;
   margin: 0 auto;
 }
-/* line 350, ../scss/_masthead.scss */
+/* line 354, ../scss/_masthead.scss */
 #sponsors #minorSponsors .image-wrapper img {
   position: absolute;
   bottom: 0;
   padding: 0 2em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 350, ../scss/_masthead.scss */
+  /* line 354, ../scss/_masthead.scss */
   #sponsors #minorSponsors .image-wrapper img {
     padding: 0 1em;
   }
 }
-/* line 360, ../scss/_masthead.scss */
+/* line 364, ../scss/_masthead.scss */
 #sponsors #sponsorsInterest {
   margin-bottom: 3em;
 }
 
-/* line 366, ../scss/_masthead.scss */
+/* line 370, ../scss/_masthead.scss */
 .contact #textContact {
   margin-top: 3em;
 }
-/* line 369, ../scss/_masthead.scss */
+/* line 373, ../scss/_masthead.scss */
 .contact form {
   margin-top: 2em;
 }
-/* line 371, ../scss/_masthead.scss */
+/* line 375, ../scss/_masthead.scss */
 .contact form textarea {
   height: 10em;
 }
 
-/* line 377, ../scss/_masthead.scss */
+/* line 381, ../scss/_masthead.scss */
 footer {
   padding-top: 3em;
   padding-bottom: 3em;
@@ -6764,28 +6769,28 @@ footer {
   background: #c38930;
   border-top: 4px solid #222;
 }
-/* line 383, ../scss/_masthead.scss */
+/* line 387, ../scss/_masthead.scss */
 footer #leftFooter {
   text-align: left;
 }
-/* line 386, ../scss/_masthead.scss */
+/* line 390, ../scss/_masthead.scss */
 footer #rightFooter {
   text-align: right;
 }
 @media only screen and (max-width: 768px) {
-  /* line 386, ../scss/_masthead.scss */
+  /* line 390, ../scss/_masthead.scss */
   footer #rightFooter {
     text-align: left;
     margin-top: 1em;
   }
 }
-/* line 393, ../scss/_masthead.scss */
+/* line 397, ../scss/_masthead.scss */
 footer .inline {
   display: inline-block;
   font-size: 0.8125em;
 }
 @media only screen and (max-width: 768px) {
-  /* line 393, ../scss/_masthead.scss */
+  /* line 397, ../scss/_masthead.scss */
   footer .inline {
     display: block;
     font-size: 1em;
@@ -6793,29 +6798,29 @@ footer .inline {
   }
 }
 @media only screen and (max-width: 768px) {
-  /* line 402, ../scss/_masthead.scss */
+  /* line 406, ../scss/_masthead.scss */
   footer .footer-divider {
     display: none;
     visibility: hidden;
   }
 }
-/* line 409, ../scss/_masthead.scss */
+/* line 413, ../scss/_masthead.scss */
 footer #takedown img {
   float: right;
   margin-top: -190px;
   height: 180px;
 }
-/* line 415, ../scss/_masthead.scss */
+/* line 419, ../scss/_masthead.scss */
 footer a {
   color: #222222;
   border-bottom: 1px dotted #222222;
 }
-/* line 418, ../scss/_masthead.scss */
+/* line 422, ../scss/_masthead.scss */
 footer a:hover {
   color: #222222;
   border-bottom: 1px solid #222222;
 }
-/* line 423, ../scss/_masthead.scss */
+/* line 427, ../scss/_masthead.scss */
 footer #socialBanner {
   margin: 1em 0;
   font-family: "Trajan W01 Regular";
@@ -6823,36 +6828,36 @@ footer #socialBanner {
   text-transform: uppercase;
   border-bottom: 2px #222222 solid;
 }
-/* line 430, ../scss/_masthead.scss */
+/* line 434, ../scss/_masthead.scss */
 footer #socialAction {
   margin-top: 1em;
   font-family: "Trajan W01 Regular";
   text-align: center;
   text-transform: uppercase;
 }
-/* line 436, ../scss/_masthead.scss */
+/* line 440, ../scss/_masthead.scss */
 footer #footerLegal {
   margin-top: 1em;
 }
 
-/* line 440, ../scss/_masthead.scss */
+/* line 444, ../scss/_masthead.scss */
 iframe {
   border: none;
 }
 
-/* line 443, ../scss/_masthead.scss */
+/* line 447, ../scss/_masthead.scss */
 #fb-root {
   display: none;
 }
 
 /* To fill the container and nothing else */
-/* line 448, ../scss/_masthead.scss */
+/* line 452, ../scss/_masthead.scss */
 .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
   width: 100% !important;
   display: block !important;
 }
 
-/* line 453, ../scss/_masthead.scss */
+/* line 457, ../scss/_masthead.scss */
 .fb-like {
   width: 140px !important;
   margin: 0 auto;
