@@ -21,8 +21,8 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
-				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader">GI ONLY | 9AM SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5>
+				<!-- <h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2> -->
+				<!-- <h5 class="subheader">GI ONLY | 9AM SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5> -->
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
