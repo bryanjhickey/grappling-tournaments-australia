@@ -6355,13 +6355,13 @@ th {
 .contain-to-grid .top-bar {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase;
-  max-width: 628px;
+  max-width: 528px;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) {
   /* line 46, ../scss/_masthead.scss */
   .contain-to-grid .top-bar {
-    max-width: 628px;
+    max-width: 528px;
     margin: 0 auto;
   }
 }

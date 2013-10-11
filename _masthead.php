@@ -40,7 +40,7 @@
 						</ul>
 					</li>
 					<li><a href="prizes.php">Prizes</a></li>
-					<li id="register"><a href="http://www.strongvon.com/aujiujitsuchamps2013/m_tournament_main.jsp?page=SummaryWinners.html" target="_blank" title="">Results</a></li>
+					<!-- <li id="register"><a href="http://www.strongvon.com/aujiujitsuchamps2013/m_tournament_main.jsp?page=SummaryWinners.html" target="_blank" title="">Results</a></li> -->
 					<li><a href="sponsors.php">Sponsors</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
