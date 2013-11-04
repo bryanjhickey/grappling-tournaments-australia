@@ -46,10 +46,10 @@ th {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
-		max-width: 528px;
+		max-width: 538px;
 		margin: 0 auto;
 		  @media #{$topbar-media-query} {
-		  	max-width: 528px;
+		  	max-width: 538px;
 			margin: 0 auto;
 		  }
 		.top-bar-section {
@@ -126,15 +126,15 @@ th {
 	}
 }
 #officialRegister {
-	height: 564px;
-	background: #000 url("../assets/img/sign-up-banner-big.jpg") 0% 43% no-repeat;
+	height: 470px;
+	background: #000 url("../assets/img/sign-up-banner-big1.jpg") 0% 43% no-repeat;
 	text-align: center;
 	padding: 6em 0;
 	@media only screen and (max-width : 480px) {
 			background-position: 60% 0%;
 	}
 	h2, h5 { 
-		color: #fff;
+		color: $primary-color;
 		text-shadow: 3px 3px 0px rgba(0,0,0,0.95);
 		text-align: center;
 	}
@@ -151,8 +151,8 @@ th {
 		margin-top: 0;
 		line-height: 1;
 		font-size: emCalc(30px);
-		text-shadow: 1px 1px 0px rgba(255,255,255,1);
-		color: #000;
+		text-shadow: 1px 1px 0px rgba(0,0,0,1);
+		color: #fff;
 		@media only screen and (max-width : 480px) {
 			font-size: emCalc(18px);
 		}
@@ -172,7 +172,7 @@ th {
 		}
 	}
 	h4 {
-
+		color: $primary-color;
 	}
 	.button {
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
