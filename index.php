@@ -90,7 +90,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 2-1, 1, 9);
+			var liftoffTime = new Date(2014, 1-1, 1, 9);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
 				timezone: +11,
