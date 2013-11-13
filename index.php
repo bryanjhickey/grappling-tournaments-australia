@@ -44,16 +44,18 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
+			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
 			<p>We run two events per year:</p>
- 			<p>The Australian No Gi Jiu Jitsu Championships every February<br>
-			The Australian Jiu Jitsu Championships every September</p>
+				<ol>
+ 					<li>The Australian No Gi Jiu Jitsu Championships every <strong>February</strong></li>
+					<li>The Australian Jiu Jitsu Championships every <strong>September</strong></li>
+			</ol>
 			<p>Winners of all weight classes at each event earn sponsorship packs for training gear from SUB APPAREL.</p>
 			<p>Winners of all open divisions at each event earn sponsored trips to compete at the World Championships in LA.</p>
-			<p>100% non-profit<br>
-				100% volunteer run<br>
-				100% for the competitors and growing jiu jitsu in Australia</p>
-			<p class="right">&ndash; For Grapplers. By Grapplers.</p>
+			<p>100%  &rarr;  non-profit<br>
+				100%  &rarr;  volunteer run<br>
+				100%  &rarr;  for the competitors and growing jiu jitsu in Australia</p>
+			<p class="right"><strong>&ndash; For Grapplers. By Grapplers.</strong></p>
 		</div>
 	</div>
 
