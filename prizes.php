@@ -39,7 +39,7 @@
 			<p><strong>WEIGHT CLASS WINNERS</strong></p>
 			<p>All weight class winners both male and female in all belts receive training gear sponsorship pack from SUB APPAREL which include fight shorts, rash guard and t-shirt!</p>
 			<p><a href="http://www.subapparel.com" target="www.subapparel.com" title="www.subapparel.com">www.subapparel.com</a></p>
-			<h4>Who can win it?</h4>
+			<!-- <h4>Who can win it?</h4>
 			<p>Winners of all male and female COLOURED BELT OPEN WEIGHT divisions are guaranteed an offer of sponsorship.</p>
 			<p>There are also a number of wild cards offered to outstanding athletes on the day!</p>
 			<h4>Why they win?</h4>
@@ -49,7 +49,7 @@
 			<p><strong>OPEN WEIGHT WINNERS</strong></p>
 			Offers of sponsorship will go to each coloured belt competitor who wins their respective open weight division.<p>
 			<p>Letters of offer will be awarded at the event and, once the terms and conditions have been accepted by the athlete, the sponsorship will then go ahead. Terms and conditions of sponsorship must be adhered to or sponsorship may be withdrawn.</p>
-			<p><strong>WILD CARDS SPONSORSHIPS</strong> are offered to stand out competitors. Stand out competitors are decided by event organisers and head referees of each mat. </p>
+			<p><strong>WILD CARDS SPONSORSHIPS</strong> are offered to stand out competitors. Stand out competitors are decided by event organisers and head referees of each mat. </p> -->
 		</div>
 	</div>
 
