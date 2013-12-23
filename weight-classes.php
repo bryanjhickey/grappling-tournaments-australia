@@ -182,28 +182,32 @@
           </thead>
           <tbody>
             <tr>
+              <td>Flyweight</td>
+              <td>Up to 47.49</td>
+           </tr>
+            <tr>
               <td>LIGHT FEATHER (PLUMA)</td>
-              <td>51.499</td>
+              <td>Up to 51.49</td>
            </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>56.499</td>
+              <td>56.49</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>61.499</td>
+              <td>61.49</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>66.499</td>
+              <td>66.49</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>71.499</td>
+              <td>71.49</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
-              <td>No Maximum Weight</td>
+              <td>76.49 and above</td>
             </tr>
             <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>
