@@ -177,7 +177,7 @@
           <thead>
             <tr>
               <th width="700">Weight Class</th>
-              <th width="300">kg (lbs)</th>
+              <th width="300">kg</th>
             </tr>
           </thead>
           <tbody>
