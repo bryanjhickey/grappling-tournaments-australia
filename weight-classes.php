@@ -182,12 +182,12 @@
           </thead>
           <tbody>
             <tr>
-              <td>Flyweight</td>
+              <td>FLYWEIGHT</td>
               <td>Up to 47.49</td>
            </tr>
             <tr>
               <td>LIGHT FEATHER (PLUMA)</td>
-              <td>Up to 51.49</td>
+              <td>51.49</td>
            </tr>
             <tr>
               <td>FEATHER (PENA)</td>
