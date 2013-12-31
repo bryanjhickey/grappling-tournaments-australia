@@ -21,7 +21,7 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
-				<h2>AUSTRALIAN JIU JITSU<br>NO GI CHAMPIONSHIPS</h2>
+				<h2>THE 2014 AUSTRALIAN NO GI<br> JIU JITSU CHAMPIONSHIPS</h2>
 				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
 				<a href="http://strongvon.com/2014nogigta/m_tournament_main.jsp?mod=ts&tournament_id=1442" class="button medium radius" title="View Weight Class Brackets" target="_blank">REGISTER ONLINE</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
