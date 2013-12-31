@@ -22,18 +22,16 @@
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
 				<h2>AUSTRALIAN JIU JITSU<br>NO GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader">NO GI ONLY | 9AM SAT 1ST FEB 2014 | 10 BRENS DRV, ROYAL PARK</h5>
-				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>
-				<a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
-				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6> -->
+				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
+				<a href="http://strongvon.com/2014nogigta/m_tournament_main.jsp?mod=ts&tournament_id=1442" class="button medium radius" title="View Weight Class Brackets" target="_blank">REGISTER ONLINE</a>
+				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr>
 				<div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
-					<h3 class="subheader">REGISTRATIONS OPEN IN</h3>
+					<h3 class="subheader">COMPETITION STARTS IN</h3>
 						<div class="row">
-							<div class="large-4 large-centered small centered small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<!-- <div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div> -->
+							<div class="large-3 small-8 large-centered small-centered columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<!--<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div> -->
 							<!-- <div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div> -->
 						</div>
 					</div>	
@@ -97,7 +95,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 1-1, 1, 9);
+			var liftoffTime = new Date(2014, 2-1, 1, 7);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
 				timezone: +11,

@@ -114,7 +114,7 @@
         <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
     </section>
-    <section>
+    <section class="active">
       <p class="title" data-section-title><a href="#">No GI Weight Classes</a></p>
       <div class="content" data-section-content>
          <h2>No GI Weight Classes</h2>

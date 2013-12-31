@@ -129,9 +129,9 @@ th {
 	height: 470px;
 	background: #000 url("../assets/img/sign-up-banner-big1.jpg") 0% 43% no-repeat;
 	text-align: center;
-	padding: 6em 0;
+	padding: 2em 0;
 	@media only screen and (max-width : 480px) {
-			background-position: 60% 0%;
+			background: #000 url("../assets/img/sign-up-banner-mobile.jpg") 0% 0% no-repeat;
 	}
 	h2, h5 { 
 		color: $primary-color;
@@ -158,14 +158,15 @@ th {
 		}
 	}
 	h6 {
-		color: #000;
-		text-shadow: 1px 1px 0px rgba(255,255,255,0.95);
+		color: #fff;
+		text-shadow: 1px 1px 0px rgba(0,0,0,0.95);
 	}
 	hr {
 		border-color: #000;
 		border-width: 2px;
 	}
 	h3 {
+		font-size: emCalc(22px);
 	@media only screen and (max-width : 480px) {
 			font-size: emCalc(22px);
 			font-weight: 600;
@@ -177,11 +178,12 @@ th {
 	.button {
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 		color: #fff;
-		background: #000;
-		text-shadow: -1px -1px 2px rgb(34, 34, 34);
+		background: $primary-color;
+		// text-shadow: -1px -1px 2px rgb(34, 34, 34);
 		border: none;
 		&:hover {
-			background: lighten(#000, 20%);
+			background: #fff;
+			color: $primary-color;
 		}
 	}
 }
