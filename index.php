@@ -28,7 +28,7 @@
 				<hr>
 				<div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
-					<h3 class="subheader">COMPETITION STARTS IN</h3>
+					<h3 class="subheader">COMPETITION STARTS | FEB 01</h3>
 						<div class="row">
 							<div class="large-3 small-8 large-centered small-centered columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<!--<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div> -->
