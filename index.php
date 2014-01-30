@@ -24,16 +24,16 @@
 				<h2>THE 2014 AUSTRALIAN NO GI<br> JIU JITSU CHAMPIONSHIPS</h2>
 				<h6>STATE NETBALL AND HOCKEY CENTRE, 10 BRENS DRV, ROYAL PARK</h6>
 				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
-				<a href="http://strongvon.com/2014nogigta/m_tournament_main.jsp?mod=ts&tournament_id=1442" class="button medium radius" title="View Weight Class Brackets" target="_blank">REGISTER ONLINE</a>
-				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
+				<a href="#0" class="button medium radius" title="View Weight Class Brackets" target="_blank">View Brackets <br><small>(coming soon)</small></a>
+				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr>
 				<div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
-					<h3 class="subheader">COMPETITION STARTS | FEB 01</h3>
+					<h3 class="subheader">COMPETITION STARTS | 1 FEB &mdash; 9am</h3>
 						<div class="row">
-							<div class="large-3 small-8 large-centered small-centered columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<!--<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div> -->
-							<!-- <div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div> -->
+							<div class="large-10 large-centered small-12 columns"><h4><span id="timerhours" class="timebox">45 DAYS</span></h4></div>
+							<!-- <div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+							<div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div> -->
 						</div>
 					</div>	
 				</div>
@@ -96,27 +96,33 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 2-1, 1, 7);
-			$('#timerdays').countdown({
-				until: liftoffTime, 
-				timezone: +11,
-    			layout: '{dnn} DAYS'
-    		});
-    		$('#timerhours').countdown({
-    			until: liftoffTime, 
-    			layout: '{hnn} HRS'
-    		});
-    		$('#timerminutes').countdown({
-    			until: liftoffTime, 
-    			layout: '{mnn} MIN'
-    		});
-    		$('#timerseconds').countdown({
-    			until: liftoffTime, 
-    			layout: '{snn} SEC'
-    		});
+			var liftoffTime = new Date(2014, 2-1, 1, 9);
+			// $('#timerdays').countdown({
+			// 	until: liftoffTime, 
+			// 
+   //  			layout: '{dnn} DAYS'
+	  //   		});
+			$('#timerhours').countdown({
+				until: liftoffTime,
+				timezone: +10,
+				layout: '{dnn} days | {hnn} hours | {snn} sec'
+    			});
+	    		// $('#timerhours').countdown({
+	    		// 	until: liftoffTime, 
+	    		// 	layout: '{hnn} HRS'
+	    		// });
+	    		// $('#timerminutes').countdown({
+	    		// 	until: liftoffTime, 
+	    		// 	layout: '{mnn} MIN'
+	    		// });
+	    		// $('#timerseconds').countdown({
+	    		// 	until: liftoffTime, 
+	    		// 	layout: '{snn} SEC'
+	    		// });
 		});
 		</script>
 		<script src="js/vendor/jquery.js"></script>
+		<script src="js/vendor/jquery-plugin.js"></script>
 		<script src="js/vendor/jquery.countdown.min.js"></script>
 </body>
 </html>
