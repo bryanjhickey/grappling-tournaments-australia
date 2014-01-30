@@ -24,8 +24,8 @@
 				<h2>THE 2014 AUSTRALIAN NO GI<br> JIU JITSU CHAMPIONSHIPS</h2>
 				<h6>STATE NETBALL AND HOCKEY CENTRE, 10 BRENS DRV, ROYAL PARK</h6>
 				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
-				<a href="http://strongvon.com/2014nogigta/m_tournament_main.jsp?mod=ts&tournament_id=1442" class="button medium radius" title="View Weight Class Brackets" target="_blank">Register Now<!-- <br><small>(coming soon)</small> --></a>
-				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
+				<a href="http://www.strongvon.com/2014nogigta/m_results5.jsp?id=1442&indexstyle=109" class="button medium radius" title="View Weight Class Brackets" target="_blank">View Brackets</a>
+				<h6>PLEASE NOTE: OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON<br>AFTER YOU HAVE SUCCESSFULLY COMPLETED YOUR WEIGHT DIVISION.</h6>
 				<hr>
 				<div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
