@@ -105,7 +105,7 @@
 			$('#timerhours').countdown({
 				until: liftoffTime,
 				timezone: +10,
-				layout: '{dnn} days | {hnn} hours | {snn} sec'
+				layout: '{dnn} day | {hnn} hours | {snn} sec'
     			});
 	    		// $('#timerhours').countdown({
 	    		// 	until: liftoffTime, 
