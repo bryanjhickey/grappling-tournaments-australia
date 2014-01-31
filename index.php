@@ -25,9 +25,9 @@
 				<h6>STATE NETBALL AND HOCKEY CENTRE, 10 BRENS DRV, ROYAL PARK</h6>
 				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
 				<a href="http://www.strongvon.com/2014nogigta/m_results5.jsp?id=1442&indexstyle=109" class="button medium radius" title="View Weight Class Brackets" target="_blank">View Brackets</a>&nbsp;&nbsp;&nbsp;<a href="2014-no-gi.php" class="button medium radius" title="View Schedule">Weigh In Times</a>
-				<h6 class="hidden-small">PLEASE NOTE: OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON<br>AFTER YOU HAVE SUCCESSFULLY COMPLETED YOUR WEIGHT DIVISION.</h6>
+				<h6 class="hide-for-small-only">PLEASE NOTE: OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON<br>AFTER YOU HAVE SUCCESSFULLY COMPLETED YOUR WEIGHT DIVISION.</h6>
 				<hr>
-				<div class="row hidden-small">
+				<div class="row hide-for-small-only">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
 					<h3 class="subheader">COMPETITION STARTS | 1 FEB &mdash; 9am</h3>
 						<div class="row">
