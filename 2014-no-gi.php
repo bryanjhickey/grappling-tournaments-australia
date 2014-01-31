@@ -17,8 +17,8 @@
 <div id="pastEvent" class="row">
 	<div class="small-12">
 		<h2 class="schedule">2014 No Gi Schedule</h2>
-		<p class="lead">Please keep in mind that this schedule serves as a guide only to the days events. It is in no way a guarantee that you bracket will start at the time states. However you bracket will not start before the allotted time.</p>
-		<p class="lead">Those competitors whose matches are marked as weighing in at 9:00am must be at the venue and ready for weigh at 9:00am and their matches will start promptly at 10am.</p>
+		<p class="lead">Please keep in mind that this schedule serves as a guide only to the day's events. It is in no way a guarantee that your bracket will start at the time stated. However, your bracket will not <i>start</i> before the allotted time.</p>
+		<p class="lead">Those competitors whose matches are marked as weighing in at 9:00am must be at the venue and ready for weigh in at 9:00am sharp and their matches will start promptly at 10am.</p>
 		<p class="lead">Enjoy the day guys!</p>
 		<hr>
 		<table>
