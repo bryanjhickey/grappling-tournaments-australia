@@ -2,6 +2,9 @@
 
 <title>2014 NO GI | Grappling Tournaments Australia</title>
 <style>
+	h2.schedule {
+		padding-bottom: 40px;
+	}
 	table {
 		margin-bottom: 60px;
 	}
@@ -13,7 +16,10 @@
 
 <div id="pastEvent" class="row">
 	<div class="small-12">
-		<h2>2014 No Gi Schedule</h2>
+		<h2 class="schedule">2014 No Gi Schedule</h2>
+		<p class="lead">Please keep in mind that this schedule serves as a guide only to the days events. It is in no way a guarantee that you bracket will start at the time states. However you bracket will not start before the allotted time.</p>
+		<p class="lead">Those competitors whose matches are marked as weighing in at 9:00am must be at the venue and ready for weigh at 9:00am and their matches will start promptly at 10am.</p>
+		<p class="lead">Enjoy the day guys!</p>
 		<hr>
 		<table>
 			<thead>
