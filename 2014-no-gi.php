@@ -1,6 +1,6 @@
 <?php include '_dochead.php'; ?>
 
-<title>2014 NO GI | Grappling Tournaments Australia</title>
+<title>2014 NO GI WEIGH IN TIMES| Grappling Tournaments Australia</title>
 <style>
 	h2.schedule {
 		padding-bottom: 40px;
@@ -16,8 +16,8 @@
 
 <div id="pastEvent" class="row">
 	<div class="small-12 columns">
-		<h2 class="schedule">2014 No Gi Schedule</h2>
-		<p class="lead">Please keep in mind that this schedule serves as a guide only to the day's events. It is in no way a guarantee that your bracket will start at the time stated. However, your bracket will not start <i>before</i> the allotted time.</p>
+		<h2 class="schedule">2014 No Gi Weigh In Times</h2>
+		<p class="lead">Please keep in mind that these weigh in times serve as a guide only to the day's events.  Your bracket will be called <i>from</i> the stated times and not <i>before</i> the stated times.</p>
 		<p class="lead">Those competitors whose matches are marked as weighing in at 9:00am must be at the venue and ready for weigh in at 9:00am sharp and their matches will start promptly at 10am.</p>
 		<p class="lead">Enjoy the day guys!</p>
 		<hr>
