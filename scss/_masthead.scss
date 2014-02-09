@@ -19,14 +19,15 @@ body {
 	-webkit-border-radius: emCalc(6px);
 	-moz-border-radius: emCalc(6px);
 	border-radius: emCalc(6px);
+	padding: 20px;
 	h3 {
 		text-align: center;
 		text-transform: uppercase;
 		color: #fff;
 		font-size: emCalc(34px);
 		font-weight: 600;
-		margin-bottom: 0;
-		padding-top: 0.5em;
+		margin: 0;
+		padding: 0;
 		text-shadow: -1px 1px 1px rgba(0,0,0,1);
 	}
 	h4 {
