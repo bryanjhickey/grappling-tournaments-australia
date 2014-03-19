@@ -126,12 +126,19 @@ th {
 	}
 }
 #officialRegister {
-	height: 564px;
-	background: #000 url("../assets/img/sign-up-banner-big.jpg") 0% 43% no-repeat;
+	height: auto;
+	background: #000 url("../assets/img/sign-up-banner-big3.jpg")  center no-repeat;
+	background-size: 100%;
 	text-align: center;
 	padding: 6em 0;
 	@media only screen and (max-width : 480px) {
-			background-position: 60% 0%;
+			background-position: 20% 0%;
+			background-size: 350%;
+			padding: 1.5em 0;
+	}
+	@media only screen and (max-width : 999px) {
+			background-position: 20% 0%;
+			background-size: 130%;
 	}
 	h2, h5 { 
 		color: #fff;
@@ -172,7 +179,10 @@ th {
 		}
 	}
 	h4 {
-
+		@media only screen and (max-width : 480px) {
+			font-size: emCalc(22px);
+			font-weight: 600;
+		}
 	}
 	.button {
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;

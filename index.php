@@ -21,34 +21,47 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
-				<!-- <h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2> -->
-				<!-- <h5 class="subheader">GI ONLY | 9AM SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5> -->
+				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
+				<h5 class="subheader">GI ONLY | 9AM SAT 20TH SEPT 2014 | 10 BRENS DRV, ROYAL PARK</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
-				<!-- <div class="row">
-					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
-					<h3 class="subheader">COMPETITION STARTS IN</h3>
-						<div class="row">
-							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
-							<div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
+				<div class="row">
+					<div id="timer" class="large-10 small-12 small-centered large-centered columns">
+					<h3 class="subheader">REGISTRATIONS OPEN IN</h3>
+						<div class="row show-for-small">
+							<div class="small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<div class="small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
+							<div class="small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+							<div class="small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
+						</div>
+						<div class="row hide-for-small">
+							<div class="large-3 small-12 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<div class="large-3 small-12 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
+							<div class="large-3 small-12 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+							<div class="large-3 small-12 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
 					</div>	
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</div>
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. Our goal is simple; to improve the level of Jiu Jitsu in Australasia. We do this by running competitions 100% for the competitors. The funds raised from our events allow us to sponsor standout athletes to train and compete overseas on the world stage.</p>
-			<p>Most important of all is you – the competitor. We strive to make all of our competitions great events for you and your team-mates. On and off the mat, we aim to demonstrate the very best in grappling culture.</p>
-			<p>We are excited to offer TWO EVENTS per year. September Gi Only. February No Gi Only. This allows our sponsored athletes a minimum of 6 months of preparation time before appearing at the World Championships of their respective style.</p>
-			<p>We reward as many victors as possible with their chance to take their place among the world’s finest grapplers.</p>
-			<p class="right">&ndash; For Grapplers. By Grapplers.</p>
+			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
+			<p>We run two events per year:</p>
+				<ol>
+ 					<li>The Australian No Gi Jiu Jitsu Championships every <strong>February</strong></li>
+					<li>The Australian Jiu Jitsu Championships every <strong>September</strong></li>
+			</ol>
+			<p>Winners of all weight classes at each event earn sponsorship packs for training gear from SUB APPAREL.</p>
+			<p>Winners of all open divisions at each event earn sponsored trips to compete at the World Championships in LA.</p>
+			<p>100%  &rarr;  non-profit<br>
+				100%  &rarr;  volunteer run<br>
+				100%  &rarr;  for the competitors and growing jiu jitsu in Australia</p>
+			<p class="right"><strong>– For Grapplers. By Grapplers.</strong></p>
 		</div>
 	</div>
 
@@ -90,7 +103,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2013, 9-1, 21, 9);
+			var liftoffTime = new Date(2014, 8-1, 15, 1);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
 				timezone: +11,
