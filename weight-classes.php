@@ -114,7 +114,7 @@
         <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
     </section>
-    <section class="active">
+    <section>
       <p class="title" data-section-title><a href="#">No GI Weight Classes</a></p>
       <div class="content" data-section-content>
          <h2>No GI Weight Classes</h2>
@@ -177,37 +177,33 @@
           <thead>
             <tr>
               <th width="700">Weight Class</th>
-              <th width="300">kg</th>
+              <th width="300">kg (lbs)</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>FLYWEIGHT</td>
-              <td>Up to 47.49</td>
-           </tr>
-            <tr>
               <td>LIGHT FEATHER (PLUMA)</td>
-              <td>51.49</td>
+              <td>51.499</td>
            </tr>
             <tr>
               <td>FEATHER (PENA)</td>
-              <td>56.49</td>
+              <td>56.499</td>
             </tr>
             <tr>
               <td>LIGHT (LEVE)</td>
-              <td>61.49</td>
+              <td>61.499</td>
             </tr>
             <tr>
               <td>MIDDLE (M&Eacute;DIO)</td>
-              <td>66.49</td>
+              <td>66.499</td>
             </tr>
             <tr>
               <td>MEDIUM HEAVY (MEIO-PESADO)</td>
-              <td>71.49</td>
+              <td>71.499</td>
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
-              <td>76.49 and above</td>
+              <td>No Maximum Weight</td>
             </tr>
             <tr>
               <td>OPEN CLASS* (ABSOLUTO)</td>

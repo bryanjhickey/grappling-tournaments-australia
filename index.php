@@ -12,9 +12,6 @@
 		color: rgb(195, 137, 48);
 		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 	}
-	#officialRegister hr {
-		border-color: #fff;
-	}
 	</style>	
 </head>
 <body>
@@ -24,41 +21,34 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
-				<h2>THE 2014 AUSTRALIAN NO GI<br> JIU JITSU CHAMPIONSHIPS</h2>
-<!-- 				<h6>STATE NETBALL AND HOCKEY CENTRE, 10 BRENS DRV, ROYAL PARK</h6>
- -->				<!--<a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a>-->
-				<a href="http://www.strongvon.com/2014nogigta/m_results5.jsp?id=1442&indexstyle=109" class="button medium radius" title="Bracket Results" target="_blank">Bracket Results</a>&nbsp;&nbsp;&nbsp;<a href="http://www.strongvon.com/2014nogigta/m_tournament_main.jsp?page=SummaryWinners.html" class="button medium radius" title="View Place winnerz" target="_blank">Place Winners</a>
-				<!--<h6 class="hide-for-small">PLEASE NOTE: OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON<br>AFTER YOU HAVE SUCCESSFULLY COMPLETED YOUR WEIGHT DIVISION.</h6> -->
-				<hr>
-				<div class="row hide-for-small">
+				<!-- <h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2> -->
+				<!-- <h5 class="subheader">GI ONLY | 9AM SAT 21ST SEPT 2013 | 10 BRENS DRV, ROYAL PARK</h5> -->
+				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
+				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
+				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
+				<hr> -->
+				<!-- <div class="row">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
-						<h3>NEXT COMPETITION:<br>
-						NOV 2014 (exact date TBA)</h3>
-						<!-- <div class="row">
-							<div class="large-10 large-centered small-12 columns"><h4><span id="timerhours" class="timebox">45 DAYS</span></h4></div>
+					<h3 class="subheader">COMPETITION STARTS IN</h3>
+						<div class="row">
+							<div class="large-4 small-4 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<div class="large-4 small-4 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
-						</div> -->
+						</div>
 					</div>	
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
-			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
-			<p>We run two events per year:</p>
-				<ol>
- 					<li>The Australian No Gi Jiu Jitsu Championships every <strong>February</strong></li>
-					<li>The Australian Jiu Jitsu Championships every <strong>September</strong></li>
-			</ol>
-			<p>Winners of all weight classes at each event earn sponsorship packs for training gear from SUB APPAREL.</p>
-			<p>Winners of all open divisions at each event earn sponsored trips to compete at the World Championships in LA.</p>
-			<p>100%  &rarr;  non-profit<br>
-				100%  &rarr;  volunteer run<br>
-				100%  &rarr;  for the competitors and growing jiu jitsu in Australia</p>
-			<p class="right"><strong>&ndash; For Grapplers. By Grapplers.</strong></p>
+			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. Our goal is simple; to improve the level of Jiu Jitsu in Australasia. We do this by running competitions 100% for the competitors. The funds raised from our events allow us to sponsor standout athletes to train and compete overseas on the world stage.</p>
+			<p>Most important of all is you – the competitor. We strive to make all of our competitions great events for you and your team-mates. On and off the mat, we aim to demonstrate the very best in grappling culture.</p>
+			<p>We are excited to offer TWO EVENTS per year. September Gi Only. February No Gi Only. This allows our sponsored athletes a minimum of 6 months of preparation time before appearing at the World Championships of their respective style.</p>
+			<p>We reward as many victors as possible with their chance to take their place among the world’s finest grapplers.</p>
+			<p class="right">&ndash; For Grapplers. By Grapplers.</p>
 		</div>
 	</div>
 
@@ -100,33 +90,27 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 2-1, 1, 9);
-			// $('#timerdays').countdown({
-			// 	until: liftoffTime, 
-			// 
-   //  			layout: '{dnn} DAYS'
-	  //   		});
-			$('#timerhours').countdown({
-				until: liftoffTime,
-				timezone: +10,
-				layout: '{dnn} day | {hnn} hours | {snn} sec'
-    			});
-	    		// $('#timerhours').countdown({
-	    		// 	until: liftoffTime, 
-	    		// 	layout: '{hnn} HRS'
-	    		// });
-	    		// $('#timerminutes').countdown({
-	    		// 	until: liftoffTime, 
-	    		// 	layout: '{mnn} MIN'
-	    		// });
-	    		// $('#timerseconds').countdown({
-	    		// 	until: liftoffTime, 
-	    		// 	layout: '{snn} SEC'
-	    		// });
+			var liftoffTime = new Date(2013, 9-1, 21, 9);
+			$('#timerdays').countdown({
+				until: liftoffTime, 
+				timezone: +11,
+    			layout: '{dnn} DAYS'
+    		});
+    		$('#timerhours').countdown({
+    			until: liftoffTime, 
+    			layout: '{hnn} HRS'
+    		});
+    		$('#timerminutes').countdown({
+    			until: liftoffTime, 
+    			layout: '{mnn} MIN'
+    		});
+    		$('#timerseconds').countdown({
+    			until: liftoffTime, 
+    			layout: '{snn} SEC'
+    		});
 		});
 		</script>
 		<script src="js/vendor/jquery.js"></script>
-		<script src="js/vendor/jquery-plugin.js"></script>
 		<script src="js/vendor/jquery.countdown.min.js"></script>
 </body>
 </html>

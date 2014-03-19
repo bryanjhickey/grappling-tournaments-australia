@@ -8,19 +8,6 @@
 <?php include '_masthead.php'; ?>
 	<div class="row">
 		<div id="uniformRequirements" class="text-content large-12 columns">
-
-		<h2>NO GI REQUIREMENTS</h2>
-			<p>For Jiu Jitsu NO GI competitions, athletes should abide by the following attire requirements:</p>
-			<h3 class="subheader">Men:</h3>
-			<p>Board shorts primarily black with up to 30% of their rank colour (belt), with no pockets or with pockets entirely stitched shut, and reaching at least halfway down the thigh and at most to the knee. Attached metal or plastic of any kind that may hurt the opponent is expressly forbidden on the board shorts.</p>
-			<p>Men are permitted the use of shorts or trunks of elastic fabric (clings to body), so long as they are worn under the Regulation shorts.</p>
-			<p>Shirt of elastic fabric (clings to body) at a length that covers the short's waist band, of black or white colour, and displaying at least 10% of the colour of the rank (belt) to which the athlete belongs. Shirts that are 100% the colour of the rank (belt) the athlete belongs to are also acceptable.</p>
-			<h3 class="subheader">Women:</h3>
-			<p>Board shorts or lycra elastic pants primarily black with up to 30% of their rank colour (belt), without pockets or with pockets entirely stitched shut, and reaching at least halfway down the thigh and at most to the knee. Attached metal or plastic of any kind that may hurt the opponent is expressly forbidden on the board shorts.</p>
-			<p>Shirt of elastic fabric (clings to body) at a length that covers the short's waist band, of black or white colour, and displaying at least 10% of the colour of the rank (belt) to which the athlete belongs. Shirts that are 100% the colour of the rank (belt) the athlete belongs to are also acceptable.</p>
-
-			<hr>
-
 			<h2>GI REQUIREMENTS</h2>
 			<p>For Jiu Jitsu GI competitions, athletes should abide by the following attire requirements:</p>
 			<ol>
@@ -31,8 +18,18 @@
 				<li>No clothing is allowed under the jacket top (rash guards, t-shirts, etc.), except for in the female divisions</li>
 				<li>Patches are allowed on the GI only in the marked <br><img title="Gi patches" alt="Gi Patches Diagram" src="assets/uploads/uniform-requirements.png" /></li>
 			</ol>
+
+			<hr>
 			
-			
+			<h2>NO GI REQUIREMENTS</h2>
+			<p>For Jiu Jitsu NO GI competitions, athletes should abide by the following attire requirements:</p>
+			<h3 class="subheader">Men:</h3>
+			<p>Board shorts primarily black with up to 30% of their rank colour (belt), with no pockets or with pockets entirely stitched shut, and reaching at least halfway down the thigh and at most to the knee. Attached metal or plastic of any kind that may hurt the opponent is expressly forbidden on the board shorts.</p>
+			<p>Men are permitted the use of shorts or trunks of elastic fabric (clings to body), so long as they are worn under the Regulation shorts.</p>
+			<p>Shirt of elastic fabric (clings to body) at a length that covers the short's waist band, of black or white colour, and displaying at least 10% of the colour of the rank (belt) to which the athlete belongs. Shirts that are 100% the colour of the rank (belt) the athlete belongs to are also acceptable.</p>
+			<h3 class="subheader">Women:</h3>
+			<p>Board shorts or lycra elastic pants primarily black with up to 30% of their rank colour (belt), without pockets or with pockets entirely stitched shut, and reaching at least halfway down the thigh and at most to the knee. Attached metal or plastic of any kind that may hurt the opponent is expressly forbidden on the board shorts.</p>
+			<p>Shirt of elastic fabric (clings to body) at a length that covers the short's waist band, of black or white colour, and displaying at least 10% of the colour of the rank (belt) to which the athlete belongs. Shirts that are 100% the colour of the rank (belt) the athlete belongs to are also acceptable.</p>
 		</div>
 	</div>
 

@@ -19,15 +19,14 @@ body {
 	-webkit-border-radius: emCalc(6px);
 	-moz-border-radius: emCalc(6px);
 	border-radius: emCalc(6px);
-	padding: 20px;
 	h3 {
 		text-align: center;
 		text-transform: uppercase;
 		color: #fff;
 		font-size: emCalc(34px);
 		font-weight: 600;
-		margin: 0;
-		padding: 0;
+		margin-bottom: 0;
+		padding-top: 0.5em;
 		text-shadow: -1px 1px 1px rgba(0,0,0,1);
 	}
 	h4 {
@@ -47,10 +46,10 @@ th {
 	.top-bar {
 		font-family:"Trajan W01 Regular";
 		text-transform: uppercase;
-		max-width: 538px;
+		max-width: 528px;
 		margin: 0 auto;
 		  @media #{$topbar-media-query} {
-		  	max-width: 538px;
+		  	max-width: 528px;
 			margin: 0 auto;
 		  }
 		.top-bar-section {
@@ -127,15 +126,15 @@ th {
 	}
 }
 #officialRegister {
-	height: 470px;
-	background: #000 url("../assets/img/sign-up-banner-big1.jpg") 0% 43% no-repeat;
+	height: 564px;
+	background: #000 url("../assets/img/sign-up-banner-big.jpg") 0% 43% no-repeat;
 	text-align: center;
-	padding: 2em 0;
+	padding: 6em 0;
 	@media only screen and (max-width : 480px) {
-			background: #000 url("../assets/img/sign-up-banner-mobile.jpg") 0% 0% no-repeat;
+			background-position: 60% 0%;
 	}
 	h2, h5 { 
-		color: $primary-color;
+		color: #fff;
 		text-shadow: 3px 3px 0px rgba(0,0,0,0.95);
 		text-align: center;
 	}
@@ -152,39 +151,37 @@ th {
 		margin-top: 0;
 		line-height: 1;
 		font-size: emCalc(30px);
-		text-shadow: 1px 1px 0px rgba(0,0,0,1);
-		color: #fff;
+		text-shadow: 1px 1px 0px rgba(255,255,255,1);
+		color: #000;
 		@media only screen and (max-width : 480px) {
 			font-size: emCalc(18px);
 		}
 	}
 	h6 {
-		color: #fff;
-		text-shadow: 1px 1px 0px rgba(0,0,0,0.95);
+		color: #000;
+		text-shadow: 1px 1px 0px rgba(255,255,255,0.95);
 	}
 	hr {
 		border-color: #000;
 		border-width: 2px;
 	}
 	h3 {
-		font-size: emCalc(22px);
 	@media only screen and (max-width : 480px) {
 			font-size: emCalc(22px);
 			font-weight: 600;
 		}
 	}
 	h4 {
-		color: $primary-color;
+
 	}
 	.button {
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 		color: #fff;
-		background: $primary-color;
-		// text-shadow: -1px -1px 2px rgb(34, 34, 34);
+		background: #000;
+		text-shadow: -1px -1px 2px rgb(34, 34, 34);
 		border: none;
 		&:hover {
-			background: #fff;
-			color: $primary-color;
+			background: lighten(#000, 20%);
 		}
 	}
 }
