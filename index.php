@@ -30,17 +30,11 @@
 				<div class="row">
 					<div id="timer" class="large-10 small-12 small-centered large-centered columns">
 					<h3 class="subheader">REGISTRATIONS OPEN IN</h3>
-						<div class="row show-for-small">
-							<div class="small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<div class="small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
-							<div class="small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
-							<div class="small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
-						</div>
-						<div class="row hide-for-small">
-							<div class="large-3 small-12 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
-							<div class="large-3 small-12 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
-							<div class="large-3 small-12 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
-							<div class="large-3 small-12 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
+						<div class="row">
+							<div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
+							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
+							<div class="large-3 small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
+							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
 					</div>	
 				</div>
@@ -50,6 +44,19 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
+			<div class="row">
+				<div class="small-8 large-10 large-centered small-centered columns">
+					<div class="row">
+						<div class="small-9 columns">
+							<p>Get the latest news form the GTA buy signing up to our mailing list now.</p>
+						</div>
+						<div class="small-3 columns">
+							<a href="#"  data-reveal-id="mailModal" class="text-right radius button">Sign Up</a>
+						</div>
+					</div>
+					<hr>
+				</div>
+			</div>
 			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
 			<p>We run two events per year:</p>
 				<ol>
@@ -106,24 +113,24 @@
 			var liftoffTime = new Date(2014, 8-1, 15, 1);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
-				timezone: +11,
-    			layout: '{dnn} DAYS'
-    		});
-    		$('#timerhours').countdown({
-    			until: liftoffTime, 
-    			layout: '{hnn} HRS'
-    		});
-    		$('#timerminutes').countdown({
-    			until: liftoffTime, 
-    			layout: '{mnn} MIN'
-    		});
-    		$('#timerseconds').countdown({
-    			until: liftoffTime, 
-    			layout: '{snn} SEC'
-    		});
+    				layout: '{dnn} DAYS'
+	    		});
+	    		$('#timerhours').countdown({
+	    			until: liftoffTime, 
+	    			layout: '{hnn} HRS'
+	    		});
+	    		$('#timerminutes').countdown({
+	    			until: liftoffTime, 
+	    			layout: '{mnn} MIN'
+	    		});
+	    		$('#timerseconds').countdown({
+	    			until: liftoffTime, 
+	    			layout: '{snn} SEC'
+	    		});
 		});
 		</script>
 		<script src="js/vendor/jquery.js"></script>
+		<script src="js/vendor/jquery-plugin.js"></script>
 		<script src="js/vendor/jquery.countdown.min.js"></script>
 </body>
 </html>

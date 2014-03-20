@@ -78,8 +78,8 @@
           </thead>
           <tbody>
             <tr>
-              <td>ROOSTER (Galo)</td>
-              <td>48.5</td>
+              <td>FLYWEIGHT</td>
+              <td>up to 48.5</td>
            </tr>
             <tr>
               <td>LIGHT FEATHER (Pluma)</td>
@@ -103,6 +103,10 @@
             </tr>
             <tr>
               <td>HEAVY (PESADO)</td>
+              <td>79.0</td>
+            </tr>
+            <tr>
+              <td>SUPER HEAVY (SUPER PESADO)</td>
               <td>No Maximum Weight</td>
             </tr>
             <tr>
