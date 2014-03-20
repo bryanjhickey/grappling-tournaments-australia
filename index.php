@@ -110,7 +110,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 8-1, 15, 1);
+			var liftoffTime = new Date(2014, 7-1, 1, 1);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
     				layout: '{dnn} DAYS'
