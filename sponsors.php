@@ -19,7 +19,7 @@
 			<h2>Major Sponsors</h2>
 			<div class="large-4 columns">
 				<div class="image-wrapper">
-					<a href="http://www.subapparel.com/" target="_blank" title="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
+					<a href="http://www.subapparel.com" target="_blank" title="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
 						<img id="subapparel" src="assets/uploads/sub-apparel.jpg" alt="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
 					</a>
 				</div>
@@ -35,7 +35,7 @@
 			</div>
 			<div class="large-4 columns">
 				<div class="image-wrapper">
-					<a href="http://www.ffapaysmart.com.au/‎" target="_blank" title="PaySmart - the benchmark in direct debit billing">
+					<a href="http://www.ffapaysmart.com.au" target="_blank" title="PaySmart - the benchmark in direct debit billing">
 						<img id="paysmartImage" src="assets/uploads/ffa_paysmart.png" alt="PaySmart - the benchmark in direct debit billing">
 					</a>
 				</div>
@@ -48,21 +48,21 @@
 				<h2>Sponsors</h2>
 				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://afcmma.com.au/" target="_blank" title="Australian Fighting Championshp">
+						<a href="http://afcmma.com.au" target="_blank" title="Australian Fighting Championshp">
 							<img id="gncImage" src="assets/uploads/afc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://www.colourtechnet.com/" target="_blank" title="Colourtech - Large Format Printing">
+						<a href="http://www.colourtechnet.com" target="_blank" title="Colourtech - Large Format Printing">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
 				</div>
 				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://www.gnclivewell.com.au/‎" target="_blank" title="GNC LiveWell Australia">
+						<a href="http://www.gnclivewell.com.au" target="_blank" title="GNC LiveWell Australia">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
@@ -71,7 +71,7 @@
 			<div class="row">
 				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://www.grapplingstore.com/‎" target="_blank" title="Grappling Store">
+						<a href="http://www.grapplingstore.com" target="_blank" title="Grappling Store">
 							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
 						</a>
 					</div>
@@ -83,7 +83,7 @@
 				</div>
 				<div class="small-4 columns">
 					<div class="image-wrapper">
-						<a href="http://www.michaelwilson.com.au/" target="_blank" title="Michael Wilson Diamon Jewellers">
+						<a href="http://www.michaelwilson.com.au" target="_blank" title="Michael Wilson Diamon Jewellers">
 							<img id="afcImage" src="assets/uploads/MW-logo.jpg" alt="">
 						</a>
 					</div>
