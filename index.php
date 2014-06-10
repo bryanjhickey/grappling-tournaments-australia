@@ -33,7 +33,7 @@
 				<div class="row hide-for-small">
 					<div id="timer" class="large-9 small-12 small-centered large-centered columns">
 						<h3>NEXT COMPETITION:<br>
-						NOV 2014 (exact date TBA)</h3>
+						OCT 2014 (exact date TBA)</h3>
 						<!-- <div class="row">
 							<div class="large-10 large-centered small-12 columns"><h4><span id="timerhours" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-4 small-4 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
