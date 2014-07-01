@@ -22,14 +22,14 @@
 		<div class="row">
 			<div class="large-12 small-12 small-centered large-centered columns">
 				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader">GI ONLY | 9AM SAT 20TH SEPT 2014 | 10 BRENS DRV, ROYAL PARK</h5>
+				<h5 class="subheader">GI ONLY | 9AM SAT 4TH OCT 2014<BR>MELB SPORTS AND AQUATIC CENTER</h5>
 				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
 				<div class="row">
 					<div id="timer" class="large-10 small-12 small-centered large-centered columns">
-					<h3 class="subheader">REGISTRATIONS OPEN IN</h3>
+					<h3 class="subheader">READY TO GRAPPLE IN</h3>
 						<div class="row">
 							<div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
@@ -110,7 +110,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 7-1, 1, 1);
+			var liftoffTime = new Date(2014, 10-1, 4, 9);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
     				layout: '{dnn} DAYS'
