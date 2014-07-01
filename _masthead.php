@@ -10,9 +10,9 @@
 	</script>
 
 	<header id="masthead" class="row">
-		<div class="small-12 large-centered columns">
+		<div class="small-10 small-centered large-4 columns">
 			<h1 class="header-be-gone">Grappling Tournaments Australia</h1>
-			<a href="index.php"><img  src="assets/img/gta-logo-wreath.png" alt="Grappling Tournaments Australia"></a>
+			<a href="index.php"><img src="assets/img/gta-logo-wreath.png" alt="Grappling Tournaments Australia"></a>
 		</div>
 	</header>
 	

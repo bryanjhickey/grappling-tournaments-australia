@@ -1,6 +1,7 @@
 <?php include '_dochead.php'; ?>
 
 <title>Grappling Tournaments Australia | For Grapplers. By Grapplers</title>
+
 <style>
 	#timerLabel {
 		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
@@ -12,7 +13,8 @@
 		color: rgb(195, 137, 48);
 		text-shadow: 5px 5px 9px rgba(0, 0, 0, 0.6);
 	}
-	</style>	
+</style>
+
 </head>
 <body>
 	
@@ -20,16 +22,16 @@
 	
 	<div id="officialRegister">
 		<div class="row">
-			<div class="large-12 small-12 small-centered large-centered columns">
+			<div class="small-12 small-centered columns">
 				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader">GI ONLY | 9AM SAT 4TH OCT 2014<BR>MELB SPORTS AND AQUATIC CENTER</h5>
-				<!-- <a href="#" class="button medium radius" data-reveal-id="mailModal">LET'S DO IT</a> -->
+				<h5 class="subheader hide-for-small">Sat 4th Oct 2014<br>Melb Sports &amp; Aquatic Center</h5>
+				<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a>
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
 				<div class="row">
-					<div id="timer" class="large-10 small-12 small-centered large-centered columns">
-					<h3 class="subheader">READY TO GRAPPLE IN</h3>
+					<div id="timer" class="small-12 small-centered large-10 columns">
+					<h3 class="subheader">Prepare for Victory</h3>
 						<div class="row">
 							<div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
@@ -43,15 +45,15 @@
 	</div>
 		
 	<div class="row">
-		<div id="landingIntroText" class="large-10 small-12 text-content large-centered columns">
+		<div id="landingIntroText" class="small-12 small-centered text-content columns">
 			<div class="row">
-				<div class="small-8 large-10 large-centered small-centered columns">
+				<div class="small-12 small-centered columns">
 					<div class="row">
-						<div class="small-9 columns">
+						<div class="small-8 columns">
 							<p>Get the latest news form the GTA buy signing up to our mailing list now.</p>
 						</div>
-						<div class="small-3 columns">
-							<a href="#"  data-reveal-id="mailModal" class="text-right radius button">Sign Up</a>
+						<div class="small-4 columns">
+							<a href="#"  data-reveal-id="mailModal" class="right radius button">Sign Up</a>
 						</div>
 					</div>
 					<hr>
@@ -77,7 +79,7 @@
 		<div id="mailModal" class="reveal-modal">
 			<div id="mc_embed_signup">
 				<div class="row">
-					<div class="large-12">
+					<div class="small-12 columns">
 					<h4>sign up to our mailing list</h4>
 					<form action="http://grapplingtournaments.us7.list-manage.com/subscribe/post" method="POST">
 						<input type="hidden" name="u" value="e61f487a5429e929e557faf44">
