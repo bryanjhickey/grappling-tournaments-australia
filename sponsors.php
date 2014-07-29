@@ -17,71 +17,53 @@
 		<div id="majorSponsors" class="row">
 			<hr>
 			<h2>Major Sponsors</h2>
-			<div class="large-4 columns">
-				<div class="image-wrapper">
-					<a href="http://www.subapparel.com/" target="_blank" title="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
-						<img id="subapparel" src="assets/uploads/sub-apparel.jpg" alt="SUB Apparel - Jiu Jitsu, BJJ, MMA and Muay Thai Fight Wear">
-					</a>
+			<div class="row">
+				<div class="small-12 large-8 large-centered columns">
+					<div class="large-5 columns">
+						<div class="image-wrapper">
+							<a href="http://www.zebramats.com.au" target="_blank" title="Zebra Mats - simply the best">
+								<img id="zebraImage" src="assets/uploads/zebra-logo.png" alt="Zebra Mats - simply the best">
+							</a>
+						</div>
+						<p>More people are choosing Zebra Equipment from Cung Le to Brock Lesner. The proof is in the the quality of our products... don't just chance it, Choose Zebra... Simply Z Best!</p>
+					</div>
+					<div class="large-5 large-offset-2 columns">
+						<div class="image-wrapper">
+							<a href="http://www.ffapaysmart.com.au/‎" target="_blank" title="PaySmart - the benchmark in direct debit billing">
+								<img id="paysmartImage" src="assets/uploads/ffa_paysmart.png" alt="PaySmart - the benchmark in direct debit billing">
+							</a>
+						</div>
+						<p>PaySmart sets the benchmark as one of Australia’s largest and longest established direct debit companies, and we provide our services to many thousands of clients around the nation.</p>
+					</div>
+					<hr>
 				</div>
-				<p>SUB Apparel are an Australian owned and operated fightwear company selling premium fight gear designed and tested by world class fighters.</p>
 			</div>
-			<div class="large-4 columns">
-				<div class="image-wrapper">
-					<a href="http://www.zebramats.com.au" target="_blank" title="Zebra Mats - simply the best">
-						<img id="zebraImage" src="assets/uploads/zebra-logo.png" alt="Zebra Mats - simply the best">
-					</a>
-				</div>
-				<p>More people are choosing Zebra Equipment from Cung Le to Brock Lesner. The proof is in the the quality of our products... don't just chance it, Choose Zebra... Simply Z Best!</p>
-			</div>
-			<div class="large-4 columns">
-				<div class="image-wrapper">
-					<a href="http://www.ffapaysmart.com.au/‎" target="_blank" title="PaySmart - the benchmark in direct debit billing">
-						<img id="paysmartImage" src="assets/uploads/ffa_paysmart.png" alt="PaySmart - the benchmark in direct debit billing">
-					</a>
-				</div>
-				<p>PaySmart sets the benchmark as one of Australia’s largest and longest established direct debit companies, and we provide our services to many thousands of clients around the nation.</p>
-			</div>
-			<hr>
 		</div>
 		<div id="minorSponsors">
 			<div class="row">
 				<h2>Sponsors</h2>
-				<div class="small-4 columns">
-					<div class="image-wrapper">
-						<a href="http://afcmma.com.au/" target="_blank" title="Australian Fighting Championshp">
-							<img id="gncImage" src="assets/uploads/afc_logo.png" alt="">
-						</a>
-					</div>
-				</div>
-				<div class="small-4 columns">
+				<div class="small-12 large-3 columns">
 					<div class="image-wrapper">
 						<a href="http://www.colourtechnet.com/" target="_blank" title="Colourtech - Large Format Printing">
 							<img id="colourtechImage" src="assets/uploads/colourtech-logo.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-4 columns">
+				<div class="small-12 large-3 columns">
 					<div class="image-wrapper">
 						<a href="http://www.gnclivewell.com.au/‎" target="_blank" title="GNC LiveWell Australia">
 							<img id="gncImage" src="assets/uploads/gnc_logo.png" alt="">
 						</a>
 					</div>
 				</div>
-			</div>
-			<div class="row">
-				<div class="small-4 columns">
+				<div class="small-12 large-3 columns">
 					<div class="image-wrapper">
 						<a href="http://www.grapplingstore.com/‎" target="_blank" title="Grappling Store">
 							<img id="grapplingstoreImage" src="assets/uploads/grappling-store.png" alt="">
 						</a>
 					</div>
 				</div>
-				<div class="small-4 columns">
-					<div class="image-wrapper">
-						
-					</div>
-				</div>
-				<div class="small-4 columns">
+				<div class="small-12 large-3 columns">
 					<div class="image-wrapper">
 						<a href="http://www.michaelwilson.com.au/" target="_blank" title="Michael Wilson Diamon Jewellers">
 							<img id="afcImage" src="assets/uploads/MW-logo.jpg" alt="">
