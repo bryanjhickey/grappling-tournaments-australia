@@ -17,11 +17,11 @@
 		</div>
 		<div id="footerLegal" class="row">
 			<hr>
-			<div id="leftFooter" class="large-7 columns">
+			<div id="leftFooter" class="small-12 large-7 columns">
 				<div class="inline" id="footerEmail"><a href="mailto:info@grapplingtournaments.com.au" target="_blank" title="Contact Us">info@grapplingtournaments.com.au</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline" id="footerAddress">555 Victoria Street, Abbotsford, VIC. 3121</div>
 			</div>
-			<div  id="rightFooter" class="large-5 columns">
+			<div  id="rightFooter" class="small-12 large-5 columns">
 				<div class="inline home-link"><a href="index.php">Home</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline privacy-link"><a href="privacy-policy.php">Privacy Policy</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline site-credits"><a href="site-credits.php">Site Credits</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
