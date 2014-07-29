@@ -12,4 +12,8 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="js/vendor/custom.modernizr.js"></script>
 
+  <style>.fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe {
+    width: 100% !important;
+}</style>
+
   <!-- Continues on pages to allow for variable title element and page-specific includes -->
