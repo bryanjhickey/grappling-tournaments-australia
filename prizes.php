@@ -36,9 +36,6 @@
 			
 			<p>World Championship Sponsorship (WCS) includes return airfare to LA, competition entry and accommodation in LA for duration of the competition. Students must organise all annual memberships to IBJJF and membership cards through their own coach / school.</p>
 			<p>Note: Open classes require a minimum of 8 competitors to qualify for WCS.</p>
-			<p><strong>WEIGHT CLASS WINNERS</strong></p>
-			<p>All weight class winners both male and female in all belts receive training gear sponsorship pack from SUB APPAREL.</p>
-			<p><a href="http://www.subapparel.com" target="www.subapparel.com" title="www.subapparel.com">www.subapparel.com</a></p>
 		</div>
 	</div>
 
