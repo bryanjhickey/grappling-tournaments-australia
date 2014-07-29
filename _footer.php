@@ -7,8 +7,7 @@
 			<div class="small-12 large-12 columns">
 				<h3 id="socialBanner">We Are One.</h3>
 				<div class="flex-video" style="padding-bottom: 40% !important;">
-					<iframe src="http://www.facebook.com/plugins/facepile.php?app_id=198476720177494&href=https%3A%2F%2Fwww.facebook.com%2Fgrapplingtournaments.com.au&action&width&height=200&max_rows=10&colorscheme=light&size=large&show_count=true&appId=462017593880424" frameborder="0"></iframe>
-				</div>
+<iframe src="//www.facebook.com/plugins/facepile.php?app_id=198476720177494&amp;href=https%3A%2F%2Fwww.facebook.com%2Fgrapplingtournaments.com.au&amp;action&amp;width&amp;height=200&amp;max_rows=10&amp;colorscheme=light&amp;size=large&amp;show_count=true&amp;appId=440269359360049" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:200px;" allowTransparency="true"></iframe>				</div>
 				<h3 id="socialAction">Join Forces Today</h3>
 				<div class="row">
 					<div class="small-centered large-centered columns">
