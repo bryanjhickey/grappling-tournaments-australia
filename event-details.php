@@ -11,7 +11,8 @@
 	<div class="row">
 		<div class="rules-videos large-12 columns">
 			<h2>Event Details</h2>
-			<h4>Venue</h4>
+			<h4>coming soon . . . </h4>
+		<!-- 	<h4>Venue</h4>
 			<p>This year the event will be at the <strong>Melbourne Sports and Aquatic Center</strong> (MSAC). A world class facility that offers a great environment for competitors and spectators alike.</p>
 			<div class="row">
 				<div class="large-8 small-12 columns">
@@ -33,7 +34,6 @@
 			<div class="row">
 				<div class="small-6 columns">
 					<h4>Times</h4>
-					<!-- <p>Registrations for the event open on the 1st of July.</p> -->
 					<p>The schedule for the day will be:</p>
 					<ul class="no-bullet">
 						<li>09:00am – Doors open</li>
@@ -43,7 +43,7 @@
 				</div>
 				<div class="small-6 columns">
 					<h4>Costs</h4>
-					<p>$70 competitors (Must pre register. <!-- Registrations open 1st of July -->)</p>
+					<p>$70 competitors (Must pre register.)</p>
 					<p>At gate:</p>
 					<ul class="no-bullet">
 						<li>$10 spectators.</li>
@@ -51,7 +51,7 @@
 						<li>$25 family pack (2 adults, 2 children)</li>
 					</ul>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>

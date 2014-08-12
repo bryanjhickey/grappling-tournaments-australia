@@ -24,12 +24,13 @@
 		<div class="row">
 			<div class="small-12 small-centered columns">
 				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader hide-for-small">Sat 4th Oct 2014<br>Melb Sports &amp; Aquatic Center</h5>
-				<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a>
+				<h5 class="subheader">Details Coming Soon . . .</h5>
+				<!-- <h5 class="subheader hide-for-small">Sat 4th Oct 2014<br>Melb Sports &amp; Aquatic Center</h5>
+				<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
-				<div class="row">
+				<!-- <div class="row">
 					<div id="timer" class="small-12 small-centered large-10 columns">
 					<h3 class="subheader">Prepare for Victory</h3>
 						<div class="row">
@@ -39,7 +40,7 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
 					</div>	
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
