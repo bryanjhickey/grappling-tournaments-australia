@@ -23,15 +23,15 @@
 	<div id="officialRegister">
 		<div class="row">
 			<div class="small-12 small-centered columns">
-				<h2>AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
-				<h5 class="subheader">Details Coming Soon . . .</h5>
-				<!-- <h5 class="subheader hide-for-small">Sat 4th Oct 2014<br>Melb Sports &amp; Aquatic Center</h5>
-				<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a> -->
+				<h2>AUSTRALIAN JIU JITSU<br>GI CHAMPIONSHIPS</h2>
+				<!-- <h5 class="subheader">Details Coming Soon . . .</h5> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
-				<!-- <div class="row">
-					<div id="timer" class="small-12 small-centered large-10 columns">
+				<div class="row">
+					<div id="timer" class="panel small-12 small-centered large-10 columns">
+					<h5 class="subheader hide-for-small">Sat 21st Feb 2015<br>State Netball &amp; Hockey Centre</h5>
+					<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a>
 					<h3 class="subheader">Prepare for Victory</h3>
 						<div class="row">
 							<div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
@@ -40,7 +40,7 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
 					</div>	
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</div>
@@ -63,8 +63,8 @@
 			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
 			<p>We run two events per year:</p>
 			<ol>
-				<li>The Australian No Gi Jiu Jitsu Championships every <strong>February</strong></li>
-				<li>The Australian Jiu Jitsu Championships every <strong>September</strong></li>
+				<li>The Australian No Gi Jiu Jitsu Championships</li>
+				<li>The Australian Jiu Jitsu Championships</li>
 			</ol>
 			<p>Winners of all open divisions at each event earn sponsored trips to compete at the World Championships in LA.</p>
 			<p><em>"GTA runs the best BJJ comps in the country. If you love BJJ and competing these are the number one comps you should support."</em></p>
@@ -110,7 +110,7 @@
 		</div>
 		<script>
 		$(document).ready(function() {		
-			var liftoffTime = new Date(2014, 10-1, 4, 9);
+			var liftoffTime = new Date(2015, 2-1, 21, 9);
 			$('#timerdays').countdown({
 				until: liftoffTime, 
     				layout: '{dnn} DAYS'
