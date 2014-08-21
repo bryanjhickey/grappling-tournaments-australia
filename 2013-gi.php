@@ -7,8 +7,8 @@
 	
 <?php include '_masthead.php'; ?>
 
-<div id="pastEvent" class="row">
-<div class="text-content large-12 columns">
+<div class="row content-section">
+	<div class="small-12 columns">
 	<h2>Australian Jiu Jitsu GI Championships</h2>
 	<h3 class="subheader">September 21st 2013</h3>
 	<table>

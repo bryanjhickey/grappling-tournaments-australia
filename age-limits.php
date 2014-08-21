@@ -7,13 +7,9 @@
   
 <?php include '_masthead.php'; ?>
 
-<div id="timeLimits" class="row">
-  <div class="small-12 large-12 columns">
-    <div class="section-container vertical-tabs" data-section="vertical-tabs">
-      <section>
-        <p class="title" data-section-title><a href="#">Age Limits</a></p>
-        <div class="content" data-section-content>
-        <h5>Age Limits</h5>
+<div class="row content-section">
+  <div class="small-12 columns">
+        <h2>Age Limits</h2>
           <table>
             <thead>
               <tr>
@@ -32,9 +28,6 @@
               </tr> -->
             </tbody>
           </table>
-        </div>
-      </section>
-    </div>
   </div>
 </div>
 

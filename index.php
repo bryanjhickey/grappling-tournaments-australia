@@ -20,19 +20,19 @@
 	
 	<?php include '_masthead.php'; ?>
 	
-	<div id="officialRegister">
+	<div class="official-register">
 		<div class="row">
 			<div class="small-12 small-centered columns">
-				<h2>AUSTRALIAN JIU JITSU<br>GI CHAMPIONSHIPS</h2>
+				<h2 class="text-center event-title">AUSTRALIAN JIU JITSU GI CHAMPIONSHIPS</h2>
 				<!-- <h5 class="subheader">Details Coming Soon . . .</h5> -->
 				<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2013/m_results3.jsp?id=1354&indexstyle=125" class="button medium radius" title="View Weight Class Brackets" target="_blank">VIEW BRACKETS</a>
 				<h6>PLEASE NOTE.<br> OPEN WEIGHT REGISTRATION MUST BE DONE IN PERSON, ON THE DAY, AFTER COMPLETION OF YOUR WEIGHT DIVISION.</h6>
 				<hr> -->
 				<div class="row">
-					<div id="timer" class="panel small-12 small-centered large-10 columns">
-					<h5 class="subheader hide-for-small">Sat 21st Feb 2015<br>State Netball &amp; Hockey Centre</h5>
+					<div class="panel panel-timer small-11 small-centered medium-10 large-8 columns">
+					<h5 class="hide-for-small">Sat 21st Feb 2015<br>State Netball &amp; Hockey Centre</h5>
 					<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a>
-					<h3 class="subheader">Prepare for Victory</h3>
+					<h3>Prepare for Victory</h3>
 						<div class="row">
 							<div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
@@ -48,17 +48,17 @@
 	<div class="row">
 		<div id="landingIntroText" class="small-12 small-centered text-content columns">
 			<div class="row">
-				<div class="small-12 small-centered columns">
-					<div class="row">
-						<div class="small-8 columns">
-							<p>Get the latest news form the GTA buy signing up to our mailing list now.</p>
+				<div class="small-12 medium-8 small-centered columns">
+					<div class="row mail-signup">
+						<div class="small-12 medium-8 large-10 columns">
+							<p class="lead">Get the latest news form the GTA buy signing up to our mailing list now.</p>
 						</div>
-						<div class="small-4 columns">
-							<a href="#"  data-reveal-id="mailModal" class="right radius button">Sign Up</a>
+						<div class="small-12 medium-4 large-2 columns">
+							<a href="#"  data-reveal-id="mailModal" class="right radius expand button">Sign Up</a>
 						</div>
 					</div>
-					<hr>
 				</div>
+				<hr>
 			</div>
 			<p>Grappling Tournaments Australia runs the premier BJJ competitions in the Asia-Pacific region. GTA events are 100% non-profit with all the money raised through entries and sponsorship going back to the competitors.</p>
 			<p>We run two events per year:</p>
@@ -129,7 +129,7 @@
 	    		});
 		});
 		</script>
-		<script src="js/vendor/jquery.js"></script>
+		<script src="js/vendor/jquery.min.js"></script>
 		<script src="js/vendor/jquery-plugin.js"></script>
 		<script src="js/vendor/jquery.countdown.min.js"></script>
 </body>

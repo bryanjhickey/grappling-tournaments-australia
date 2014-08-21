@@ -7,14 +7,17 @@
   
 <?php include '_masthead.php'; ?>
 
-<div id="weightClasses" class="row">
-  <div class="small-12 large-12 columns">
-    <div class="section-container vertical-tabs" data-section="vertical-tabs">
-    <section>
-      <p class="title" data-section-title><a href="#">Gi Weight Classes</a></p>
-      <div class="content" data-section-content>
-      <h2>Gi Weight Classes</h2>
-      <h3><small>Weights include the athlete wearing complete GI uniform.</small></h3>
+<div class="row content-section">
+  <div class="small 12 columns">
+    <h2>Weight Classes</h2>
+    <ul class="tabs" data-tab>
+      <li class="tab-title active"><a href="#giweights">Gi Weights</a></li>
+      <li class="tab-title"><a href="#nogiweights">No Gi Weights</a></li>
+    </ul>
+    <div class="tabs-content">
+      <div id="giweights" class="content active">
+        <h3>Gi Weights</h3>
+        <p>Weights include the athlete wearing complete GI uniform.</p>
         <h5>Adult Male</h5>
         <table>
           <thead>
@@ -115,14 +118,10 @@
             </tr>
           </tbody>
         </table>
-        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
-    </section>
-    <section>
-      <p class="title" data-section-title><a href="#">No GI Weight Classes</a></p>
-      <div class="content" data-section-content>
-         <h2>No GI Weight Classes</h2>
-      <h3><small>Weights include the athlete wearing complete NO GI uniform.</small></h3>
+      <div id="nogiweights" class="content">
+        <h3>No GI Weight Classes</h3>
+      <p>Weights include the athlete wearing complete NO GI uniform.<p>
         <h5>Adult Male</h5>
         <table>
           <thead>
@@ -215,11 +214,11 @@
             </tr>
           </tbody>
         </table>
-        <!-- <p>* Open Class is only open to the top 4 placed competitors from each completed division.</p> -->
       </div>
-    </section></div>
+    </div>
   </div>
 </div>
+
 
 
 
