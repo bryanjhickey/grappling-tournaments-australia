@@ -30,7 +30,7 @@
 				<hr> -->
 				<div class="row">
 					<div class="panel panel-timer small-11 small-centered medium-10 large-8 columns">
-					<h5 class="hide-for-small">Sat 21st Feb 2015<br>State Netball &amp; Hockey Centre</h5>
+					<h4 class="hide-for-small">State Netball &amp; Hockey Centre<br>Sat 21st Feb 2015</h4>
 					<a href="event-details.php" class="button medium radius show-for-small ">EVENT DETAILS</a>
 					<h3>Prepare for Victory</h3>
 						<div class="row">
