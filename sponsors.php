@@ -46,7 +46,7 @@
 		</div>
 		<div id="minorSponsors">
 			<div class="row">
-				<h2>Sponsors</h2>
+				<h2 class="text-center">Sponsors</h2>
 				<div class="row">
 					<div class="small-12 medium-6 large-3 columns">
 						<div class="image-container">
