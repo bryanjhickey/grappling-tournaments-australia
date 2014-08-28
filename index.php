@@ -47,7 +47,7 @@
 		
 	<div class="row">
 		<div id="landingIntroText" class="small-12 small-centered text-content columns">
-			<div class="row">
+			<div class="content-section row">
 				<div class="small-12 medium-8 small-centered columns">
 					<div class="row mail-signup">
 						<div class="small-12 medium-8 large-10 columns">
