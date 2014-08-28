@@ -4957,6 +4957,9 @@ section.top-bar-section {
 .masthead {
   padding: 2.5rem 0; }
 
+.top-bar-section ul li > a {
+  font-weight: normal; }
+
 .official-register {
   height: auto;
   padding: 3.75rem 0;

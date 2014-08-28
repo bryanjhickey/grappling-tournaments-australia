@@ -13,6 +13,9 @@ section.top-bar-section {
 .masthead {
 	padding: rem-calc(40) 0;
 }
+.top-bar-section ul li > a {
+	font-weight:normal;
+}
 .official-register {
 	height:auto;
 	padding: rem-calc(60) 0;
