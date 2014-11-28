@@ -30,7 +30,6 @@
 				</ul>
 				</div>
 			</div>
-			<p>World Championship Sponsorship (WCS) includes return airfare to LA, competition entry and accommodation in LA for duration of the competition. Students must organise all annual memberships to IBJJF and membership cards through their own coach / school.</p>
 			<p>Note: Open classes require a minimum of 8 competitors to qualify for WCS.</p>
 		</div>
 	</div>
