@@ -13,7 +13,7 @@
 			<h2>Prizes</h2>
 			<h4>What is on offer?</h4>
 			<p><strong>OPEN WINNERS</strong></p>
-			<p>Open weight winners of the of the following receive World Championship Sponsorship:</p>
+			<p>Open weight winners of the following receive World Championship Sponsorship:</p>
 			<div class="row">
 				<div class="small-12 medium-6 columns">
 					<ul class="no-bullet">
