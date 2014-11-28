@@ -6,7 +6,7 @@
 
 </head>
 <body>
-	
+
 <?php include '_masthead.php'; ?>
 	<div class="row">
 		<div  class="content-section small-12 columns">
@@ -20,8 +20,6 @@
 						<li>1 x Male White Belt</li>
 						<li>1 x Male Blue Belt</li>
 						<li>1 x Male Purple Belt</li>
-						<li>1 x Male Brown Belt</li>
-						<li>1 x Male Black Belt</li>
 					</ul>
 				</div>
 				<div class="small-12 medium-6 columns">
