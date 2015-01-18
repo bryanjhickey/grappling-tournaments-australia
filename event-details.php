@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	
+
 <?php include '_masthead.php'; ?>
 
 <div id="rulesVideos">
@@ -43,7 +43,7 @@
 				</div>
 				<div class="small-12 medium-6 columns">
 					<h4>Costs</h4>
-					<p>$70 competitors (Must pre register.)</p>
+					<p>$80 competitors (Must pre register.)</p>
 					<p>At gate:</p>
 					<ul class="no-bullet">
 						<li>$10 spectators.</li>
