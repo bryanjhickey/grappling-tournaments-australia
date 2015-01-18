@@ -17,9 +17,9 @@
 
 </head>
 <body>
-	
+
 	<?php include '_masthead.php'; ?>
-	
+
 	<div class="official-register">
 		<div class="row">
 			<div class="small-12 small-centered columns">
@@ -39,12 +39,12 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 						</div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-		
+
 	<div class="row">
 		<div id="landingIntroText" class="small-12 small-centered text-content columns">
 			<div class="content-section row">
@@ -69,7 +69,7 @@
 
 	<?php include '_footer.php'; ?>
 
-		<div id="mailModal" class="reveal-modal">
+		<div id="mailModal" class="reveal-modal" data-reveal>
 			<div id="mc_embed_signup">
 				<div class="row">
 					<div class="small-12 columns">
@@ -80,18 +80,18 @@
 						<label for="MERGE0">
 							<strong>Email Address</strong><span class="asterisk">*</span></label>
 							<div class="field-group">
-						    	<input type="email" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>	    
+						    	<input type="email" name="MERGE0" id="MERGE0" size="25" value="" placeholder="john.smith@example.com" required>
 							</div>
 							<div class="" id="mergeRow-1">
 								<label for="MERGE1">First Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="John">					    
+						    		<input type="text" name="MERGE1" id="MERGE1" size="25" value="" placeholder="John">
 								</div>
 							</div>
 							<div class="" id="mergeRow-2">
 								<label for="MERGE2">Last Name</label>
 								<div class="field-group">
-						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="Smith">  
+						    		<input type="text" name="MERGE2" id="MERGE2" size="25" value="" placeholder="Smith">
 								</div>
 							</div>
 							<div class="submit_container">
@@ -101,25 +101,28 @@
 					</div>
 			  	</div>
 			</div>
-		  <a class="close-reveal-modal">&#215;</a>
+		  	<a class="close-reveal-modal">&#215;</a>
 		</div>
 		<script>
-		$(document).ready(function() {		
+		$(document).foundation();
+		</script>
+		<script>
+		$(document).ready(function() {
 			var liftoffTime = new Date(2015, 2-1, 21, 9);
 			$('#timerdays').countdown({
-				until: liftoffTime, 
+				until: liftoffTime,
     				layout: '{dnn} DAYS'
 	    		});
 	    		$('#timerhours').countdown({
-	    			until: liftoffTime, 
+	    			until: liftoffTime,
 	    			layout: '{hnn} HRS'
 	    		});
 	    		$('#timerminutes').countdown({
-	    			until: liftoffTime, 
+	    			until: liftoffTime,
 	    			layout: '{mnn} MIN'
 	    		});
 	    		$('#timerseconds').countdown({
-	    			until: liftoffTime, 
+	    			until: liftoffTime,
 	    			layout: '{snn} SEC'
 	    		});
 		});
