@@ -13,7 +13,7 @@
 			<a href="index.php"><img src="assets/img/gta-logo-wreath.png" alt="Grappling Tournaments Australia"></a>
 		</div>
 	</header>
-	
+
 	<div class="contain-to-grid sticky">
 		<nav class="top-bar" data-topbar data-options="sticky_on: large">
 			<ul class="title-area show-for-small">
@@ -26,7 +26,6 @@
 	  		<section class="top-bar-section">
 			<!-- Left Nav Section -->
 				<ul>
-					<li><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a href="#">Rules</a>
 						<ul class="dropdown">
 							<li><a href="rules.php">Rules</a></li>
@@ -38,8 +37,9 @@
 						</ul>
 					</li>
 					<li><a href="prizes.php">Prizes</a></li>
-					<li class="active"><a href="event-details.php">Event Details</a></li>
 					<li><a href="sponsors.php">Sponsors</a></li>
+					<li class="active"><a href="http://www.strongvon.com/aujiujitsuchamps2015/">Register Now</a></li>
+					<li><a href="event-details.php">Event Details</a></li>
 					<li class="has-dropdown"><a href="#">Past Events</a>
 						<ul class="dropdown">
 							<li><a href="2014-no-gi.php">2014 Feb NO GI</a></li>
