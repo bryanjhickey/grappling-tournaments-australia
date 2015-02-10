@@ -1,13 +1,109 @@
-DirectoryIndex index.html index.php index.htm
-<IfModule mod_gzip.c>
-    mod_gzip_on       Yes
-    mod_gzip_dechunk  Yes
-    mod_gzip_item_include file      \.(html?|txt|css|js|php|pl)$
-    mod_gzip_item_include handler   ^cgi-script$
-    mod_gzip_item_include mime      ^text/.*
-    mod_gzip_item_include mime      ^application/x-javascript.*
-    mod_gzip_item_exclude mime      ^image/.*
-    mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+<IfModule mod_rewrite.c>
+        RewriteEngine On
+
+        # Removes index.php from ExpressionEngine URLs
+        RewriteCond $1 !\.(gif|jpe?g|png)$ [NC]
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^(.*)$ /index.php/$1 [L]
+
+        # Remove www., always.
+        RewriteCond %{HTTP_HOST} ^www\.http://grapplingtournaments\.com.au$ [NC]
+        RewriteRule ^(.*)$ http://grapplingtournaments.com.au//$1 [R=301,L]
+
+        # START STASH STATIC CACHE
+
+        # Exclude image files
+        RewriteCond $1 !\.(gif|jpe?g|png|ico)$ [NC]
+
+        # We only want GET requests
+        RewriteCond %{REQUEST_METHOD} GET
+
+        # Exclude CSS/ACT EE URLs and 'preview'
+        RewriteCond %{QUERY_STRING} !^(css|ACT|URL|preview)
+
+        # Uncomment this if you want to disable static caching for logged-in users
+        #RewriteCond %{HTTP_COOKIE} !exp_sessionid [NC]
+
+        # Remove index.php from conditions
+        RewriteCond $1 ^(index.php/)*(.*)(/*)$
+
+        # Check if cached index.html exists
+        RewriteCond %{DOCUMENT_ROOT}/static_cache/[site_id]/$2/index.html (.*\.(.*))$
+        RewriteCond %1 -f
+
+        # Rewrite to the cached page
+        RewriteRule ^(index.php/*)*(.*)(/*) /static_cache/[site_id]/$2/index.%2 [L]
 </IfModule>
-RewriteCond /%{REQUEST_FILENAME}.php -f
-RewriteRule ^([a-zA-Z0-9_-\s]+)/$ /$1.php
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=290304000, public"
+</FilesMatch>
+
+# 2 DAYS
+<FilesMatch "\.(xml|txt)$">
+Header set Cache-Control "max-age=172800, public, must-revalidate"
+</FilesMatch>
+
+# 2 HOURS
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=7200, must-revalidate"
+</FilesMatch>
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "public"
+Header set Expires "Thu, 15 Apr 2015 20:00:00 GMT"
+</FilesMatch>
+
+#Gzip
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+# Compresses Text, HTML, Javascript, CSS & XML:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+</ifmodule>
+#End Gzip
+
+<FilesMatch "\.(ico|jpg|jpeg|png|gif|js|css|swf)$">
+
+        <IfModule mod_expires.c>
+          ExpiresActive on
+          ExpiresDefault "access plus 1 week"
+
+        # Your document html
+          ExpiresByType text/html "access plus 1 day"
+
+        # Media: images, video, audio
+          ExpiresByType audio/ogg "access plus 1 week"
+          ExpiresByType image/gif "access plus 1 week"
+          ExpiresByType image/jpeg "access plus 1 week"
+          ExpiresByType image/jpg "access plus 1 week"
+          ExpiresByType image/png "access plus 1 week"
+          ExpiresByType video/mp4 "access plus 1 week"
+          ExpiresByType video/ogg "access plus 1 week"
+          ExpiresByType video/webm "access plus 1 week"
+
+        # CSS and JavaScript
+          ExpiresByType application/javascript "access plus 1 year"
+          ExpiresByType text/css "access plus 1 week"
+        </IfModule>
+
+        Header unset ETag
+        FileETag None
+
+</FilesMatch>
+
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm
+
+php_value output_handler none
+php_flag register_globals off
+php_flag safe_mode off
