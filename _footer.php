@@ -2,11 +2,13 @@
 		<div class="row">
 			<div id="takedown" class="small-12 medium-10 medium-centered columns"><img src="assets/img/footer.png" alt=""></div>
 		</div>
-		
+
 		<div class="row">
 			<div class="small-12 medium-12 columns">
 				<h3 id="socialBanner">We Are One.</h3>
-				<div class="fb-facepile" data-app-id="198476720177494" data-href="https://www.facebook.com/grapplingtournaments.com.au" data-width="1000" data-height="200" data-max-rows="10" data-colorscheme="light" data-size="large" data-show-count="true"></div>				
+                                                <div class="flex-video">
+				    <div class="fb-facepile" data-app-id="198476720177494" data-href="https://www.facebook.com/grapplingtournaments.com.au" data-width="1000" data-height="200" data-max-rows="10" data-colorscheme="light" data-size="large" data-show-count="true"></div>
+                                                </div>
 				<h3 id="socialAction">Join Forces Today</h3>
 				<div class="row">
 					<div class="small-centered medium-centered columns">
@@ -39,7 +41,14 @@
 // 		mtiTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.com/t/trackingCode.js';
 // 		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
 //    })();
-// </script>		
+// </script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=786057858111952&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
   <script src="js/vendor/jquery.min.js"></script>
     <script src="js/core.js"></script>
     <script src="js/app.js"></script>
