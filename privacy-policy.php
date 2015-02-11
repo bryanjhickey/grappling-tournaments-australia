@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	
+
 <?php include '_masthead.php'; ?>
 	<div class="row">
 		<div id="uniformRequirements" class="small-10 small-offset-1 text-content large-12 columns">

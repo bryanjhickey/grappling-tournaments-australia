@@ -14949,6 +14949,12 @@ section.top-bar-section {
   font-family: "Trajan W01 Regular";
   text-transform: uppercase; }
 
+@media only screen and (min-width:40.063em) {
+  nav.top-bar {
+    text-align: center; }
+  section.top-bar-section {
+    display: inline-block; } }
+
 .masthead {
   padding: 2.5rem 0; }
 

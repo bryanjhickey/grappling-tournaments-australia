@@ -4,7 +4,7 @@
 
 </head>
 <body>
-  
+
 <?php include '_masthead.php'; ?>
 
 <div class="row content-section">

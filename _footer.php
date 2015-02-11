@@ -1,6 +1,6 @@
 <footer>
 		<div class="row">
-			<div id="takedown" class="small-12 medium-10 medium-centered columns"><img src="assets/img/footer.png" alt=""></div>
+			<div id="takedown" class="small-12 medium-10 medium-centered columns"><img src="/assets/img/footer.png" alt=""></div>
 		</div>
 
 		<div class="row">
@@ -24,9 +24,9 @@
 				<div class="inline" id="footerAddress">555 Victoria Street, Abbotsford, VIC. 3121</div>
 			</div>
 			<div  id="rightFooter" class="small-12 medium-5 columns">
-				<div class="inline home-link"><a href="index.php">Home</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-				<div class="inline privacy-link"><a href="privacy-policy.php">Privacy Policy</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-				<div class="inline site-credits"><a href="site-credits.php">Site Credits</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline home-link"><a href="/">Home</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline privacy-link"><a href="/privacy-policy">Privacy Policy</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline site-credits"><a href="/site-credits">Site Credits</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline copyright-notice">&copy; 2013 GTA</div>
 			</div>
 		</div>
@@ -49,12 +49,8 @@
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=786057858111952&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-  <script src="js/vendor/jquery.min.js"></script>
-    <script src="js/core.js"></script>
-    <script src="js/app.js"></script>
+  <script src="/js/vendor/jquery.min.js"></script>
+    <script src="/js/core.js"></script>
+    <script src="/js/app.js"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.min.js"></script>
     <script type="text/javascript" src="//use.typekit.net/unu0twr.js"></script>
-<!--    <script type="text/javascript">try{Typekit.load();}catch(e){}</script> -->
-  <script>
-  $(document).foundation();
-  </script>

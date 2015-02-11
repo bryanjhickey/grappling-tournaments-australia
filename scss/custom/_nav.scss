@@ -13,7 +13,14 @@ section.top-bar-section {
 	font-family:"Trajan W01 Regular";
 	text-transform: uppercase;
 }
-
+@media #{$medium-up} {
+	nav.top-bar {
+	text-align:center;
+	}
+	section.top-bar-section {
+	display: inline-block;
+	}
+}
 .masthead {
 	padding: rem-calc(40) 0;
 }
