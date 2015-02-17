@@ -31,6 +31,7 @@
 				<div class="row">
 					<div class="panel panel-timer small-11 small-centered medium-10 large-8 columns">
 					<h4 class="hide-for-small">State Netball &amp; Hockey Centre<br>Sat 21st Feb 2015</h4>
+							<p>&nbsp;</p>
 					<a href="http://www.strongvon.com/aujiujitsuchamps2015/" class="button medium radius show-for-small ">REGISTER NOW</a>
 					<h3>Prepare for Victory</h3>
 						<div class="row">
@@ -38,8 +39,13 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
+							<p>&nbsp;</p>
+							<h5>REGISTRATIONS CLOSE 2PM THURSDAY.</h5>
+							<br />
+							<h5><a href="http://www.strongvon.com/aujiujitsuchamps2015/" class="button medium radius">REGISTER NOW</a></h5>
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>
