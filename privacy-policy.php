@@ -1,13 +1,14 @@
 <?php include '_dochead.php'; ?>
 
-<title>Site Credits | Grappling Tournaments Australia</title>
+<title>Privacy Policy | Grappling Tournaments Australia</title>
 
 </head>
 <body>
 
 <?php include '_masthead.php'; ?>
 	<div class="row">
-		<div id="uniformRequirements" class="small-10 small-offset-1 text-content large-12 columns">
+		<div  class="content-section small-12 columns">
+		<h2>Privacy Policy</h2>
 			<p>At Grapppling Tournaments Australia (GTA), we collect and manage user data according to the following Privacy Policy. This document is part of GTA's Terms of Service, and by using grapplingtournaments.com.au (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.</p>
 <h3>Data Collected</h3>
 <p>We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.</p>
