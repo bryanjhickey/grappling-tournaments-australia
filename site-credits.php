@@ -4,10 +4,10 @@
 
 </head>
 <body>
-	
+
 <?php include '_masthead.php'; ?>
 	<div class="row">
-		<div id="uniformRequirements" class="small-10 small-offset-1 text-content large-12 columns">
+		<div  class="content-section small-12 columns">
 			<h2>Site Credits</h2>
 			<p>The Grappling Tournaments Australia website was built for the benefit of the grappling community in Australia. We believe in our sport and think that it's competitors should be respected. We aim to do this by giving you the information you need in an accessible format.</p>
 			<p>Grappling Tournaments Australia would not happen without the generous support of those who donate their time and talents to bring you the best competitions in the country. In particular we would like to thank David Hart, Cam Rowe, and Jess Fraser</p>
