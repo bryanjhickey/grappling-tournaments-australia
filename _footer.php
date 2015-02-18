@@ -25,8 +25,8 @@
 			</div>
 			<div  id="rightFooter" class="small-12 medium-5 columns">
 				<div class="inline home-link"><a href="/">Home</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-				<div class="inline privacy-link"><a href="/privacy-policy">Privacy Policy</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-				<div class="inline site-credits"><a href="/site-credits">Site Credits</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline privacy-link"><a href="/privacy-policy.php">Privacy Policy</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+				<div class="inline site-credits"><a href="/site-credits.php">Site Credits</a></div><span class="footer-divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 				<div class="inline copyright-notice">&copy; 2013 GTA</div>
 			</div>
 		</div>
