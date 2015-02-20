@@ -40,9 +40,9 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerminutes" class="timebox">58 MIN</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div>
 							<p>&nbsp;</p>
-							<h5>REGISTRATIONS CLOSE AT MIDNIGHT TONIGHT.</h5>
+							<h5>BRACKETS HAVE BEEN DRAWN</h5>
 							<br />
-							<h5><a href="http://www.strongvon.com/aujiujitsuchamps2015/" class="button medium radius">REGISTER NOW</a></h5>
+							<h5><a href="http://www.strongvon.com/aujiujitsuchamps2015/m_results5.jsp?id=1862" target="_blank" class="button medium radius">VIEW BRACKETS NOW</a></h5>
 						</div>
 					</div>
 
