@@ -41,7 +41,7 @@
 							<div class="large-3 small-3 columns"><h4><span id="timerseconds" class="timebox">58 SEC</span></h4></div> -->
 							<h5>BRACKETS HAVE BEEN DRAWN</h5>
 							<br />
-							<h5><a href="http://www.strongvon.com/aujiujitsuchamps2015/m_results5.jsp?id=1862" target="_blank" class="button medium radius">VIEW BRACKETS</a>&nbsp;<a href="/assets/uploads/RUNNIG-SHEET.pdf" class="button medium radius" download>VIEW RUNNING SHEET</a></h5>
+							<h5><a href="http://www.strongvon.com/aujiujitsuchamps2015/m_results5.jsp?id=1862" target="_blank" class="button medium radius">VIEW BRACKETS</a>&nbsp;<a href="/assets/uploads/RUNNIG-SHEET.png" class="button medium radius" download>VIEW RUNNING SHEET</a></h5>
 						</div>
 					</div>
 
