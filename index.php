@@ -33,7 +33,7 @@
 					<!-- <h4 class="hide-for-small">State Netball &amp; Hockey Centre<br>Sat 21st Feb 2015</h4>
 					<p>&nbsp;</p> -->
 					<!-- <a href="http://www.strongvon.com/aujiujitsuchamps2015/" class="button medium radius show-for-small ">REGISTER NOW</a> -->
-					<h3>Prepare for Victory</h3>
+					<h3>Victory loves preparation</h3>
 						<div class="row">
 							<!-- <div class="large-3 small-3 columns"><h4><span id="timerdays" class="timebox">45 DAYS</span></h4></div>
 							<div class="large-3 small-3 columns"><h4><span id="timerhours" class="timebox">01 HRS</span></h4></div>
